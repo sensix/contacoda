@@ -55,14 +55,14 @@
       <!-- <div class="overlay"></div> -->
       <div class="container">
         <div class="row">
-          <div class="col-lg-7 order-lg-2">
-            <h1 class="mb-5"><img src="img/contacoda.svg" alt="ContaCoda"></h1>
-            <h2>Niente file, più clienti!</h2>
-            <p>Con l’APP Conta la coda: eviti le file e attiri i clienti con Sconta la coda!</p>
-            <a href="#cosa" class="btn btn-lg btn-primary">Scopri di più</a>
+          <div class="col-lg-6 order-lg-2 text-white text-center">
+            <h1 class="mb-1"><img class="img-fluid w-100" src="img/contacoda.svg" alt="ContaCoda"></h1>
+            <h2 class="mb-2 p-1">Niente file, più clienti!</h2>
+            <p class="mt2 mb-5 p-1"><strong>Con l’APP Conta la coda: eviti le file<br> e attiri i clienti con Sconta la coda!</strong></p>
+            <a href="#cosa" class="btn btn-lg btn-primary rounded-0 px-5 py-3">Scopri di più</a>
           </div>
           <div class="col-lg-5 order-lg-1 my-auto">
-            ing
+            <img class="img-fluid" src="img/fruttarolo.svg"> 
           </div>
         </div>
       </div>
@@ -72,11 +72,18 @@
     <section class="showcase">
       <div class="container-fluid p-0">
         <div class="row no-gutters" id="cosa">
-          <div class="col-lg-5 order-lg-2 text-white showcase-img" style="background:#eee;">
-            img
+          <div class="col-lg-5 order-lg-2 showcase-device">
+            <div class="device" data-toggle="tooltip" data-placement="top" title="Schermata con mappa e tag">
+              <img class="img-fluid" src="img/img-mappa.jpg" alt="schermata con mappa e tag">
+            </div>
+            <div class="screens">
+              <img class="img-fluid screen" src="img/img-screenshot01.jpg" alt="schermata APP" data-toggle="tooltip" data-placement="top" title="Seleziona il negozio...">
+              <img class="img-fluid screen" src="img/img-screenshot02.jpg" alt="schermata APP" data-toggle="tooltip" data-placement="top" title="...controlla gli slot liberi...">
+              <img class="img-fluid screen" src="img/img-screenshot03.jpg" alt="schermata APP" data-toggle="tooltip" data-placement="top" title="...e scegli la prenotazione!">
+            </div>
           </div>
           <div class="col-lg-7 order-lg-1 my-auto showcase-text">
-            <h2>Che cos'è?</h2>
+            <h2>Cos'è</h2>
             <p>
               Le nuove regole sul <strong>distanziamento sociale</strong> creano file e attese snervanti davanti ai negozi.
             </p>
@@ -96,9 +103,9 @@
           </div>
         </div>
         <div class="row no-gutters" id="come">
-          <div class="col-lg-5 showcase-text" style="background:#eee;">
+          <div class="col-lg-5 showcase-device">
             <div class="card art-legge my-auto">
-              <div class="card-body">
+              <div class="card-body m-4">
                 <p>
                   L’Art. 1 del DPCM 9 marzo 2020 (Ulteriori disposizioni attuative del decreto-legge 23 febbraio 2020, n. 6, recante misure urgenti in materia di contenimento e gestione dell’emergenza epidemiologica da COVID-19, applicabili sull’intero territorio nazionale.)chiarisce che:
                 </p>
@@ -133,7 +140,7 @@
       </div>
     </section>
     
-    <section>
+    <section class="claim">
       <div class="container">
         <div class="row text-center py-5">
           <div class="col-lg-12 my-auto">
@@ -144,15 +151,18 @@
     </section>
   
     <!-- Vantaggi -->
-    <section class="scheda-vantaggi bg-light" id="vant">
+    <section class="scheda-vantaggi" id="vant">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
             <h2 class="my-5">I Vantaggi</h2>
           </div>
         </div>
-        <div class="row row justify-content-around">
-          <div class="col-lg-4 showcase-text">
+        <div class="row row justify-content-center">
+          <div class="col-md-1">
+            <img class="img-fluid h-100" src="img/figura.svg">
+          </div>
+          <div class="col-md-4 showcase-text">
             <div class="testimonial-item mb-5">
               <h3>Per il cliente:</h3>
               <ul>
@@ -173,6 +183,9 @@
               </ul>
             </div>
           </div>
+          <div class="col-md-1">
+            <img class="img-fluid h-100" src="img/figura.svg">
+          </div>
         </div>
       </div>
     </section>
@@ -184,12 +197,12 @@
           <div class="col-xl-12">
             <h2 class="my-5">FAQ - Domande frequenti</h2>
             <!-- blocco FAQ -->
-            <div class="accordion" id="accordion">
+            <div class="accordion mb-5" id="accordion">
             
-              <div class="card">
+              <!--<div class="card">
                 <div class="card-header" id="faq01">
                     <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#risp01" aria-expanded="true" aria-controls="collapseOne">
-                      Quali tipi di negozi possono
+                      Quali tipi di negozi possono aderire?
                     </button>
                 </div>
                 <div id="risp01" class="collapse" aria-labelledby="faq01">
@@ -197,7 +210,7 @@
                     risposta 1
                   </div>
                 </div>
-              </div>
+              </div>-->
               
               <div class="card">
                 <div class="card-header" id="faq02">
@@ -209,6 +222,7 @@
                   <div class="card-body">
                     <p>L’App è gratuita e disponibile sia nella versione Android che APPLE. </p>
                     <p>Inoltre, avrai un link da inviare ai tuoi contatti per far conoscere l’opportunità di prenotare la visita in negozio, ti forniremo anche del materiale pubblicitario con l’indicazione di scaricare Contacoda.</p>
+                    [loghi android e apple?]                  
                   </div>
                 </div>
               </div>
@@ -222,6 +236,8 @@
                 <div id="risp03" class="collapse" aria-labelledby="faq03">
                   <div class="card-body">
                     <p>L’APP permette di visualizzare sulla mappa della città i negozi aderenti. Clicca sulla scheda del negozio e sceglie l’orario dell’appuntamento. In più, sulla scheda del negozio, possono essere caricate una serie di informazioni utili sul negozio.</p>
+                    [possiamo ripetere l'illustrazione delle schermate con didascalia]
+                  
                   </div>
                 </div>
               </div>
@@ -229,15 +245,13 @@
               <div class="card">
                 <div class="card-header" id="faq04">
                     <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#risp04" aria-expanded="true" aria-controls="collapseOne">
-                      Come ricevo la prenotazione e come riconosco il cliente che ha prenotato?
+                      Che tipo di tecnologia usa? Cos'è un Beacon?
                     </button>
                 </div>
                 <div id="risp04" class="collapse" aria-labelledby="faq04">
                   <div class="card-body">
-                    <p>In negozio dovrai installare un BEACON, un trasmettitore radio a bassa potenza che grazie alla tecnologia Bluetooth monitora la presenza di dispositivi mobili con cui è grado di dialogare, in pratica inviare dei messaggi, attraverso un APP specifica.</p>
-                    <p>Appena entra in negozio il cliente prenotato il Beacon emette un segnale.</p>
-                    <p>Se l’utente ha deciso di rimanere anonimo e non condividere i propri dati, vedrai soltanto il codice alfanumerio associato allo slot di tempo prenotato.</p>
-                    <p>Se, invece, l’utente ha deciso di lasciare i propri dati, non sarai solo in grado di riconoscerlo, ma potrai anche inviare messaggi relativi ad offerte in negozio, schede tecniche e altro materiale che può essere utile per concludere un acquisto.</p>
+                    <p class="float-left">In negozio dovrai installare un BEACON, un trasmettitore radio a bassa potenza che grazie alla tecnologia Bluetooth monitora la presenza di dispositivi mobili con cui è grado di dialogare, in pratica inviare dei messaggi, attraverso un APP specifica.</p>
+                    <p class="float-right"><img src="img/beacon.svg" class="float-right"></p>
                   </div>
                 </div>
               </div>
@@ -245,10 +259,27 @@
               <div class="card">
                 <div class="card-header" id="faq05">
                     <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#risp05" aria-expanded="true" aria-controls="collapseOne">
-                      Quando finirà l’emergenza imposta dall’emergenza sanitaria, come posso riutilizzare il BEACON?
+                      Come ricevo la prenotazione e come riconosco il cliente che ha prenotato?
                     </button>
                 </div>
                 <div id="risp05" class="collapse" aria-labelledby="faq05">
+                  <div class="card-body">
+                   <p>Appena entra in negozio il cliente prenotato il Beacon emette un segnale.</p>
+                    <p>Se l’utente ha deciso di rimanere anonimo e non condividere i propri dati, vedrai soltanto il codice alfanumerio associato allo slot di tempo prenotato.</p>
+                    <p>Se, invece, l’utente ha deciso di lasciare i propri dati, non sarai solo in grado di riconoscerlo, ma potrai anche inviare messaggi relativi ad offerte in negozio, schede tecniche e altro materiale che può essere utile per concludere un acquisto.</p>
+                    [img stilizzata di mano che regge telefono, con un numero]
+                  
+                  </div>
+                </div>
+              </div>
+              
+              <div class="card">
+                <div class="card-header" id="faq06">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#risp06" aria-expanded="true" aria-controls="collapseOne">
+                      Quando finirà l’emergenza imposta dall’emergenza sanitaria, come posso riutilizzare il BEACON?
+                    </button>
+                </div>
+                <div id="risp06" class="collapse" aria-labelledby="faq06">
                   <div class="card-body">
                     <p>Il BEACON è uno strumento utilizzato nel marketing di prossimità (è attivo fino ad una distanza di 50 metri) e in America è già molto utilizzato in tantissimi negozi. </p>
                     <p>Quando il cliente entra nel negozio può ricevere una notifica relativa alle novità, alle promozioni o altri messaggi che il negoziante vuole veicolare.</p>
@@ -257,12 +288,12 @@
               </div>
               
               <div class="card">
-                <div class="card-header" id="faq06">
-                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#risp06" aria-expanded="true" aria-controls="collapseOne">
+                <div class="card-header" id="faq07">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#risp07" aria-expanded="true" aria-controls="collapseOne">
                       Cos’è la funzionalità Scontacoda?
                     </button>
                 </div>
-                <div id="risp06" class="collapse" aria-labelledby="faq06">
+                <div id="risp07" class="collapse" aria-labelledby="faq07">
                   <div class="card-body">
                     <p>Scontaconda è un’opzione che puoi attivare sulla scheda del negozio per incoraggiare gli utenti a scegliere degli orari in cui in generale c’è meno flusso o se magari vuoi attivare delle promozioni speciali per uno o più giorni. </p>
                     <p>Se l’utente non è identificato, quindi utilizza l’App in modalità anonima, visualizzerà le tue offerte sulla scheda.</p>
@@ -272,12 +303,12 @@
               </div>
               
               <div class="card">
-                <div class="card-header" id="faq07">
-                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#risp07" aria-expanded="true" aria-controls="collapseOne">
+                <div class="card-header" id="faq08">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#risp08" aria-expanded="true" aria-controls="collapseOne">
                       Quanto costa Contacoda?
                     </button>
                 </div>
-                <div id="risp07" class="collapse" aria-labelledby="faq07">
+                <div id="risp08" class="collapse" aria-labelledby="faq08">
                   <div class="card-body">
                     <p>Contacoda ha un costo di base che comprende un Beacon in dotazione, la scheda del negozio e l’inserimento nella mappa. Un costo relativo all’abbonamento mensile, per cui puoi decidere quanto tempo utilizzarlo. </p>
                   </div>
@@ -293,7 +324,7 @@
     </section>
     
     <!-- claim -->
-    <section class="page-section" id="cont">
+    <section class="claim" >
        <div class="container">
         <div class="row text-center">
           <div class="col-lg-12 my-5">
@@ -305,7 +336,7 @@
     </section>
     
     <!-- area contatti-->
-    <section class="page-section  bg-light" id="contact">
+    <section class="page-section contact" id="cont">
       <div class="container">
         <div class="row">
           <div class="col-12 py-5">
@@ -313,7 +344,7 @@
              <h3>Voglio ricevere maggiori informazioni!</h3>
           </div>
          </div>
-          <form id="contactForm" name="sentMessage" novalidate="novalidate">
+          <form id="contactForm" class="contact-box pt-5 pr-5 pb-1 pl-5" name="sentMessage" novalidate="novalidate">
             <div class="row align-items-stretch mb-2">
               <div class="col-md-6">
                 <div class="form-group">
@@ -339,7 +370,7 @@
           <div class="row text-center pb-5">
             <div class="col-md-12">
               <div id="success"></div>
-              <button class="btn btn-primary btn-xl text-uppercase" id="sendMessageButton" type="submit">Invia!</button>
+              <button class="btn btn-primary btn-xl rounded-0 px-5 py-3 text-uppercase" id="sendMessageButton" type="submit">Invia!</button>
             </div>
           </div>
         </form>
@@ -354,9 +385,9 @@
   <footer class="footer">
     <div class="container">
       <div class="row">
-        <div class="col-lg-6 h-100 text-center text-lg-left my-auto">
-          <a href="#" class="small">Privacy Policy</a>
-          <span class="text-muted small">&copy; Bitapp 2020.</span>
+        <div class="col-lg-12 h-100 text-center text-lg-left my-auto">
+          <a href="#" class="small">Privacy Policy</a> - <a href="#" class="small">Cookies Policy</a> 
+          <span class="text-muted small">&copy; Bitapp 2020 - Powered by Beacon technology. P.IVA 03269751206</span> 
         </div>
       </div>
     </div>

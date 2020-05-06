@@ -5,11 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   id="svg3894"
-   version="1.1"
-   viewBox="0 0 132.29167 18.688339"
+   width="132.29167mm"
    height="18.688339mm"
-   width="132.29167mm">
+   viewBox="0 0 132.29167 18.688339"
+   version="1.1"
+   id="svg3894">
   <defs
      id="defs3888" />
   <metadata
@@ -25,19 +25,20 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-51.656385,-38.341443)"
-     id="layer1">
+     style="fill:#617e13;fill-opacity:1"
+     id="layer1"
+     transform="translate(-51.656385,-38.341443)">
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.02801323px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:-23.33139038px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="50.873432"
+       id="text2595"
        y="56.70739"
-       id="text2595"><tspan
-         dy="0 -1.3705293 0 0 0 1.3705293 -1.2791606"
-         dx="0 -0.62202507 0 0 0 0 -0.93303758"
-         id="tspan2593"
-         x="50.873432"
+       x="50.873432"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.02801323px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:-23.33139038px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#617e13;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Montserrat ExtraBold';-inkscape-font-specification:'Montserrat ExtraBold, Bold';word-spacing:0px;fill:#617e13;fill-opacity:1;stroke-width:0.26458332"
          y="56.70739"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Montserrat ExtraBold';-inkscape-font-specification:'Montserrat ExtraBold, Bold';word-spacing:0px;fill:#000000;fill-opacity:1;stroke-width:0.26458332">ContaCoda</tspan></text>
+         x="50.873432"
+         id="tspan2593"
+         dx="0 -0.62202507 0 0 0 0 -0.93303758"
+         dy="0 -1.3705293 0 0 0 1.3705293 -1.2791606">ContaCoda</tspan></text>
   </g>
 </svg>
