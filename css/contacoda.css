@@ -75,6 +75,16 @@ section h2 {
   font-size: 3rem;
 }
 
+/* override tooltip */
+
+.tooltip-inner {
+  background: #fff;
+  border: 2px solid #000;
+  color: #000;
+  font-size: 1.3rem;
+  box-shadow: 0 5px 10px 0 rgba(1, 1, 1, 0.3);
+}
+
 /* elementi: testata */
 
 header.masthead {
@@ -92,6 +102,10 @@ header.masthead {
 
 .masthead p {
   background-color: #95c11d;
+}
+
+.img-header {
+  transform: scale(1.8)
 }
 
 /*header.masthead .overlay {
@@ -164,12 +178,25 @@ img.screen {
   color: #533f29;
   margin-left: 3rem;
   margin-right: 3rem;
-  transform: rotate(-8deg) ;
+  transform: rotate(-8deg);
   box-shadow: 0 5px 10px 0 rgba(1,1,1,0.3);
 }
 
 .showcase .showcase-device {
   padding: 3rem;
+}
+
+.accordion .card img.spiega {
+  width: 60%;
+  border: 1px solid #000;
+  transition: all 350ms ease-in;
+}
+
+.accordion .card img.spiega:hover {
+  width: 60%;
+  border: 1px solid #000;
+  transform: scale(1.2);
+  transition: all 350ms ease-out;
 }
 
 section.claim {
