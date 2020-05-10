@@ -1,8 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
-
-
-
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700;900&display=swap');
 
 body {
   font-style: normal;
@@ -20,35 +16,35 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -83,10 +79,11 @@ body {
 }
 /* Buttons */
 .btn {
-  font-weight: 500;
+  font-weight: 700 !important;
   border-width: 2px;
   font-style: normal;
   letter-spacing: 1px;
+  text-transform: uppercase;
   margin: .4rem .8rem;
   white-space: normal;
   -webkit-transition: all 0.3s ease-in-out;
@@ -154,8 +151,8 @@ body {
 .btn-primary:focus,
 .btn-primary.focus {
   color: #ffffff;
-  background-color: #0d6786;
-  border-color: #0d6786;
+  background-color: #A6306B;
+  border-color: #ff3699;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
@@ -206,15 +203,15 @@ body {
 .btn-success,
 .btn-success:active,
 .btn-success.active {
-  background-color: #ff68b2;
-  border-color: #ff68b2;
+  background-color: #ff3699;
+  border-color: #ff3699;
   color: #ffffff;
 }
 .btn-success:hover,
 .btn-success:focus,
 .btn-success.focus {
   color: #ffffff;
-  background-color: #ff3699;
+  background-color: #A6306B;
   border-color: #ff3699;
 }
 .btn-success.disabled,
@@ -510,7 +507,7 @@ a.text-danger:focus {
 }
 a.text-white:hover,
 a.text-white:focus {
-  color: #b3b3b3 !important;
+  color: #ff3699 !important;
 }
 a.text-black:hover,
 a.text-black:focus {
@@ -571,7 +568,7 @@ a:hover {
   opacity: 0 !important;
 }
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=Montserrat] {
   font-style: normal;
 }
 .mbr-arrow a {
@@ -609,7 +606,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -6442,7 +6439,8 @@ body {
 .cid-qvbDb4FUUq {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/iphone-6-458150-1920-1920x1285.jpg");
+  background-image: none;
+  background-color: #8C3FC2;
 }
 @media (min-width: 992px) {
   .cid-qvbDb4FUUq .mbr-figure {
@@ -7067,6 +7065,14 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #ff3699;
+}
+.cid-qvbYWoTxnu a {
+  color: #fff;
+  font-weight: 700;
+}
+.cid-qvbYWoTxnu a:hover,
+.cid-qvbYWoTxnu a:focus {
+  text-decoration: underline;
 }
 .cid-qv1frvgcz3 .navbar {
   padding: .5rem 0;
@@ -18545,8 +18551,6 @@ body {
   color: #ffffff;
 }
 .cid-qvgUkFlKcX {
-  padding-top: 90px;
-  padding-bottom: 90px;
   background-color: #f9f9f9;
 }
 .cid-qvgUkFlKcX h2 {
@@ -18602,7 +18606,6 @@ body {
   }
 }
 .cid-qvgUlaAMB9 {
-  padding-top: 90px;
   padding-bottom: 90px;
   background-color: #f9f9f9;
 }
@@ -29913,6 +29916,7 @@ body {
 .cid-qv1frvgcz3 .nav-item a {
   padding: 0.7rem 0 !important;
   margin: 0rem .65rem !important;
+  font-weight: 700;
 }
 .cid-qv1frvgcz3 .btn {
   padding: 0.4rem 1.5rem;
