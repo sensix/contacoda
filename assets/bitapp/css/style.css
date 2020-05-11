@@ -6379,7 +6379,7 @@ body {
   }
 }
 .cid-qvbBiSB13z .carousel-item {
-  text-shadow: 0 0 5px rgba(0,0,0,0.5);
+  text-shadow: 0 0 4px rgba(0,0,0,1);
 }
 .cid-qvbBiSB13z .mbr-slider .mbr-section {
   padding: 0;
@@ -15641,6 +15641,14 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/zheng-41190-2000x1333.jpg");
 }
+
+.proximity {
+  padding-top: 190px;
+  padding-bottom: 190px;
+  background-image: url("../../../assets/img/marketing.jpg");
+}
+
+
 .cid-qvcHpLZoBu P {
   text-align: left;
 }
