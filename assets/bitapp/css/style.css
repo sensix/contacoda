@@ -38,7 +38,7 @@ body {
 }
 .display-5 {
   font-family: 'Lato', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.4rem;
@@ -6321,15 +6321,15 @@ body {
   height: 15px;
   max-height: 15px;
   margin: 3px;
-  background-color: rgba(0, 0, 0, 0.5);
-  border: 2px solid #fff;
+  background-color: rgba(255, 54, 153, 0.9);
+  border: 3px solid #fff;
   border-radius: 50%;
-  opacity: .5;
+  opacity: .4;
   transition: all .3s;
 }
 .cid-qvbBiSB13z .mbr-slider .carousel-indicators li.active,
 .cid-qvbBiSB13z .mbr-slider .carousel-indicators li:hover {
-  opacity: .9;
+  opacity: 1;
 }
 .cid-qvbBiSB13z .mbr-slider .carousel-indicators li::after,
 .cid-qvbBiSB13z .mbr-slider .carousel-indicators li::before {
