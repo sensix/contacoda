@@ -623,7 +623,7 @@ a:hover {
   border-color: red;
 }
 .mbr-overlay {
-  background-color: #000;
+  background-color: rgb(161, 83, 191);
   bottom: 0;
   left: 0;
   opacity: .5;
@@ -6239,6 +6239,9 @@ body {
   align-items: center;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
+}
+.cid-qvbBiSB13z .carousel-caption h2 {
+  font-weight: bold;
 }
 .cid-qvbBiSB13z .mbr-overlay {
   z-index: 1;
@@ -18552,6 +18555,7 @@ body {
 }
 .cid-qvgUkFlKcX {
   background-color: #f9f9f9;
+  padding-top: 90px;
 }
 .cid-qvgUkFlKcX h2 {
   text-align: left;
