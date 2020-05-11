@@ -15643,13 +15643,13 @@ body {
 }
 
 .proximity {
-  padding-top: 190px;
-  padding-bottom: 190px;
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/img/marketing.jpg");
 }
 
 
-.cid-qvcHpLZoBu P {
+/*.cid-qvcHpLZoBu P {
   text-align: left;
 }
 .cid-qvcHpLZoBu H3 {
@@ -15660,7 +15660,7 @@ body {
 }
 .cid-qvcHpLZoBu H2 {
   text-align: left;
-}
+}*/
 .cid-qvb9OnTtqh {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -18908,6 +18908,7 @@ body {
 }
 .cid-qvgUpfQqCZ .card .panel-body {
   color: #767676;
+  font-weight:bold;
 }
 .cid-qvgUpA0496 {
   padding-top: 60px;
