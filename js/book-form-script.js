@@ -16,6 +16,7 @@ function submitBookForm() {
     var jsonBody = {
         body: {
             email: $('#email').val(),
+            phone: $('#phone').val(),
             message: $('#message').val(),
             plan: $('#plan').val(),
             activity: $('#category').val(),
