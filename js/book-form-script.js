@@ -13,13 +13,12 @@ $("#bookForm").validator().on("submit", function (event) {
 });
 
 function submitBookForm() {
-    var message = 'Attività: ' + $('#category').val() + '\n' +
-        'Piano: ' + $('#plan').val() + '\n' +
-        $('#message').val()
     var jsonBody = {
         body: {
             email: $('#email').val(),
-            message: message,
+            message: $('#message').val(),
+            plan: $('#plan').val(),
+            activity: $('#category').val(),
             name: $('#name').val()
         },
         timestamp: parseInt($.now() / 1000),
