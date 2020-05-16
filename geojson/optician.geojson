@@ -1,0 +1,782 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-16T09:59:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704624036",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Porto",
+        "addr:housenumber": "14",
+        "addr:postcode": "40131",
+        "addr:street": "Via Aurelio Saffi",
+        "contact:phone": "+39 051 520400",
+        "delivery:covid19": "yes",
+        "name": "Ottica L'occhiale",
+        "shop": "optician",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3246637,
+          44.5000143
+        ]
+      },
+      "id": "node/1704624036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2957131491",
+        "email": "info@savenotticaplus.com",
+        "name": "Savenotticaplus S.r.l",
+        "opening_hours": "Mo 15:30-19:00, Tu-Sa 08:30-12:30, 15:30-19:00",
+        "phone": "+39 051 451173",
+        "shop": "optician",
+        "website": "http://www.savenotticaplus.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3915318,
+          44.474041
+        ]
+      },
+      "id": "node/2957131491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3614775094",
+        "addr:city": "Bologna",
+        "addr:housenumber": "112c",
+        "addr:postcode": "40127",
+        "addr:street": "Via San Donato",
+        "name": "Nuova Ottica",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.371533,
+          44.5053788
+        ]
+      },
+      "id": "node/3614775094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3614799605",
+        "name": "Ottica",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.363713,
+          44.5034132
+        ]
+      },
+      "id": "node/3614799605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3615364696",
+        "addr:city": "Bologna",
+        "addr:housenumber": "17a",
+        "addr:postcode": "40138",
+        "addr:street": "Via Giuseppe Bentivogli",
+        "name": "Ottica Fantini",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3648469,
+          44.4935025
+        ]
+      },
+      "id": "node/3615364696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3615384944",
+        "name": "Ottica S. Orsola",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3657776,
+          44.4925717
+        ]
+      },
+      "id": "node/3615384944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050271326",
+        "name": "Ottica",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3431902,
+          44.4974392
+        ]
+      },
+      "id": "node/4050271326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4053522665",
+        "addr:city": "Bologna",
+        "addr:housenumber": "30",
+        "addr:postcode": "40126",
+        "addr:street": "Via Francesco Rizzoli",
+        "name": "Ottica Calzati",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3455186,
+          44.4945029
+        ]
+      },
+      "id": "node/4053522665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275242132",
+        "name": "Ottica Discount",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3416468,
+          44.4935634
+        ]
+      },
+      "id": "node/4275242132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4280334102",
+        "name": "Ottica Foto Star",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3606302,
+          44.4886829
+        ]
+      },
+      "id": "node/4280334102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460402553",
+        "addr:postcode": "40033",
+        "addr:street": "Via Aldo Moro",
+        "name": "Ottica Inn",
+        "name:it": "Ottica Inn",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2693421,
+          44.4840409
+        ]
+      },
+      "id": "node/4460402553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4496902690",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Vistasi",
+        "name:it": "Vistasi",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2488593,
+          44.4877914
+        ]
+      },
+      "id": "node/4496902690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498694492",
+        "addr:housenumber": "2/8",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Grand Vision",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2491432,
+          44.4885937
+        ]
+      },
+      "id": "node/4498694492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498705992",
+        "addr:housenumber": "2/13",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Salmoiraghi & Vigano",
+        "name:it": "Salmoiraghi & Vigano",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2483118,
+          44.4874591
+        ]
+      },
+      "id": "node/4498705992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498852692",
+        "name": "Grand Vision",
+        "name:it": "Grand Vision",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2646281,
+          44.5199903
+        ]
+      },
+      "id": "node/4498852692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523387994",
+        "addr:housenumber": "10A",
+        "addr:postcode": "40013",
+        "addr:street": "Via Pio La Torre",
+        "name": "Ottica Inn",
+        "name:it": "Ottica Inn",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3574956,
+          44.5684043
+        ]
+      },
+      "id": "node/4523387994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524808093",
+        "name": "Ottico Conad",
+        "name:it": "Ottico Conad",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3910224,
+          44.4976096
+        ]
+      },
+      "id": "node/4524808093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535727201",
+        "name": "GrandVision by Avanzi",
+        "name:it": "GrandVision by Avanzi",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4220613,
+          44.4904324
+        ]
+      },
+      "id": "node/4535727201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4680373408",
+        "addr:housenumber": "14",
+        "name": "Grandvision by Avanzi",
+        "name:it": "Grandvision by Avanzi",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3289167,
+          44.5146738
+        ]
+      },
+      "id": "node/4680373408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708237489",
+        "addr:street": "Via Giovanni Amendola",
+        "name": "Caporaso",
+        "name:it": "Caporaso",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3407456,
+          44.5035687
+        ]
+      },
+      "id": "node/4708237489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708340690",
+        "name": "Bardelle",
+        "name:it": "Bardelle",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3460507,
+          44.4987928
+        ]
+      },
+      "id": "node/4708340690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708346293",
+        "name": "Mir",
+        "name:it": "Mir",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3473667,
+          44.4982144
+        ]
+      },
+      "id": "node/4708346293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4732004930",
+        "name": "Macchiavelli",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3503154,
+          44.4998875
+        ]
+      },
+      "id": "node/4732004930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4762537082",
+        "addr:city": "Casalecchio di Reno",
+        "addr:housenumber": "44",
+        "addr:street": "Via Guglielmo Marconi",
+        "name": "Ottica",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277263,
+          44.4771222
+        ]
+      },
+      "id": "node/4762537082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4789467221",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3127611,
+          44.5042332
+        ]
+      },
+      "id": "node/4789467221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807307433",
+        "name": "D'azeglio",
+        "name:it": "D'azeglio",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3419879,
+          44.4923153
+        ]
+      },
+      "id": "node/4807307433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807315227",
+        "name": "Italia Independent",
+        "name:it": "Italia Independent",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3418953,
+          44.4919223
+        ]
+      },
+      "id": "node/4807315227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4810043922",
+        "addr:street": "Marco Polo",
+        "name": "Ipercoop Ottica",
+        "name:it": "Ipercoop Ottica",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.329417,
+          44.5141683
+        ]
+      },
+      "id": "node/4810043922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4810043931",
+        "addr:housenumber": "6",
+        "addr:street": "Marco Polo",
+        "name": "Nau",
+        "name:it": "Nau",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3288439,
+          44.5142109
+        ]
+      },
+      "id": "node/4810043931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5006211830",
+        "addr:housenumber": "2/c",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Archiginnasio",
+        "internet_access": "wlan",
+        "name": "Ottica Avrone",
+        "name:en": "Optician Shop Avrone",
+        "name:it": "Ottica Avrone dal 1906",
+        "opening_hours": "Th; Mo-We, Fr-Sa 09:00-13:00",
+        "phone": "+39 051221421",
+        "shop": "optician",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3436474,
+          44.4929654
+        ]
+      },
+      "id": "node/5006211830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5226760630",
+        "contact:phone": "+39 051 391061",
+        "contact:whatsapp": "+39 331 5372060",
+        "delivery:covid19": "yes",
+        "email": "mcr.it@libero.it",
+        "name": "MCR in Ottica",
+        "shop": "optician",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3561914,
+          44.4903754
+        ]
+      },
+      "id": "node/5226760630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5364192862",
+        "name": "Ottica Viggi",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3644164,
+          44.4792647
+        ]
+      },
+      "id": "node/5364192862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5493297261",
+        "name": "Grand Vision",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3494051,
+          44.4931008
+        ]
+      },
+      "id": "node/5493297261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5497701872",
+        "name": "Nau",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3441653,
+          44.4939889
+        ]
+      },
+      "id": "node/5497701872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5497710064",
+        "name": "Photo+Optical",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3452047,
+          44.4941176
+        ]
+      },
+      "id": "node/5497710064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501264776",
+        "name": "Ottica Giulietti e Guerra",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3461031,
+          44.4929974
+        ]
+      },
+      "id": "node/5501264776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5598719821",
+        "name": "Grand Vision Avanzi",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3907664,
+          44.4978781
+        ]
+      },
+      "id": "node/5598719821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5951024740",
+        "name": "Reggiani Ottico",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3449656,
+          44.4924018
+        ]
+      },
+      "id": "node/5951024740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6057105588",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3358188,
+          44.4981401
+        ]
+      },
+      "id": "node/6057105588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6522699287",
+        "name": "Calzati",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2781021,
+          44.4782253
+        ]
+      },
+      "id": "node/6522699287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6924306587",
+        "addr:housenumber": "2",
+        "addr:postcode": "40012",
+        "addr:street": "Piazza Guglielmo Marconi",
+        "name": "Otticoteca",
+        "opening_hours": "Mo-We, Fr 09:00-12:30, 16:00-19:30; Th, Sa 09:00-12:30",
+        "phone": "+39 051722005",
+        "shop": "optician",
+        "website": "http://otticoteca.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2717376,
+          44.5653574
+        ]
+      },
+      "id": "node/6924306587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7205437715",
+        "name": "Ottica Lazzati",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3373836,
+          44.496223
+        ]
+      },
+      "id": "node/7205437715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7512125879",
+        "contact:mobile": "+39 389 0411150",
+        "contact:phone": "+39 051 58331",
+        "delivery:covid19": "yes",
+        "description:it": "Consegna gratuita tutta Bologna",
+        "email": "Ottica.gambini@gmail.com",
+        "name": "Ottica Gambini",
+        "shop": "optician",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.339505,
+          44.4869
+        ]
+      },
+      "id": "node/7512125879"
+    }
+  ]
+}

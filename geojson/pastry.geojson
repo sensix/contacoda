@@ -1,0 +1,371 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-16T10:00:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/508405236",
+        "name": "Pasticceria Bar Miki",
+        "opening_hours": "Tu-Sa 05:30-20:00, Su 06:30-19:30",
+        "shop": "pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3365801,
+          44.4969375
+        ]
+      },
+      "id": "node/508405236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/694455499",
+        "cost:coffee": "EUR1.1",
+        "name": "Gino Fabbri",
+        "shop": "pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3864803,
+          44.5308325
+        ]
+      },
+      "id": "node/694455499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704149714",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Navile",
+        "addr:housenumber": "74/B",
+        "addr:postcode": "40129",
+        "addr:street": "Via dell'Arcoveggio",
+        "contact:phone": "+39 051 5874859",
+        "delivery:covid19": "yes",
+        "description:it": "Ordini entro le 13, consegne fra le ore 10-15. Tel o mail; Consegna gratuita ordine minimo €20",
+        "email": "ordini@pasticceriacremaegusto.it",
+        "name": "Crema e Gusto",
+        "shop": "pastry",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.349767,
+          44.536279
+        ]
+      },
+      "id": "node/1704149714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704530845",
+        "addr:city": "Bologna",
+        "addr:district": "Santo Stefano",
+        "addr:housenumber": "1/C",
+        "addr:postcode": "40124",
+        "addr:street": "Via Marsili",
+        "amenity": "ice_cream",
+        "contact:mobile": "+39 338 9996835",
+        "delivery:covid19": "yes",
+        "description:it": "Consegna centro storico gratuita con una spesa minima di 50€; 3€ per importi inferiori Altre zone costo consegna in base alla distanza",
+        "email": "info@missbake.it",
+        "name": "Missbake",
+        "shop": "pastry",
+        "source": "ds4273",
+        "website": "http://www.missbake.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.341463,
+          44.489916
+        ]
+      },
+      "id": "node/1704530845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704843247",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Reno",
+        "addr:housenumber": "55",
+        "addr:postcode": "40133",
+        "addr:street": "Via Battindarno",
+        "amenity": "cafe",
+        "contact:phone": "+39 051 380265",
+        "delivery:covid19": "yes",
+        "description:it": "Consegna gratuita (per ordini superiori a 10 ) Dalle 8.30 alle 12",
+        "name": "Fratelli Asta",
+        "shop": "pastry",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.300634,
+          44.5047671
+        ]
+      },
+      "id": "node/1704843247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3425928561",
+        "addr:city": "Casalecchio di Reno",
+        "addr:country": "IT",
+        "addr:housenumber": "101",
+        "addr:postcode": "40033",
+        "addr:street": "Via Guglielmo Marconi",
+        "fax": "+39 051 6112385",
+        "name": "Pasticceria Dino",
+        "opening_hours": "Mo-Su 06:00-20:00; Tu 06:00-14:00",
+        "phone": "+39 051 6130381",
+        "shop": "pastry",
+        "website": "http://www.pasticceriadino.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2730075,
+          44.4719392
+        ]
+      },
+      "id": "node/3425928561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3531731574",
+        "addr:housenumber": "80",
+        "addr:street": "Via Guglielmo Marconi",
+        "name": "Pasticceria Dolce Lucia",
+        "phone": "+39 051 591002",
+        "shop": "pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.276199,
+          44.4759218
+        ]
+      },
+      "id": "node/3531731574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3646417555",
+        "addr:city": "Bologna",
+        "addr:housenumber": "4e",
+        "addr:postcode": "40125",
+        "addr:street": "Via Caprarie",
+        "name": "Impero",
+        "shop": "pastry",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3462179,
+          44.4938246
+        ]
+      },
+      "id": "node/3646417555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4319222548",
+        "contact:mobile": "+39 338 8449095",
+        "delivery:covid19": "yes",
+        "name": "Pasticceria Laganà",
+        "operator": "Laganà S.N.C.",
+        "shop": "pastry",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3536471,
+          44.4867646
+        ]
+      },
+      "id": "node/4319222548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4419437590",
+        "addr:city": "Bologna",
+        "addr:housenumber": "7",
+        "addr:postcode": "40124",
+        "addr:street": "Via Caprarie",
+        "contact:phone": "+39 051 220425",
+        "delivery:covid19": "yes",
+        "description:it": "Tutta Bologna, entro la cerchia tangenziale - Gratuita con una spesa minima di € 25",
+        "name": "Paolo Atti & Figli",
+        "name:fr": "Paolo Atti & fils",
+        "name:it": "Paolo Tati & Figli",
+        "opening_hours": "Mo-Th 10:00-19:15; Fr, Sa 10:00-19:30; Su 10:00-13:30",
+        "shop": "pastry",
+        "source": "ds4273",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3462115,
+          44.4936664
+        ]
+      },
+      "id": "node/4419437590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4530707600",
+        "name": "Dino",
+        "shop": "pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4718642,
+          44.5061098
+        ]
+      },
+      "id": "node/4530707600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5339394637",
+        "addr:city": "Castel Maggiore",
+        "addr:housenumber": "183",
+        "addr:postcode": "40013",
+        "addr:street": "Via Giacomo Matteotti",
+        "name": "Pasticceria Beverara",
+        "shop": "pastry",
+        "website": "http://www.magodelletorte.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3921971,
+          44.568044
+        ]
+      },
+      "id": "node/5339394637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5604842672",
+        "name": "Delis",
+        "shop": "pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3711642,
+          44.4688663
+        ]
+      },
+      "id": "node/5604842672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5948632376",
+        "name": "I Grifoni",
+        "shop": "pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3697334,
+          44.4855093
+        ]
+      },
+      "id": "node/5948632376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6270122559",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Santo Stefano",
+        "addr:housenumber": "23B",
+        "addr:postcode": "40124",
+        "addr:street": "Via Luigi Carlo Farini",
+        "name": "Cocò",
+        "shop": "pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3472776,
+          44.4913409
+        ]
+      },
+      "id": "node/6270122559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7156049186",
+        "shop": "pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2587319,
+          44.4812516
+        ]
+      },
+      "id": "node/7156049186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7491775375",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Savena",
+        "addr:housenumber": "3/C",
+        "addr:postcode": "40141",
+        "addr:street": "Via della Foscherara",
+        "amenity": "bar",
+        "contact:mobile": "+39 347 0188134",
+        "contact:phone": "+39 051 7165376",
+        "delivery:covid19": "yes",
+        "description:it": "Consegna gratuita - Produzione artigianale di pasticceria colombe, torte rustiche, biscotti salatini, pizze",
+        "name": "Bar Pasticceria Operà",
+        "shop": "pastry",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.373038,
+          44.468508
+        ]
+      },
+      "id": "node/7491775375"
+    }
+  ]
+}

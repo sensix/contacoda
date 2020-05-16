@@ -1,0 +1,322 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-16T09:57:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704575274",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Santo Stefano",
+        "addr:housenumber": "43",
+        "addr:postcode": "40125",
+        "addr:street": "Via Fondazza",
+        "contact:phone": "+39 051 307554",
+        "delivery:covid19": "yes",
+        "description:it": "Consegna gratuita con una spesa minima di  20. Zone Limitrofe a Via Fondazza",
+        "name": "Morandi Frutta",
+        "shop": "greengrocer",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3546649,
+          44.4888366
+        ]
+      },
+      "id": "node/1704575274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3665696251",
+        "name": "L'angolo della frutta",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.292487,
+          44.4958523
+        ]
+      },
+      "id": "node/3665696251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3666010301",
+        "addr:city": "Casalecchio di Reno",
+        "addr:housenumber": "501",
+        "addr:street": "Via Tizzano",
+        "name": "Azienda Agricola Tizzano",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2425419,
+          44.4619192
+        ]
+      },
+      "id": "node/3666010301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4119157689",
+        "addr:housenumber": "29N/O",
+        "addr:street": "Via Santo Stefano",
+        "name": "Verdura",
+        "opening_hours": "Mo-Sa 09:30-20:30",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3493497,
+          44.4907079
+        ]
+      },
+      "id": "node/4119157689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4144210251",
+        "name": "La Meridiana",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3531014,
+          44.5297262
+        ]
+      },
+      "id": "node/4144210251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275173111",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3601957,
+          44.4932802
+        ]
+      },
+      "id": "node/4275173111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275173117",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3585796,
+          44.4937585
+        ]
+      },
+      "id": "node/4275173117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4608674237",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.529208,
+          44.5371977
+        ]
+      },
+      "id": "node/4608674237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4792057034",
+        "addr:city": "Bologna",
+        "addr:housenumber": "135b",
+        "addr:street": "Via Andrea Costa",
+        "contact:mobile": "+39 324 6222826",
+        "delivery:covid19": "yes",
+        "description:it": "Consegna gratuita",
+        "name": "Ortofrutta La Regina Dell'orto",
+        "shop": "greengrocer",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3156136,
+          44.4950581
+        ]
+      },
+      "id": "node/4792057034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4793745681",
+        "addr:city": "Bologna",
+        "addr:housenumber": "95a",
+        "addr:street": "Via Saragozza",
+        "contact:phone": "+39 051 6446634",
+        "delivery:covid19": "yes",
+        "name": "Al Frutarol",
+        "shop": "greengrocer",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3270049,
+          44.4904804
+        ]
+      },
+      "id": "node/4793745681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5058070324",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3227507,
+          44.4954658
+        ]
+      },
+      "id": "node/5058070324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501217258",
+        "name": "Bardelli",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3445427,
+          44.4935729
+        ]
+      },
+      "id": "node/5501217258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6609734455",
+        "name": "Ortoba Gourmet",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4111861,
+          44.5171569
+        ]
+      },
+      "id": "node/6609734455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7473659026",
+        "contact:phone": "+39 051 6332252",
+        "delivery:covid19": "yes",
+        "description:it": "consegna zona Pilastro (min 15€) e zone limitrofe (spesa consistente)",
+        "name": "Tabaroni Cinzia Frutta&Verdura",
+        "opening_hours": "7:30-13:00",
+        "shop": "greengrocer",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.398235,
+          44.5101009
+        ]
+      },
+      "id": "node/7473659026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7489397139",
+        "contact:mobile": "+39 340 7951786",
+        "delivery:covid19": "yes",
+        "description:it": "Per ordini telefonare al numero unico 3407951786 (signora Silvia). Essendo il chiosco chiuso consegnano direttamente dalla propria azienda gratuitamente e solo per spesa superiore ai 25 euro.",
+        "name": "Frutta Silvia",
+        "shop": "greengrocer",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.320301,
+          44.499
+        ]
+      },
+      "id": "node/7489397139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7489397141",
+        "contact:mobile": "+39 348 5172383",
+        "delivery:covid19": "yes",
+        "description:it": "Per ordini telefonare al numero unico 3407951786 (signora Silvia). Essendo il chiosco chiuso consegnano direttamente dalla propria azienda gratuitamente e solo per spesa superiore ai 25 euro.",
+        "name": "Verdura Claudio",
+        "shop": "greengrocer",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3204375,
+          44.4989733
+        ]
+      },
+      "id": "node/7489397141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7489397142",
+        "contact:mobile": "+39 340 3911412",
+        "delivery:covid19": "yes",
+        "description:it": "Per ordini telefonare al numero unico 3407951786 (signora Silvia). Essendo il chiosco chiuso consegnano direttamente dalla propria azienda gratuitamente e solo per spesa superiore ai 25 euro.",
+        "name": "Frutta Secca Luca",
+        "shop": "greengrocer",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3203731,
+          44.4990364
+        ]
+      },
+      "id": "node/7489397142"
+    }
+  ]
+}

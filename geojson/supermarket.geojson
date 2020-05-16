@@ -1,0 +1,2085 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-16T10:05:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252168390",
+        "addr:city": "Bologna",
+        "addr:housenumber": "28a",
+        "addr:postcode": "40122",
+        "addr:street": "Via Guglielmo Marconi",
+        "name": "Pam",
+        "operator": "Pam",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3383924,
+          44.4991233
+        ]
+      },
+      "id": "node/252168390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440950016",
+        "addr:city": "Bologna",
+        "addr:housenumber": "3",
+        "addr:street": "Via Antonio Giuriolo",
+        "name": "Cadoro",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "phone": "+39 051 356544",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3493431,
+          44.5260436
+        ]
+      },
+      "id": "node/440950016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441946402",
+        "brand": "Ipercoop",
+        "brand:wikidata": "Q6064990",
+        "brand:wikipedia": "it:Coop Italia",
+        "name": "Ipercoop",
+        "operator": "Coop Alleanza 3.0",
+        "operator:wikidata": "Q21189584",
+        "operator:wikipedia": "it:Coop Alleanza 3.0",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3297731,
+          44.5142931
+        ]
+      },
+      "id": "node/441946402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/566627412",
+        "addr:housenumber": "5/A",
+        "addr:street": "Via dei Lamponi",
+        "description": "Coop Adriatica",
+        "name": "Coop",
+        "opening_hours": "Mo-Sa 08:30-20:00; We 08:30-14:00",
+        "phone": "+39 051 6231118",
+        "shop": "supermarket",
+        "website": "https://www.e-coop.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3700856,
+          44.4743529
+        ]
+      },
+      "id": "node/566627412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/622143635",
+        "name": "Coop",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3128726,
+          44.4937508
+        ]
+      },
+      "id": "node/622143635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/629734248",
+        "name": "il gigante",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3274125,
+          44.5187435
+        ]
+      },
+      "id": "node/629734248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/742974086",
+        "name": "Despar",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.324253,
+          44.4952508
+        ]
+      },
+      "id": "node/742974086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/753916044",
+        "name": "IN'S Mercato",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3283371,
+          44.4903211
+        ]
+      },
+      "id": "node/753916044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/763527977",
+        "name": "Carrefour Express",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3199894,
+          44.4910744
+        ]
+      },
+      "id": "node/763527977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/856465264",
+        "name": "CONAD Alimentari Lombardia S.r.l.",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3842334,
+          44.4771699
+        ]
+      },
+      "id": "node/856465264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/856465265",
+        "name": "PAM S.p.a.",
+        "opening_hours": "Mo-Sa 08:00-21:00; Th 08:00-13:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3868594,
+          44.4761987
+        ]
+      },
+      "id": "node/856465265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1350259769",
+        "addr:city": "Bologna",
+        "addr:housenumber": "24b",
+        "addr:postcode": "40126",
+        "addr:street": "Via Irnerio",
+        "name": "Meta",
+        "opening_hours": "Mo-Sa 08:30-22:00; Su 09:30-13:30, 17:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3509923,
+          44.4996659
+        ]
+      },
+      "id": "node/1350259769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1359311705",
+        "contact:phone": "+39 051 561200",
+        "delivery:covid19": "yes",
+        "name": "CONAD City via de Nicola",
+        "shop": "supermarket",
+        "source": "ds4273",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2780594,
+          44.5032272
+        ]
+      },
+      "id": "node/1359311705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1518728922",
+        "name": "Asia Mach",
+        "opening_hours": "Mo 15:00-19:00;Tu-Sa 09:10-13:00,15:00-19:00",
+        "shop": "supermarket",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3520364,
+          44.5013786
+        ]
+      },
+      "id": "node/1518728922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1537364495",
+        "addr:city": "Casalecchio di Reno",
+        "addr:housenumber": "2",
+        "addr:postcode": "40033",
+        "addr:street": "Piazza degli Etruschi",
+        "brand": "Esselunga",
+        "brand:wikidata": "Q1059636",
+        "brand:wikipedia": "en:Esselunga",
+        "name": "Esselunga",
+        "opening_hours": "Mo-Sa 07:30-22:00; Su, PH 09:00-20:00",
+        "operator": "Esselunga",
+        "payment:bancomat": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+39 051 6132544",
+        "shop": "supermarket",
+        "website": "https://www.esselunga.it/cms/negozi/ricerca-negozi.ENO.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2701919,
+          44.4836454
+        ]
+      },
+      "id": "node/1537364495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1576821099",
+        "brand": "Ipercoop",
+        "brand:wikidata": "Q6064990",
+        "brand:wikipedia": "it:Coop Italia",
+        "name": "Ipercoop",
+        "name:it": "Iper Borgo",
+        "opening_hours": "Mo-Sa 08:30-21:00",
+        "operator": "Coop Alleanza 3.0",
+        "operator:wikidata": "Q21189584",
+        "operator:wikipedia": "it:Coop Alleanza 3.0",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2649721,
+          44.5200156
+        ]
+      },
+      "id": "node/1576821099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1630490645",
+        "addr:city": "Bologna",
+        "addr:housenumber": "87",
+        "addr:postcode": "40127",
+        "addr:street": "Via San Donato",
+        "name": "Coop San Donato",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3716594,
+          44.5050054
+        ]
+      },
+      "id": "node/1630490645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704171435",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "San Donato",
+        "addr:housenumber": "18",
+        "addr:postcode": "40127",
+        "addr:street": "Via Luigi Pirandello",
+        "contact:phone": "+39 051 501127",
+        "delivery:covid19": "yes",
+        "name": "CONAD CITY via Pirandello",
+        "shop": "supermarket",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3903868,
+          44.5121627
+        ]
+      },
+      "id": "node/1704171435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704356059",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Savena",
+        "addr:housenumber": "23",
+        "addr:postcode": "40141",
+        "addr:street": "Via Amilcare Ponchielli",
+        "name": "Coop S.Ruffillo",
+        "shop": "supermarket",
+        "source": "Comune di Bologna",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3748794,
+          44.4647277
+        ]
+      },
+      "id": "node/1704356059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704555192",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Santo Stefano",
+        "addr:housenumber": "21",
+        "addr:postcode": "40125",
+        "addr:street": "Via Santo Stefano",
+        "name": "incoop",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "shop": "supermarket",
+        "source": "Comune di Bologna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3484377,
+          44.491655
+        ]
+      },
+      "id": "node/1704555192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704564110",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Santo Stefano",
+        "addr:housenumber": "32",
+        "addr:postcode": "40137",
+        "addr:street": "Via Giuseppe Dagnini",
+        "contact:phone": "+39 051 6230285",
+        "name": "Coop Dagnini",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:30; Su 08:30-13:30",
+        "shop": "supermarket",
+        "source": "Comune di Bologna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3699676,
+          44.4802753
+        ]
+      },
+      "id": "node/1704564110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704590626",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Santo Stefano",
+        "addr:housenumber": "8",
+        "addr:postcode": "40124",
+        "addr:street": "Via Pescherie Vecchie",
+        "name": "Ceccarelli Amedeo Srl",
+        "name:it": "Ceccarelli Amedeo Srl",
+        "shop": "supermarket",
+        "source": "Comune di Bologna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3444065,
+          44.4936783
+        ]
+      },
+      "id": "node/1704590626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2099990700",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3475953,
+          44.5339752
+        ]
+      },
+      "id": "node/2099990700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2486106466",
+        "addr:city": "Crespellano",
+        "addr:housenumber": "8/10",
+        "addr:postcode": "40056",
+        "addr:street": "Via della Stazione",
+        "name": "Coop",
+        "operator": "Coop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1303824,
+          44.5124977
+        ]
+      },
+      "id": "node/2486106466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2492291129",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "internet_access": "wlan",
+        "name": "Carrefour",
+        "opening_hours": "Mo-Sa 08:30-21:00; Su 09:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2492478,
+          44.4878268
+        ]
+      },
+      "id": "node/2492291129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2941511236",
+        "addr:city": "Bologna",
+        "addr:housenumber": "2",
+        "addr:postcode": "40138",
+        "addr:street": "Via Giuseppe Massarenti",
+        "name": "Carrefour Express",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-13:30; 15:30-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3574464,
+          44.4940421
+        ]
+      },
+      "id": "node/2941511236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2942668811",
+        "addr:city": "Bologna",
+        "addr:housenumber": "4c",
+        "addr:postcode": "40125",
+        "addr:street": "Via San Vitale",
+        "name": "COOP 2 Torri",
+        "opening_hours": "Mo-Sa 08:00-20:30; Su 10:00-19:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3474154,
+          44.4945273
+        ]
+      },
+      "id": "node/2942668811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3057458162",
+        "addr:housenumber": "5A",
+        "addr:postcode": "40013",
+        "addr:street": "Via Pio La Torre",
+        "brand": "Coop",
+        "name": "Coop&Coop",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 11:00-20:00",
+        "operator": "Coop Alleanza 3.0",
+        "shop": "supermarket",
+        "wikidata": "Q1129774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3566033,
+          44.5687684
+        ]
+      },
+      "id": "node/3057458162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3100479739",
+        "addr:city": "Bologna",
+        "addr:housenumber": "2d",
+        "addr:postcode": "40127",
+        "addr:street": "Via San Donato",
+        "name": "Meta",
+        "opening_hours": "Mo-Sa 08:30-20:30, Su 10:00-12:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3568288,
+          44.4987287
+        ]
+      },
+      "id": "node/3100479739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3154546811",
+        "addr:city": "Valsamoggia",
+        "addr:housenumber": "20/22",
+        "addr:postcode": "40056",
+        "addr:street": "Via Paolo Borsellino",
+        "name": "Dpiù",
+        "opening_hours": "Mo-Sa 08:30-20:00; Su 09:00-13:00",
+        "operator": "Dpiù",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1428245,
+          44.5108339
+        ]
+      },
+      "id": "node/3154546811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3181362306",
+        "addr:city": "Bologna",
+        "addr:street": "Via San Pio V",
+        "brand": "Sigma",
+        "brand:wikidata": "Q3977979",
+        "brand:wikipedia": "it:Supermercati Sigma",
+        "name": "Sigma",
+        "operator": "Sigma",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3245077,
+          44.5006345
+        ]
+      },
+      "id": "node/3181362306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3181367287",
+        "amenity": "parking",
+        "name": "Esselunga",
+        "operator": "Esselunga",
+        "parking": "underground",
+        "shop": "supermarket",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.307143,
+          44.5056421
+        ]
+      },
+      "id": "node/3181367287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3181471853",
+        "addr:city": "Bologna",
+        "addr:street": "Viale Antonio Silvani",
+        "name": "Conad",
+        "opening_hours": "Anche la domenica",
+        "operator": "Conad",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3294855,
+          44.500455
+        ]
+      },
+      "id": "node/3181471853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3188267854",
+        "addr:city": "Bologna",
+        "addr:housenumber": "24",
+        "addr:postcode": "40126",
+        "addr:street": "Via Guglielmo Oberdan",
+        "name": "inCOOP",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3459261,
+          44.496621
+        ]
+      },
+      "id": "node/3188267854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3190973941",
+        "addr:city": "Bologna",
+        "addr:housenumber": "32",
+        "addr:postcode": "40138",
+        "addr:street": "Via Massenzio Masìa",
+        "name": "CRAI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3643018,
+          44.4973914
+        ]
+      },
+      "id": "node/3190973941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3296862971",
+        "addr:city": "Bologna",
+        "addr:housenumber": "37",
+        "addr:postcode": "40126",
+        "addr:street": "Via Guglielmo Oberdan",
+        "name": "Conad City",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3464035,
+          44.4981966
+        ]
+      },
+      "id": "node/3296862971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3320338194",
+        "addr:city": "Bologna",
+        "addr:housenumber": "5b",
+        "addr:postcode": "40131",
+        "addr:street": "Via Vittorio Veneto",
+        "name": "Ari Ecoidee",
+        "organic": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.32108,
+          44.5005459
+        ]
+      },
+      "id": "node/3320338194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3321046644",
+        "addr:city": "Bologna",
+        "addr:postcode": "40131",
+        "addr:street": "Via Aurelio Saffi",
+        "name": "iN's mercato",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3232472,
+          44.5005426
+        ]
+      },
+      "id": "node/3321046644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3415523015",
+        "addr:city": "Bologna",
+        "addr:housenumber": "5",
+        "addr:postcode": "40126",
+        "addr:street": "Via Zamboni",
+        "name": "Meta",
+        "opening_hours": "Mo-Sa 09:30-23:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3472323,
+          44.4948564
+        ]
+      },
+      "id": "node/3415523015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3544353193",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Savena",
+        "addr:housenumber": "3/B",
+        "addr:postcode": "40141",
+        "addr:street": "Via Savigno",
+        "name": "Coop Adriatica Bologna-Gallia",
+        "phone": "+39 051 444003",
+        "shop": "supermarket",
+        "source": "Comune di Bologna",
+        "website": "https://www.offerte-coopadriatica.it/puntivendita/gallia.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3828291,
+          44.4691995
+        ]
+      },
+      "id": "node/3544353193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3612422365",
+        "addr:country": "IT",
+        "addr:housenumber": "37/39",
+        "addr:postcode": "40127",
+        "addr:street": "Viale Tito Carnacini",
+        "name": "COOP",
+        "opening_hours": "Mo-Sa 08:30-21:00; Su 10:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4030078,
+          44.5131097
+        ]
+      },
+      "id": "node/3612422365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3614811904",
+        "addr:city": "Bologna",
+        "addr:housenumber": "5",
+        "addr:postcode": "40127",
+        "addr:street": "Via Romolo Amaseo",
+        "name": "In'S",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3633294,
+          44.501988
+        ]
+      },
+      "id": "node/3614811904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3614811906",
+        "addr:city": "Bologna",
+        "addr:housenumber": "25",
+        "addr:postcode": "40127",
+        "addr:street": "Via Romolo Amaseo",
+        "name": "Carrefour Express",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3644546,
+          44.5017776
+        ]
+      },
+      "id": "node/3614811906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3614829605",
+        "addr:city": "Bologna",
+        "addr:housenumber": "1",
+        "addr:postcode": "40124",
+        "addr:street": "Via Giuseppe Garibaldi",
+        "name": "Coop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3434446,
+          44.490577
+        ]
+      },
+      "id": "node/3614829605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3982181509",
+        "addr:city": "Bologna",
+        "addr:housenumber": "31",
+        "addr:postcode": "40126",
+        "addr:street": "Via delle Belle Arti",
+        "name": "Crai",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3515412,
+          44.4976997
+        ]
+      },
+      "id": "node/3982181509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3982240562",
+        "addr:city": "Bologna",
+        "addr:housenumber": "21A",
+        "addr:postcode": "40126",
+        "addr:street": "Via Altabella",
+        "name": "Meta Bio",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-13:30, 18:00-20:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3452386,
+          44.4951269
+        ]
+      },
+      "id": "node/3982240562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050367380",
+        "addr:city": "Bologna",
+        "addr:housenumber": "11c",
+        "addr:postcode": "40121",
+        "addr:street": "Via Monte Grappa",
+        "name": "Coop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3399496,
+          44.4958642
+        ]
+      },
+      "id": "node/4050367380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4053203987",
+        "addr:city": "Bologna",
+        "addr:housenumber": "1",
+        "addr:postcode": "40121",
+        "addr:street": "Piazza dei Martiri 1943-1945",
+        "name": "Coop",
+        "opening_hours": "Mo-Sa 07:30-21:00; Su 09:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3405546,
+          44.5017808
+        ]
+      },
+      "id": "node/4053203987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4117035511",
+        "addr:city": "Bologna",
+        "addr:housenumber": "5e",
+        "addr:postcode": "40124",
+        "addr:street": "Via De' Toschi",
+        "contact:phone": "+39 051 239029",
+        "delivery:covid19": "yes",
+        "description:it": "Consegna centro Storico e zone limitrofe. Costo consegna 8euro con spesa minima di 50 euro",
+        "email": "info@naturasi.it",
+        "name": "NaturaSì",
+        "opening_hours": "Mo 10:00-20:00; Tu-Th 09:00-19:30; Fr 09:00-20:00; Sa 09:00-19:30",
+        "organic": "yes",
+        "shop": "supermarket",
+        "source": "ds4273",
+        "website": "https://www.naturasi.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3453258,
+          44.4927478
+        ]
+      },
+      "id": "node/4117035511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4117079213",
+        "addr:city": "Bologna",
+        "addr:housenumber": "17",
+        "addr:postcode": "40124",
+        "addr:street": "Via Clavature",
+        "addr:unit": "b",
+        "name": "Pam Local",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "operator": "Pam",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.345931,
+          44.4929296
+        ]
+      },
+      "id": "node/4117079213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4117079398",
+        "addr:housenumber": "14",
+        "addr:street": "Piazza di Porta Castiglione",
+        "name": "Carrefour Express",
+        "opening_hours": "24/7",
+        "phone": "+39 051 581104",
+        "shop": "supermarket",
+        "website": "https://www.carrefour.it/punti-vendita/supermercato-carrefour-express-bologna-piazza-di-porta-castiglione-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3486386,
+          44.4849005
+        ]
+      },
+      "id": "node/4117079398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4119112300",
+        "addr:housenumber": "29M",
+        "addr:street": "Via Santo Stefano",
+        "name": "Pam local",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3493242,
+          44.4907384
+        ]
+      },
+      "id": "node/4119112300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4133870989",
+        "addr:housenumber": "1D/E/F",
+        "addr:street": "Via Giuseppe Garibaldi",
+        "name": "incoop",
+        "opening_hours": "Mo-Sa 09:00-20:30; Su 09:30-13:30, 16:30-19:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3438137,
+          44.4905724
+        ]
+      },
+      "id": "node/4133870989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4144210248",
+        "name": "COOP",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3581668,
+          44.5461692
+        ]
+      },
+      "id": "node/4144210248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4146332604",
+        "addr:city": "Bologna",
+        "addr:street": "Via Arno",
+        "name": "Carrefour Express",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3881753,
+          44.4735803
+        ]
+      },
+      "id": "node/4146332604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4167616989",
+        "addr:city": "Bologna",
+        "addr:housenumber": "10",
+        "addr:postcode": "40138",
+        "addr:street": "Rotonda della Leona",
+        "brand": "Conad",
+        "brand:wikidata": "Q639075",
+        "brand:wikipedia": "it:Conad",
+        "email": "Boxbo@nordiconad.it",
+        "name": "Conad",
+        "opening_hours": "Mo-Sa 08:30-20:00; Su 09:00-19:00",
+        "operator": "CONAD Soc. Coop.",
+        "payment:bancomat": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+39 051 6003811",
+        "shop": "supermarket",
+        "website": "https://www.conad.it/ricerca-negozi/negozio.003418.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3908119,
+          44.497567
+        ]
+      },
+      "id": "node/4167616989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4187490224",
+        "addr:city": "Bologna",
+        "addr:housenumber": "8",
+        "addr:postcode": "40126",
+        "addr:street": "Via Angelo Finelli",
+        "contact:phone": "+39 051 241518",
+        "delivery:covid19": "yes",
+        "name": "Conad City via Finelli",
+        "opening_hours": "Mo-Sa 08:15-19:45",
+        "operator": "Conad",
+        "shop": "supermarket",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.349896,
+          44.5018306
+        ]
+      },
+      "id": "node/4187490224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4187763614",
+        "addr:city": "Bologna",
+        "addr:postcode": "40139",
+        "addr:street": "Via del Borgo di San Pietro",
+        "name": "Ecu Discount",
+        "opening_hours": "Mo-Sa 8:00-19:30",
+        "shop": "supermarket",
+        "website": "http://www.ecudiscount.it/punti-vendita/view.php?id=269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3504584,
+          44.5022772
+        ]
+      },
+      "id": "node/4187763614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4267163489",
+        "name": "Meta",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3403106,
+          44.4890058
+        ]
+      },
+      "id": "node/4267163489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4280303272",
+        "name": "Meta",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3579789,
+          44.4900577
+        ]
+      },
+      "id": "node/4280303272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4280372665",
+        "name": "Carrefour Express",
+        "opening_hours": "Mo-Sa 08:30-20:30; Su 09:30-13:30, 16:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.361565,
+          44.4886092
+        ]
+      },
+      "id": "node/4280372665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4280372677",
+        "addr:city": "Bologna",
+        "addr:housenumber": "1/D",
+        "addr:postcode": "40137",
+        "addr:street": "Piazza Trento e Trieste",
+        "atm": "yes",
+        "name": "Pam local",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3623019,
+          44.487582
+        ]
+      },
+      "id": "node/4280372677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4313351293",
+        "name": "Lidl",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.396095,
+          44.5034634
+        ]
+      },
+      "id": "node/4313351293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4319442175",
+        "name": "Pam Local",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-14:00; 16:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3576565,
+          44.4838661
+        ]
+      },
+      "id": "node/4319442175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4329531488",
+        "name": "Coop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2767201,
+          44.4751084
+        ]
+      },
+      "id": "node/4329531488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4407068432",
+        "name": "Conad",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2955375,
+          44.5039498
+        ]
+      },
+      "id": "node/4407068432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4510762286",
+        "name": "Alimentari Naldi",
+        "name:it": "Naldi",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4131395,
+          44.4664744
+        ]
+      },
+      "id": "node/4510762286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535945194",
+        "brand": "Ipercoop",
+        "brand:wikidata": "Q6064990",
+        "brand:wikipedia": "it:Coop Italia",
+        "name": "Ipercoop",
+        "name:it": "Extracoop",
+        "operator": "Coop Alleanza 3.0",
+        "operator:wikidata": "Q21189584",
+        "operator:wikipedia": "it:Coop Alleanza 3.0",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4206102,
+          44.4902331
+        ]
+      },
+      "id": "node/4535945194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4608804353",
+        "name": "Carrefour",
+        "opening_hours": "24/7",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2971207,
+          44.4886848
+        ]
+      },
+      "id": "node/4608804353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4639488530",
+        "name": "Coop",
+        "opening_hours": "Mo-Sa 08:00-20:30; Su 10:00-19:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.338715,
+          44.4959153
+        ]
+      },
+      "id": "node/4639488530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4696966890",
+        "name": "Coop Saffi",
+        "name:it": "Coop Saffi",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3156967,
+          44.5028876
+        ]
+      },
+      "id": "node/4696966890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705573329",
+        "name": "Dpiù",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2709507,
+          44.467182
+        ]
+      },
+      "id": "node/4705573329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4793772526",
+        "addr:city": "Bologna",
+        "addr:housenumber": "1 E",
+        "addr:street": "Via Luigi Calori",
+        "name": "Carrefour Express",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3340771,
+          44.5005385
+        ]
+      },
+      "id": "node/4793772526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4801565051",
+        "addr:city": "Bologna",
+        "addr:housenumber": "71b",
+        "addr:postcode": "40131",
+        "addr:street": "Via Vittorio Veneto",
+        "name": "Carrefour Express",
+        "operator": "Carrefour",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3196652,
+          44.4983977
+        ]
+      },
+      "id": "node/4801565051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4852115414",
+        "level": "0",
+        "name": "Conad",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.405868,
+          44.47198
+        ]
+      },
+      "id": "node/4852115414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4933663921",
+        "name": "Pescheria del Pavaglione",
+        "name:it": "Pescheria del Pavaglione",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3447795,
+          44.4935885
+        ]
+      },
+      "id": "node/4933663921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4996077721",
+        "name": "Outlet Gelato G7",
+        "name:it": "Outlet Gelato G7",
+        "opening_hours": "Mo-Fr 12:00-20:00; Sa 10:00-18:00",
+        "phone": "+39 0511998156",
+        "shop": "supermarket",
+        "website": "https://www.g7gelati.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.261051,
+          44.5433059
+        ]
+      },
+      "id": "node/4996077721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5078406522",
+        "name": "In's",
+        "name:it": "In's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2891233,
+          44.5119275
+        ]
+      },
+      "id": "node/5078406522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5102529744",
+        "name": "Coop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3612136,
+          44.505512
+        ]
+      },
+      "id": "node/5102529744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5115429574",
+        "addr:city": "Bologna",
+        "addr:housenumber": "20",
+        "addr:street": "Via Vezza",
+        "name": "EuroSpin",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.358715,
+          44.5023794
+        ]
+      },
+      "id": "node/5115429574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5130015521",
+        "addr:housenumber": "20",
+        "addr:street": "Via Guglielmo Marconi",
+        "name": "Pam Local",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3377999,
+          44.4978038
+        ]
+      },
+      "id": "node/5130015521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5155961648",
+        "name": "Eurospar",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3440482,
+          44.5057341
+        ]
+      },
+      "id": "node/5155961648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5181687117",
+        "name": "Coop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.355593,
+          44.4906153
+        ]
+      },
+      "id": "node/5181687117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5181912971",
+        "name": "in Coop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3840804,
+          44.4749556
+        ]
+      },
+      "id": "node/5181912971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5217853360",
+        "name": "COOP",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2896457,
+          44.496425
+        ]
+      },
+      "id": "node/5217853360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5331110720",
+        "addr:housenumber": "31",
+        "addr:street": "Strada Maggiore",
+        "name": "Carrefour Express",
+        "opening_hours": "Mo-Sa 07:30-00:00, Su 08:00-00:00",
+        "shop": "supermarket",
+        "website": "https://www.carrefour.it/punti-vendita/supermercato-carrefour-express-bologna-strada-maggiore-31",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3503946,
+          44.4926149
+        ]
+      },
+      "id": "node/5331110720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5331123273",
+        "addr:city": "Bologna",
+        "addr:housenumber": "15",
+        "addr:postcode": "40125",
+        "addr:street": "Strada Maggiore",
+        "name": "Pam",
+        "opening_hours": "Mo-Sa 08:00-22:00, Su 09:00-22:00",
+        "phone": "+39 051 3780798",
+        "shop": "supermarket",
+        "website": "https://www.pampanorama.it/punti-vendita/bologna-strada-maggiore",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3485012,
+          44.4933374
+        ]
+      },
+      "id": "node/5331123273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5334592684",
+        "addr:city": "Bologna",
+        "addr:housenumber": "12",
+        "addr:postcode": "40138",
+        "addr:street": "Via dell'Industria",
+        "name": "Interspar",
+        "operator": "Interspar",
+        "phone": "+39 051 6010863",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3953232,
+          44.5061639
+        ]
+      },
+      "id": "node/5334592684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5503138266",
+        "addr:housenumber": "6a",
+        "addr:street": "Via Sant'Isaia",
+        "name": "Carrefour Express",
+        "opening_hours": "Mo-Sa 07:30-01:00;Su 08:00-01:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3354233,
+          44.493243
+        ]
+      },
+      "id": "node/5503138266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5637278022",
+        "addr:housenumber": "9",
+        "addr:street": "Via Francesco Rizzoli",
+        "name": "Mercato Di Mezzo",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3460198,
+          44.4941994
+        ]
+      },
+      "id": "node/5637278022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5882880036",
+        "addr:city": "Crespellano",
+        "addr:housenumber": "71",
+        "addr:postcode": "40056",
+        "addr:street": "Via Emilia",
+        "name": "Carrefour Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.135107,
+          44.5656354
+        ]
+      },
+      "id": "node/5882880036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6205050514",
+        "name": "Alì",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3095487,
+          44.5021447
+        ]
+      },
+      "id": "node/6205050514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6288300170",
+        "addr:city": "Bologna",
+        "addr:housenumber": "46",
+        "addr:street": "Via Dagnini",
+        "air_conditioning": "yes",
+        "level": "1",
+        "name": "Pam Local",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-22:00",
+        "operator": "Pam Panorama S.p.A.",
+        "payment:credit_cards": "yes",
+        "ref:vatin": "IT02036440275",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3702558,
+          44.4812406
+        ]
+      },
+      "id": "node/6288300170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6622700142",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3527539,
+          44.5118504
+        ]
+      },
+      "id": "node/6622700142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6673737312",
+        "addr:housenumber": "8d",
+        "addr:street": "Via Giovanni Brugnoli",
+        "diet:gluten_free": "yes",
+        "name": "KASi gluten free",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3338579,
+          44.4997456
+        ]
+      },
+      "id": "node/6673737312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6822231851",
+        "name": "iN's Mercato",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2283237,
+          44.488211
+        ]
+      },
+      "id": "node/6822231851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6839899486",
+        "name": "Carrefour Express",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3482977,
+          44.4945354
+        ]
+      },
+      "id": "node/6839899486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6932276685",
+        "addr:housenumber": "13",
+        "addr:street": "Via Castiglione",
+        "name:en": "Carrefour Express",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3464271,
+          44.4909567
+        ]
+      },
+      "id": "node/6932276685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6932276785",
+        "addr:housenumber": "24",
+        "addr:street": "Via San Vitale",
+        "name:en": "Carrefour Express",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3483564,
+          44.4945276
+        ]
+      },
+      "id": "node/6932276785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6976046597",
+        "name:en": "Mercato Ritrovato",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3347816,
+          44.5020659
+        ]
+      },
+      "id": "node/6976046597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6976047799",
+        "name:en": "Mercato Novale SUNDAY",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3569612,
+          44.4878315
+        ]
+      },
+      "id": "node/6976047799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7204537445",
+        "name": "Alimentari",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2559705,
+          44.4812445
+        ]
+      },
+      "id": "node/7204537445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7439572385",
+        "contact:phone": "+39 051 802800",
+        "delivery:covid19": "yes",
+        "name": "CONAD Budrio",
+        "shop": "supermarket",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.526497,
+          44.540779
+        ]
+      },
+      "id": "node/7439572385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7456854855",
+        "addr:housenumber": "1/3",
+        "addr:postcode": "40055 Castenaso",
+        "addr:street": "Piazza Marie Curie",
+        "contact:phone": "+39 051 786954",
+        "delivery:covid19": "yes",
+        "name": "CONAD CITY Castenaso",
+        "shop": "supermarket",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.45983,
+          44.50734
+        ]
+      },
+      "id": "node/7456854855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7515759744",
+        "addr:city": "Zola Predosa",
+        "addr:housenumber": "181d",
+        "addr:postcode": "40069",
+        "addr:street": "Via Risorgimento",
+        "contact:phone": "+39 051 750202",
+        "delivery:covid19": "yes",
+        "name": "Supermercato Dimeglio",
+        "shop": "supermarket",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.21011,
+          44.4936
+        ]
+      },
+      "id": "node/7515759744"
+    }
+  ]
+}

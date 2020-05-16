@@ -1,0 +1,153 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-16T09:54:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2129225823",
+        "name": "Videoarts Webdesign",
+        "opening_hours": "Mo-Fr 9:00-13:00,14:00-18:00",
+        "opensource": "selling and support",
+        "repair": "welcome",
+        "shop": "computer",
+        "website": "http://www.videoarts.eu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3252898,
+          44.5004484
+        ]
+      },
+      "id": "node/2129225823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3301390759",
+        "name": "Ferrari Computer",
+        "shop": "computer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3491582,
+          44.5039212
+        ]
+      },
+      "id": "node/3301390759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3625394231",
+        "addr:city": "Bologna",
+        "addr:housenumber": "17",
+        "addr:postcode": "40127",
+        "addr:street": "Via Camillo Ranzani",
+        "name": "Bologna Computer",
+        "shop": "computer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3588369,
+          44.5001358
+        ]
+      },
+      "id": "node/3625394231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4591422015",
+        "addr:housenumber": "57/q",
+        "addr:postcode": "40069",
+        "addr:street": "Via Roma",
+        "email": "info@hqcomputer.it",
+        "internet_access": "wlan",
+        "name": "Hq computer srl",
+        "opening_hours": "Mo-Sa 09:00-12:30; Su",
+        "phone": "+39 051 6166915",
+        "shop": "computer",
+        "website": "https://www.hqcomputer.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2358409,
+          44.4937864
+        ]
+      },
+      "id": "node/4591422015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4696998897",
+        "name": "Europlanet Assistenza Computer",
+        "name:it": "Europlanet Assistenza Computer",
+        "shop": "computer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2797252,
+          44.5159352
+        ]
+      },
+      "id": "node/4696998897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5102529724",
+        "name": "La Bottega Dell'informatico",
+        "shop": "computer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3572798,
+          44.5071306
+        ]
+      },
+      "id": "node/5102529724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5102529732",
+        "name": "El.it",
+        "shop": "computer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3603078,
+          44.5076769
+        ]
+      },
+      "id": "node/5102529732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5569386004",
+        "name": "PuntoEXE Informatica riparazione computer smartphone",
+        "shop": "computer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3701664,
+          44.4715131
+        ]
+      },
+      "id": "node/5569386004"
+    }
+  ]
+}

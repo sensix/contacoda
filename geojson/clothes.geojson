@@ -1,0 +1,6729 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-16T09:39:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/599322570",
+        "operator": "United Colors of Benetton",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3625718,
+          44.5738029
+        ]
+      },
+      "id": "node/599322570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/623927502",
+        "name": "Outlet Calzedonia Intimissimi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3949115,
+          44.5564266
+        ]
+      },
+      "id": "node/623927502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1567952559",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2775087,
+          44.5188328
+        ]
+      },
+      "id": "node/1567952559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1576756692",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2733971,
+          44.520135
+        ]
+      },
+      "id": "node/1576756692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1576785446",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2712675,
+          44.5187236
+        ]
+      },
+      "id": "node/1576785446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1576821109",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2645336,
+          44.5198503
+        ]
+      },
+      "id": "node/1576821109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1583736311",
+        "name": "Conbipel",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2664429,
+          44.5145914
+        ]
+      },
+      "id": "node/1583736311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1583736324",
+        "name": "Fashion Market",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2659077,
+          44.5147492
+        ]
+      },
+      "id": "node/1583736324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1583736327",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2680685,
+          44.5137443
+        ]
+      },
+      "id": "node/1583736327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1645907595",
+        "addr:city": "Bologna",
+        "addr:housenumber": "3h",
+        "addr:postcode": "40124",
+        "addr:street": "Piazza Maggiore",
+        "name": "Fiorini Abbigliamento",
+        "shop": "clothes",
+        "website": "https://www.fioriniabbigliamento.it/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3438098,
+          44.4934519
+        ]
+      },
+      "id": "node/1645907595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704255362",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "San Vitale",
+        "addr:housenumber": "19",
+        "addr:postcode": "40125",
+        "addr:street": "Via San Vitale",
+        "name": "Cotoniera Facchini",
+        "shop": "clothes",
+        "source": "Comune di Bologna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3496987,
+          44.4943526
+        ]
+      },
+      "id": "node/1704255362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704262143",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "San Vitale",
+        "addr:housenumber": "24F",
+        "addr:postcode": "40126",
+        "addr:street": "Via Guglielmo Oberdan",
+        "email": "negozio@semmstore.com",
+        "name": "Semm Music Store",
+        "opening_hours": "Mo-Sa 10:00-19:30",
+        "phone": "+39 051 225425",
+        "shop": "clothes",
+        "source": "Comune di Bologna",
+        "website": "www.semmstore.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3459654,
+          44.496879
+        ]
+      },
+      "id": "node/1704262143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704349119",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Savena",
+        "addr:housenumber": "2/2a",
+        "addr:postcode": "40139",
+        "addr:street": "Via Gerolamo Rainaldi",
+        "name": "Il gallo",
+        "shop": "clothes",
+        "source": "Comune di Bologna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3773838,
+          44.4787522
+        ]
+      },
+      "id": "node/1704349119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704537125",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Santo Stefano",
+        "addr:postcode": "40124",
+        "clothes": "suits",
+        "name": "I Classici Luxury Store",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3453483,
+          44.4913728
+        ]
+      },
+      "id": "node/1704537125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704601945",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Porto",
+        "addr:housenumber": "1/C",
+        "addr:postcode": "40121",
+        "addr:street": "Via San Giuseppe",
+        "clothes": "children;sports",
+        "name": "Fini Sport Spazio Bimbi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3437197,
+          44.5001019
+        ]
+      },
+      "id": "node/1704601945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704602314",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Saragozza",
+        "addr:housenumber": "1/b",
+        "addr:postcode": "40123",
+        "addr:street": "Via Urbana",
+        "name": "Patagonia Store",
+        "shop": "clothes",
+        "source": "Comune di Bologna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3409071,
+          44.4900781
+        ]
+      },
+      "id": "node/1704602314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704750406",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Porto",
+        "addr:housenumber": "68e",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Kendy Designs",
+        "shop": "clothes",
+        "source": "Comune di Bologna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3445613,
+          44.5021276
+        ]
+      },
+      "id": "node/1704750406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704809500",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Reno",
+        "addr:housenumber": "243",
+        "addr:postcode": "40133",
+        "addr:street": "Via Emilia Ponente",
+        "name": "Garulli",
+        "shop": "clothes",
+        "source": "Comune di Bologna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2968658,
+          44.5089969
+        ]
+      },
+      "id": "node/1704809500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2504689012",
+        "name": "Fabian Gioielli",
+        "shop": "clothes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3172262,
+          44.4890056
+        ]
+      },
+      "id": "node/2504689012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2576147829",
+        "addr:city": "Bologna",
+        "addr:housenumber": "6",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Zara donna",
+        "shop": "clothes",
+        "wheelchair": "limited",
+        "wheelchair:description": "Piccolo gradino all'ingresso il resto tutto accessibile, ascensore per i piani superiori"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3426315,
+          44.4956161
+        ]
+      },
+      "id": "node/2576147829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2879535201",
+        "name": "Absolut Joy",
+        "shop": "clothes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.343724,
+          44.498347
+        ]
+      },
+      "id": "node/2879535201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2879536401",
+        "shop": "clothes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3438843,
+          44.4988813
+        ]
+      },
+      "id": "node/2879536401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2879541201",
+        "addr:city": "Bologna",
+        "addr:housenumber": "37e",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Oxigeno",
+        "shop": "clothes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3438124,
+          44.4986626
+        ]
+      },
+      "id": "node/2879541201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2879603801",
+        "addr:city": "Bologna",
+        "addr:housenumber": "52",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "clothes": "women;men;sports;fashion;underwear",
+        "name": "Fini Sport",
+        "shop": "clothes",
+        "website": "http://www.finisport.it/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.343874,
+          44.499847
+        ]
+      },
+      "id": "node/2879603801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2879620001",
+        "name": "Camisa",
+        "shop": "clothes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.343783,
+          44.499454
+        ]
+      },
+      "id": "node/2879620001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2879636701",
+        "name": "Terranova",
+        "shop": "clothes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3437093,
+          44.4992159
+        ]
+      },
+      "id": "node/2879636701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2973090633",
+        "addr:city": "Bologna",
+        "addr:housenumber": "4",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "brand": "H&M",
+        "brand:wikidata": "Q188326",
+        "brand:wikipedia": "en:H&M",
+        "name": "H&M",
+        "phone": "+39 051 7459159",
+        "shop": "clothes",
+        "website": "http://www.hm.com/it/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3426101,
+          44.4954802
+        ]
+      },
+      "id": "node/2973090633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2973112633",
+        "addr:city": "Bologna",
+        "addr:housenumber": "8",
+        "addr:postcode": "40121",
+        "addr:street": "Via Francesco Rizzoli",
+        "name": "United Colors Of Benetton",
+        "phone": "+39 051 273899",
+        "shop": "clothes",
+        "website": "https://it.benetton.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3435259,
+          44.4948293
+        ]
+      },
+      "id": "node/2973112633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2973117233",
+        "addr:city": "Bologna",
+        "addr:housenumber": "20/A",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "brand": "Oysho",
+        "brand:wikidata": "Q3327046",
+        "brand:wikipedia": "en:Oysho",
+        "name": "Oysho",
+        "phone": "+39 051 228918",
+        "shop": "clothes",
+        "website": "https://www.oysho.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3430711,
+          44.4970298
+        ]
+      },
+      "id": "node/2973117233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2999849623",
+        "brand": "Calzedonia",
+        "brand:wikidata": "Q1027874",
+        "brand:wikipedia": "en:Calzedonia",
+        "name": "Calzedonia",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3446308,
+          44.5025424
+        ]
+      },
+      "id": "node/2999849623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2999870546",
+        "name": "Scout",
+        "shop": "clothes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3454482,
+          44.4996739
+        ]
+      },
+      "id": "node/2999870546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2999909687",
+        "addr:city": "Bologna",
+        "addr:housenumber": "34",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "brand": "Oysho",
+        "brand:wikidata": "Q3327046",
+        "brand:wikipedia": "en:Oysho",
+        "name": "Oysho",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3434756,
+          44.4983947
+        ]
+      },
+      "id": "node/2999909687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3247425706",
+        "name": "Sisley",
+        "opening_hours": "Mo-Sa 10:00-19:30",
+        "shop": "clothes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3438589,
+          44.4936883
+        ]
+      },
+      "id": "node/3247425706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3256301193",
+        "name": "Brandy",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3455294,
+          44.4949739
+        ]
+      },
+      "id": "node/3256301193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3361827541",
+        "addr:city": "Bologna",
+        "addr:postcode": "40131",
+        "addr:street": "Via Vittorio Veneto",
+        "name": "Fascino Antico",
+        "note": "Aperto da Lunedi a Sabato",
+        "phone": "+39 051 6141931",
+        "shop": "clothes",
+        "website": "http://www.fascinoantico.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3198422,
+          44.4986719
+        ]
+      },
+      "id": "node/3361827541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3415523012",
+        "addr:city": "Bologna",
+        "addr:housenumber": "30",
+        "addr:postcode": "40125",
+        "addr:street": "Via Francesco Rizzoli",
+        "name": "Mountain Affair",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.345595,
+          44.4945029
+        ]
+      },
+      "id": "node/3415523012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3538173457",
+        "addr:city": "Bologna",
+        "addr:housenumber": "74",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Biba's",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3448653,
+          44.5032928
+        ]
+      },
+      "id": "node/3538173457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3538173459",
+        "addr:city": "Bologna",
+        "addr:housenumber": "71v",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Indigo",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3451474,
+          44.5033341
+        ]
+      },
+      "id": "node/3538173459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3606709962",
+        "addr:city": "Bologna",
+        "addr:housenumber": "33a",
+        "addr:postcode": "40125",
+        "addr:street": "Via San Vitale",
+        "name": "Black Stone",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3521576,
+          44.4941016
+        ]
+      },
+      "id": "node/3606709962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3606710679",
+        "addr:city": "Bologna",
+        "addr:housenumber": "56d",
+        "addr:postcode": "40125",
+        "addr:street": "Via San Vitale",
+        "name": "Mister Gal",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3518625,
+          44.4942528
+        ]
+      },
+      "id": "node/3606710679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3606710684",
+        "addr:city": "Bologna",
+        "addr:housenumber": "15a",
+        "addr:postcode": "40125",
+        "addr:street": "Via San Vitale",
+        "name": "Mediterraneo",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3491253,
+          44.4943781
+        ]
+      },
+      "id": "node/3606710684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3606779799",
+        "addr:city": "Bologna",
+        "addr:housenumber": "4d",
+        "addr:postcode": "40125",
+        "addr:street": "Via San Vitale",
+        "name": "InSolito",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3475361,
+          44.4945254
+        ]
+      },
+      "id": "node/3606779799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3606935360",
+        "addr:city": "Bologna",
+        "addr:housenumber": "36b",
+        "addr:postcode": "40125",
+        "addr:street": "Via Francesco Rizzoli",
+        "name": "Elena Mirò",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3460287,
+          44.4944116
+        ]
+      },
+      "id": "node/3606935360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3606935362",
+        "name": "Timberland",
+        "shop": "clothes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3465987,
+          44.4940375
+        ]
+      },
+      "id": "node/3606935362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3606935364",
+        "addr:city": "Bologna",
+        "addr:housenumber": "7c",
+        "addr:postcode": "40125",
+        "addr:street": "Via Francesco Rizzoli",
+        "name": "John Ashfield",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3455808,
+          44.4942384
+        ]
+      },
+      "id": "node/3606935364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3606935366",
+        "addr:city": "Bologna",
+        "addr:housenumber": "7h",
+        "addr:postcode": "40125",
+        "addr:street": "Via Francesco Rizzoli",
+        "name": "Max Mara weekend",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3458718,
+          44.4941934
+        ]
+      },
+      "id": "node/3606935366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3606935373",
+        "addr:city": "Bologna",
+        "addr:housenumber": "18",
+        "addr:postcode": "40125",
+        "addr:street": "Via Francesco Rizzoli",
+        "name": "& other stories",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.344536,
+          44.4946938
+        ]
+      },
+      "id": "node/3606935373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3612422366",
+        "addr:housenumber": "33",
+        "addr:postcode": "40127",
+        "addr:street": "Viale Tito Carnacini",
+        "name": "OVS",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4019779,
+          44.5134234
+        ]
+      },
+      "id": "node/3612422366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3612422368",
+        "addr:housenumber": "29",
+        "addr:postcode": "40127",
+        "addr:street": "Viale Tito Carnacini",
+        "name": "Alcott",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4014039,
+          44.513673
+        ]
+      },
+      "id": "node/3612422368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3612422369",
+        "addr:housenumber": "27",
+        "addr:postcode": "40127",
+        "addr:street": "Viale Tito Carnacini",
+        "name": "Chicco",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4011813,
+          44.513738
+        ]
+      },
+      "id": "node/3612422369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3614829597",
+        "addr:city": "Bologna",
+        "addr:housenumber": "9",
+        "addr:postcode": "40124",
+        "addr:street": "Via Giuseppe Garibaldi",
+        "name": "Settimo Cielo",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3430396,
+          44.4890223
+        ]
+      },
+      "id": "node/3614829597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3615364697",
+        "addr:city": "Bologna",
+        "addr:housenumber": "17d",
+        "addr:postcode": "40138",
+        "addr:street": "Via Giuseppe Bentivogli",
+        "name": "Io Donna",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3648281,
+          44.4936183
+        ]
+      },
+      "id": "node/3615364697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3636735217",
+        "addr:city": "Bologna",
+        "addr:housenumber": "4/D",
+        "addr:postcode": "40126",
+        "addr:street": "Piazza VIII Agosto",
+        "name": "Fini Sport 3",
+        "shop": "clothes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3446918,
+          44.5003634
+        ]
+      },
+      "id": "node/3636735217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3636735218",
+        "addr:city": "Bologna",
+        "addr:housenumber": "54",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "brand": "Intimissimi",
+        "brand:wikidata": "Q305404",
+        "brand:wikipedia": "en:Intimissimi",
+        "clothes": "underwear",
+        "name": "Intimissimi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3439192,
+          44.5000837
+        ]
+      },
+      "id": "node/3636735218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3636980659",
+        "addr:city": "Bologna",
+        "addr:housenumber": "11c",
+        "addr:postcode": "40126",
+        "addr:street": "Via Irnerio",
+        "name": "Skinlab Outlet",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3470585,
+          44.5004169
+        ]
+      },
+      "id": "node/3636980659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3636980661",
+        "addr:city": "Bologna",
+        "addr:housenumber": "11a",
+        "addr:postcode": "40126",
+        "addr:street": "Via Irnerio",
+        "name": "Angel",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3468639,
+          44.5004674
+        ]
+      },
+      "id": "node/3636980661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3636980662",
+        "addr:city": "Bologna",
+        "addr:housenumber": "9c",
+        "addr:postcode": "40126",
+        "addr:street": "Via Irnerio",
+        "name": "Retro Fashion",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3467718,
+          44.5004749
+        ]
+      },
+      "id": "node/3636980662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3636980663",
+        "addr:city": "Bologna",
+        "addr:housenumber": "9a",
+        "addr:postcode": "40126",
+        "addr:street": "Via Irnerio",
+        "name": "Retro Fashion",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3465765,
+          44.5005213
+        ]
+      },
+      "id": "node/3636980663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645707113",
+        "addr:city": "Bologna",
+        "addr:housenumber": "2",
+        "addr:postcode": "40123",
+        "addr:street": "Piazza Malpighi",
+        "name": "Stay",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3371039,
+          44.4955499
+        ]
+      },
+      "id": "node/3645707113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645707118",
+        "addr:city": "Bologna",
+        "addr:housenumber": "21",
+        "addr:postcode": "40121",
+        "addr:street": "Via Ugo Bassi",
+        "name": "H&M",
+        "shop": "clothes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3384466,
+          44.4956482
+        ]
+      },
+      "id": "node/3645707118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645707122",
+        "addr:city": "Bologna",
+        "addr:housenumber": "14",
+        "addr:postcode": "40121",
+        "addr:street": "Via Ugo Bassi",
+        "name": "Alcott",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3373585,
+          44.4955116
+        ]
+      },
+      "id": "node/3645707122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645707134",
+        "addr:city": "Bologna",
+        "addr:housenumber": "10",
+        "addr:postcode": "40121",
+        "addr:street": "Via Ugo Bassi",
+        "name": "Furla",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3387524,
+          44.4953551
+        ]
+      },
+      "id": "node/3645707134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645707136",
+        "addr:city": "Bologna",
+        "addr:housenumber": "8",
+        "addr:postcode": "40121",
+        "addr:street": "Via Ugo Bassi",
+        "name": "Terranova",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3391657,
+          44.4952834
+        ]
+      },
+      "id": "node/3645707136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645707137",
+        "addr:city": "Bologna",
+        "addr:housenumber": "15",
+        "addr:postcode": "40121",
+        "addr:street": "Via Ugo Bassi",
+        "name": "Tezenis",
+        "shop": "clothes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3392988,
+          44.49551
+        ]
+      },
+      "id": "node/3645707137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645734957",
+        "addr:city": "Bologna",
+        "addr:housenumber": "13",
+        "addr:postcode": "40121",
+        "addr:street": "Via Ugo Bassi",
+        "name": "Intimissimi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3396841,
+          44.49545
+        ]
+      },
+      "id": "node/3645734957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645734958",
+        "addr:city": "Bologna",
+        "addr:housenumber": "11",
+        "addr:postcode": "40121",
+        "addr:street": "Via Ugo Bassi",
+        "name": "United Colors Of Benetton",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3399526,
+          44.4953984
+        ]
+      },
+      "id": "node/3645734958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645734960",
+        "addr:city": "Bologna",
+        "addr:housenumber": "8",
+        "addr:postcode": "40121",
+        "addr:street": "Via Ugo Bassi",
+        "name": "O'dett",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3395604,
+          44.4952302
+        ]
+      },
+      "id": "node/3645734960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645734962",
+        "addr:city": "Bologna",
+        "addr:housenumber": "6",
+        "addr:postcode": "40121",
+        "addr:street": "Via Ugo Bassi",
+        "name": "OVS",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3400087,
+          44.4951519
+        ]
+      },
+      "id": "node/3645734962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645734963",
+        "addr:city": "Bologna",
+        "addr:housenumber": "7",
+        "addr:postcode": "40121",
+        "addr:street": "Via Ugo Bassi",
+        "name": "North Face",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3403916,
+          44.4953701
+        ]
+      },
+      "id": "node/3645734963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645734964",
+        "addr:city": "Bologna",
+        "addr:housenumber": "7",
+        "addr:postcode": "40121",
+        "addr:street": "Via Ugo Bassi",
+        "name": "Coccinelle",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3405084,
+          44.4953284
+        ]
+      },
+      "id": "node/3645734964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645734966",
+        "addr:city": "Bologna",
+        "addr:housenumber": "4",
+        "addr:postcode": "40121",
+        "addr:street": "Via Ugo Bassi",
+        "name": "Barbari Alessandro",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3405714,
+          44.4950869
+        ]
+      },
+      "id": "node/3645734966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645734967",
+        "addr:city": "Bologna",
+        "addr:housenumber": "4b",
+        "addr:postcode": "40121",
+        "addr:street": "Via Ugo Bassi",
+        "name": "De Paz Uomo",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3407629,
+          44.4950653
+        ]
+      },
+      "id": "node/3645734967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645734968",
+        "addr:city": "Bologna",
+        "addr:housenumber": "5",
+        "addr:postcode": "40121",
+        "addr:street": "Via Ugo Bassi",
+        "name": "Marina Rinaldi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3406905,
+          44.4952984
+        ]
+      },
+      "id": "node/3645734968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645734970",
+        "addr:city": "Bologna",
+        "addr:housenumber": "3",
+        "addr:postcode": "40121",
+        "addr:street": "Via Ugo Bassi",
+        "name": "Le Cose di Roberta Trentini",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3408936,
+          44.4952518
+        ]
+      },
+      "id": "node/3645734970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645848564",
+        "addr:city": "Bologna",
+        "addr:housenumber": "4a",
+        "addr:postcode": "40125",
+        "addr:street": "Via Francesco Rizzoli",
+        "name": "Geox",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3429331,
+          44.4949016
+        ]
+      },
+      "id": "node/3645848564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645848567",
+        "addr:city": "Bologna",
+        "addr:housenumber": "10",
+        "addr:postcode": "40125",
+        "addr:street": "Via Francesco Rizzoli",
+        "name": "Zara Home",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3437752,
+          44.4947888
+        ]
+      },
+      "id": "node/3645848567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645848568",
+        "addr:city": "Bologna",
+        "addr:housenumber": "1/2d",
+        "addr:postcode": "40125",
+        "addr:street": "Via Francesco Rizzoli",
+        "name": "Celio",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3443119,
+          44.4944307
+        ]
+      },
+      "id": "node/3645848568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645848569",
+        "addr:city": "Bologna",
+        "addr:housenumber": "3b",
+        "addr:postcode": "40125",
+        "addr:street": "Via Francesco Rizzoli",
+        "name": "Nike",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3444155,
+          44.4943973
+        ]
+      },
+      "id": "node/3645848569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645848570",
+        "addr:city": "Bologna",
+        "addr:housenumber": "3",
+        "addr:postcode": "40125",
+        "addr:street": "Via Francesco Rizzoli",
+        "name": "Valli Fermo",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3445436,
+          44.4943901
+        ]
+      },
+      "id": "node/3645848570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645848572",
+        "name": "Giuliano Veronese",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3439907,
+          44.4941929
+        ]
+      },
+      "id": "node/3645848572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645848573",
+        "name": "Marella",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3438858,
+          44.4938377
+        ]
+      },
+      "id": "node/3645848573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645848574",
+        "addr:city": "Bologna",
+        "addr:housenumber": "2/2",
+        "addr:postcode": "40124",
+        "addr:street": "Piazza Maggiore",
+        "name": "Liu - Jo",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3438684,
+          44.4937663
+        ]
+      },
+      "id": "node/3645848574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645848576",
+        "addr:city": "Bologna",
+        "addr:housenumber": "4",
+        "addr:postcode": "40124",
+        "addr:street": "Via dell'Archiginnasio",
+        "name": "Max Mara",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3435557,
+          44.4925007
+        ]
+      },
+      "id": "node/3645848576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645848577",
+        "addr:city": "Bologna",
+        "addr:housenumber": "1",
+        "addr:postcode": "40124",
+        "addr:street": "Piazza Galvani",
+        "name": "Lacoste",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3434215,
+          44.491954
+        ]
+      },
+      "id": "node/3645848577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645848582",
+        "addr:city": "Bologna",
+        "addr:housenumber": "1",
+        "addr:postcode": "40124",
+        "addr:street": "Piazza Galvani",
+        "name": "Mandarina Duck",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3433117,
+          44.4916582
+        ]
+      },
+      "id": "node/3645848582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645848583",
+        "addr:city": "Bologna",
+        "addr:housenumber": "4",
+        "addr:postcode": "40124",
+        "addr:street": "Via dell'Archiginnasio",
+        "name": "MAX & Co.",
+        "shop": "clothes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3434927,
+          44.492273
+        ]
+      },
+      "id": "node/3645848583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645848584",
+        "addr:city": "Bologna",
+        "addr:housenumber": "4",
+        "addr:postcode": "40124",
+        "addr:street": "Via dell'Archiginnasio",
+        "name": "Twin Set",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3435232,
+          44.4923919
+        ]
+      },
+      "id": "node/3645848584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645888432",
+        "addr:city": "Bologna",
+        "addr:housenumber": "5a",
+        "addr:postcode": "40125",
+        "addr:street": "Via Francesco Rizzoli",
+        "name": "Luisa Spagnoli",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3448119,
+          44.4943408
+        ]
+      },
+      "id": "node/3645888432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645888433",
+        "addr:city": "Bologna",
+        "addr:housenumber": "5d",
+        "addr:postcode": "40125",
+        "addr:street": "Via Francesco Rizzoli",
+        "name": "Class",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.345005,
+          44.4943045
+        ]
+      },
+      "id": "node/3645888433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3646417556",
+        "addr:city": "Bologna",
+        "addr:housenumber": "9",
+        "addr:postcode": "40125",
+        "addr:street": "Via Francesco Rizzoli",
+        "name": "Desigual",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3460201,
+          44.4941623
+        ]
+      },
+      "id": "node/3646417556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3646448099",
+        "addr:city": "Bologna",
+        "addr:housenumber": "2",
+        "addr:postcode": "40125",
+        "addr:street": "Piazza della Mercanzia",
+        "name": "Napapijri",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.346695,
+          44.4937621
+        ]
+      },
+      "id": "node/3646448099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813772713",
+        "addr:city": "Bologna",
+        "addr:housenumber": "1/2",
+        "addr:postcode": "40121",
+        "addr:street": "Via Ugo Bassi",
+        "name": "Clayton",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3416458,
+          44.4951736
+        ]
+      },
+      "id": "node/3813772713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813830909",
+        "addr:city": "Bologna",
+        "addr:housenumber": "2f",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "brand": "Calzedonia",
+        "brand:wikidata": "Q1027874",
+        "brand:wikipedia": "en:Calzedonia",
+        "name": "Calzedonia",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3425752,
+          44.4953243
+        ]
+      },
+      "id": "node/3813830909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813830910",
+        "addr:city": "Bologna",
+        "addr:housenumber": "8",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "brand": "Promod",
+        "brand:wikidata": "Q3407429",
+        "brand:wikipedia": "en:Promod",
+        "name": "Promod",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.342661,
+          44.4957663
+        ]
+      },
+      "id": "node/3813830910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813830911",
+        "addr:city": "Bologna",
+        "addr:housenumber": "8",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Camicissima",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3426852,
+          44.49586
+        ]
+      },
+      "id": "node/3813830911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813830912",
+        "addr:city": "Bologna",
+        "addr:housenumber": "8",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Berschka",
+        "name:uk": "Бершка",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3427026,
+          44.495949
+        ]
+      },
+      "id": "node/3813830912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813830913",
+        "addr:city": "Bologna",
+        "addr:housenumber": "8",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Kiko",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3427737,
+          44.4961948
+        ]
+      },
+      "id": "node/3813830913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813830914",
+        "addr:city": "Bologna",
+        "addr:housenumber": "8",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "MAC",
+        "shop": "clothes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.342826,
+          44.4962733
+        ]
+      },
+      "id": "node/3813830914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813830915",
+        "addr:city": "Bologna",
+        "addr:housenumber": "10",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "brand": "Piazza Italia",
+        "brand:wikidata": "Q3902241",
+        "brand:wikipedia": "it:Piazza Italia (azienda)",
+        "name": "Piazza Italia",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3428622,
+          44.4964684
+        ]
+      },
+      "id": "node/3813830915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813830916",
+        "addr:city": "Bologna",
+        "addr:housenumber": "13a",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "O'dett",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3431365,
+          44.4963496
+        ]
+      },
+      "id": "node/3813830916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813847705",
+        "addr:city": "Bologna",
+        "addr:housenumber": "12",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Cinti",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3429581,
+          44.4966882
+        ]
+      },
+      "id": "node/3813847705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813847707",
+        "addr:city": "Bologna",
+        "addr:housenumber": "19",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "brand": "Yamamay",
+        "brand:wikidata": "Q2599214",
+        "brand:wikipedia": "it:Yamamay",
+        "name": "Yamamay",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3432907,
+          44.4968824
+        ]
+      },
+      "id": "node/3813847707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813847708",
+        "addr:city": "Bologna",
+        "addr:housenumber": "12",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "brand": "Camaïeu",
+        "brand:wikidata": "Q2934647",
+        "brand:wikipedia": "en:Camaïeu (company)",
+        "name": "Camaïeu",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3429863,
+          44.4967963
+        ]
+      },
+      "id": "node/3813847708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813847711",
+        "addr:city": "Bologna",
+        "addr:housenumber": "23",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Bijou Brigitte",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3434261,
+          44.4972746
+        ]
+      },
+      "id": "node/3813847711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813847712",
+        "name": "Primadonna",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.343524,
+          44.4976343
+        ]
+      },
+      "id": "node/3813847712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3856562387",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:housenumber": "32/A",
+        "addr:street": "Via Zamboni",
+        "email": "info@unibostore.it",
+        "name": "UniboStore",
+        "opening_hours": "Mo-Fr 09:30-15:30",
+        "phone": "+39 051 2098632",
+        "shop": "clothes",
+        "website": "https://unibostore.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3511849,
+          44.496548
+        ]
+      },
+      "id": "node/3856562387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3982240557",
+        "name": "Coin",
+        "shop": "clothes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3454277,
+          44.4939919
+        ]
+      },
+      "id": "node/3982240557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4012495021",
+        "addr:housenumber": "298",
+        "addr:street": "via Zanardi",
+        "name": "Jei outlet",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3167763,
+          44.5267105
+        ]
+      },
+      "id": "node/4012495021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050191159",
+        "addr:city": "Bologna",
+        "addr:housenumber": "30",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Pandora",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3434213,
+          44.4982292
+        ]
+      },
+      "id": "node/4050191159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050191160",
+        "addr:city": "Bologna",
+        "addr:housenumber": "36c",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "brand": "Jennyfer",
+        "brand:wikidata": "Q3177174",
+        "brand:wikipedia": "fr:Jennyfer",
+        "name": "Jennyfer",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3435079,
+          44.4986387
+        ]
+      },
+      "id": "node/4050191160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050191161",
+        "addr:city": "Bologna",
+        "addr:housenumber": "36b",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Intimissimi Uomo",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3434972,
+          44.4985861
+        ]
+      },
+      "id": "node/4050191161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050191162",
+        "addr:city": "Bologna",
+        "addr:housenumber": "38b",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "brand": "Zara",
+        "brand:wikidata": "Q147662",
+        "brand:wikipedia": "en:Zara (retailer)",
+        "name": "Zara",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3435442,
+          44.4987621
+        ]
+      },
+      "id": "node/4050191162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050191166",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.343567,
+          44.4978342
+        ]
+      },
+      "id": "node/4050191166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050204598",
+        "addr:city": "Bologna",
+        "addr:housenumber": "15",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Kontatto",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.343237,
+          44.4967045
+        ]
+      },
+      "id": "node/4050204598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050209455",
+        "addr:city": "Bologna",
+        "addr:housenumber": "8",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Goldenpoint",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3426483,
+          44.4956991
+        ]
+      },
+      "id": "node/4050209455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050271325",
+        "brand": "Pimkie",
+        "brand:wikidata": "Q1758066",
+        "brand:wikipedia": "en:Pimkie",
+        "name": "Pimkie",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3431639,
+          44.4973497
+        ]
+      },
+      "id": "node/4050271325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050271327",
+        "addr:city": "Bologna",
+        "addr:housenumber": "24",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Oltre",
+        "name:it": "Liu Jo Uomo",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3432753,
+          44.4977369
+        ]
+      },
+      "id": "node/4050271327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050271331",
+        "addr:city": "Bologna",
+        "addr:housenumber": "26",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "brand": "Pull & Bear",
+        "brand:wikidata": "Q691029",
+        "brand:wikipedia": "en:Pull&Bear",
+        "name": "Pull & Bear",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3433841,
+          44.4981009
+        ]
+      },
+      "id": "node/4050271331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050271332",
+        "brand": "Sisley",
+        "brand:wikidata": "Q12054325",
+        "brand:wikipedia": "cs:Sisley",
+        "name": "Sisley",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3434016,
+          44.4981642
+        ]
+      },
+      "id": "node/4050271332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4265181789",
+        "name": "Mont Blanc",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3436282,
+          44.4927709
+        ]
+      },
+      "id": "node/4265181789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4267146792",
+        "name": "IKKS",
+        "name:it": "Regina Temporary Store",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.341999,
+          44.4913585
+        ]
+      },
+      "id": "node/4267146792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4268817289",
+        "name": "Lab Store",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.346386,
+          44.4969963
+        ]
+      },
+      "id": "node/4268817289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4274713976",
+        "name": "Fly Flot Store Bologna",
+        "shop": "clothes",
+        "website": "https://www.flyflot.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3623197,
+          44.4927795
+        ]
+      },
+      "id": "node/4274713976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275201333",
+        "name": "Market 54",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.351457,
+          44.4943
+        ]
+      },
+      "id": "node/4275201333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275201338",
+        "name": "3P Paltrinieri",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3518942,
+          44.493195
+        ]
+      },
+      "id": "node/4275201338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275226907",
+        "name": "Calida",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3509639,
+          44.4894529
+        ]
+      },
+      "id": "node/4275226907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275242125",
+        "name": "Sartoria Rossi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3423603,
+          44.4934792
+        ]
+      },
+      "id": "node/4275242125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275242127",
+        "name": "Cazzola",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3421685,
+          44.4934323
+        ]
+      },
+      "id": "node/4275242127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275242128",
+        "name": "Stonefly",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3420679,
+          44.4934591
+        ]
+      },
+      "id": "node/4275242128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275242134",
+        "name": "Gallo",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3423053,
+          44.4933261
+        ]
+      },
+      "id": "node/4275242134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275242136",
+        "name": "Avirex",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3421336,
+          44.493263
+        ]
+      },
+      "id": "node/4275242136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275242140",
+        "name": "Sandro Ferrone",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3421658,
+          44.4929377
+        ]
+      },
+      "id": "node/4275242140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275254545",
+        "name": "Donati",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3419728,
+          44.4927005
+        ]
+      },
+      "id": "node/4275254545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275254546",
+        "name": "Boggi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3420465,
+          44.4924766
+        ]
+      },
+      "id": "node/4275254546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275254547",
+        "name": "Cremonini Elite",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3420022,
+          44.4923637
+        ]
+      },
+      "id": "node/4275254547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275254548",
+        "name": "Calzedonia",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3418641,
+          44.4923331
+        ]
+      },
+      "id": "node/4275254548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275254551",
+        "name": "Mark Italy",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.341903,
+          44.4920624
+        ]
+      },
+      "id": "node/4275254551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275254552",
+        "name": "Angelico",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3417434,
+          44.4918242
+        ]
+      },
+      "id": "node/4275254552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275266869",
+        "name": "Luisa Spagnoli",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.341557,
+          44.491343
+        ]
+      },
+      "id": "node/4275266869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275280762",
+        "name": "Carlach ?",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3440462,
+          44.500558
+        ]
+      },
+      "id": "node/4275280762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4280334089",
+        "name": "Ingenito Fay",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3586025,
+          44.4894416
+        ]
+      },
+      "id": "node/4280334089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4280334093",
+        "name": "Host",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3591081,
+          44.4892502
+        ]
+      },
+      "id": "node/4280334093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4280334099",
+        "name": "Authemon",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3598913,
+          44.4889536
+        ]
+      },
+      "id": "node/4280334099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4280334100",
+        "name": "Ingenito",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3603352,
+          44.48879
+        ]
+      },
+      "id": "node/4280334100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4319222528",
+        "name": "Pellicceria Mattei Nora",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3521531,
+          44.4881968
+        ]
+      },
+      "id": "node/4319222528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4319222540",
+        "name": "Vittoria Filippi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3529524,
+          44.4874324
+        ]
+      },
+      "id": "node/4319222540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4319222542",
+        "name": "Blue Shop",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3530731,
+          44.4873128
+        ]
+      },
+      "id": "node/4319222542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4319222545",
+        "name": "Desi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3532045,
+          44.4869272
+        ]
+      },
+      "id": "node/4319222545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4377168995",
+        "name": "Jacky G",
+        "name:it": "Jacky G",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3456253,
+          44.4954254
+        ]
+      },
+      "id": "node/4377168995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460412021",
+        "addr:postcode": "40033",
+        "addr:street": "Via Aldo Moro",
+        "name": "Rian Next",
+        "name:it": "Rian Next",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2693518,
+          44.4841909
+        ]
+      },
+      "id": "node/4460412021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460412022",
+        "addr:postcode": "40033",
+        "addr:street": "Via Aldo Moro",
+        "name": "Nym",
+        "name:it": "Nym",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2688255,
+          44.4838656
+        ]
+      },
+      "id": "node/4460412022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460445392",
+        "addr:postcode": "40033",
+        "addr:street": "Via Aldo Moro",
+        "name": "Fabbri",
+        "name:it": "Fabbri",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2691818,
+          44.4839567
+        ]
+      },
+      "id": "node/4460445392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460445494",
+        "addr:postcode": "40033",
+        "addr:street": "Piazza degli Etruschi",
+        "name": "Comi' Come'",
+        "name:it": "Comi' Come'",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2696398,
+          44.482549
+        ]
+      },
+      "id": "node/4460445494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460450491",
+        "addr:postcode": "40033",
+        "addr:street": "Via Aldo Moro",
+        "name": "Via Condotti",
+        "name:it": "Via Condotti",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2695247,
+          44.4836554
+        ]
+      },
+      "id": "node/4460450491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460450493",
+        "addr:postcode": "40033",
+        "addr:street": "Via Aldo Moro",
+        "name": "U.C.of Benetton",
+        "name:it": "United Colors of Benetton",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2694871,
+          44.4835047
+        ]
+      },
+      "id": "node/4460450493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460469292",
+        "addr:postcode": "40033",
+        "addr:street": "Piazza degli Etruschi",
+        "name": "Just Glam",
+        "name:it": "Just Glam",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2696921,
+          44.4830628
+        ]
+      },
+      "id": "node/4460469292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460491090",
+        "addr:postcode": "40033",
+        "addr:street": "Via Aldo Moro",
+        "name": "Sisley",
+        "name:it": "Sisley",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2691601,
+          44.483752
+        ]
+      },
+      "id": "node/4460491090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460491389",
+        "addr:postcode": "40033",
+        "addr:street": "Via Aldo Moro",
+        "name": "O'dett",
+        "name:it": "O'dett",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2692578,
+          44.4836774
+        ]
+      },
+      "id": "node/4460491389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460493089",
+        "addr:postcode": "40033",
+        "addr:street": "Via Aldo Moro",
+        "name": "Ovs",
+        "name:it": "Ovs",
+        "shop": "clothes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2703997,
+          44.4832891
+        ]
+      },
+      "id": "node/4460493089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469887190",
+        "name": "Gucci",
+        "name:it": "Gucci",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3442262,
+          44.4914772
+        ]
+      },
+      "id": "node/4469887190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469890289",
+        "name": "Motivi",
+        "name:it": "Motivi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3391603,
+          44.4955157
+        ]
+      },
+      "id": "node/4469890289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469949590",
+        "name": "Prada",
+        "name:it": "Prada",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3440656,
+          44.4917135
+        ]
+      },
+      "id": "node/4469949590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469962995",
+        "name": "Brunello Cucinelli",
+        "name:it": "Brunello Cucinelli",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3442248,
+          44.492483
+        ]
+      },
+      "id": "node/4469962995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469962996",
+        "name": "Emporio Armani",
+        "name:it": "Emporio Armani",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3443893,
+          44.4923217
+        ]
+      },
+      "id": "node/4469962996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469963190",
+        "name": "Bologna F.C.",
+        "name:it": "Bologna F.C.",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3440682,
+          44.4916516
+        ]
+      },
+      "id": "node/4469963190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469969189",
+        "name": "Louis Vuitton",
+        "name:it": "Louis Vuitton",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3440741,
+          44.4914719
+        ]
+      },
+      "id": "node/4469969189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469982791",
+        "name": "Gentry Portofino",
+        "name:it": "Gentry Portofino",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3444255,
+          44.4924484
+        ]
+      },
+      "id": "node/4469982791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4470013090",
+        "name": "Ratti",
+        "name:it": "Ratti",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3441049,
+          44.4924956
+        ]
+      },
+      "id": "node/4470013090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4470028595",
+        "name": "Re.Made.Bo",
+        "name:it": "Re.Made.Bo",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3471282,
+          44.4943996
+        ]
+      },
+      "id": "node/4470028595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4472691089",
+        "addr:housenumber": "2/47",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Timberland",
+        "name:it": "Timberland",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2493836,
+          44.4889264
+        ]
+      },
+      "id": "node/4472691089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4472691190",
+        "addr:housenumber": "2/54",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Tezenis",
+        "name:it": "Tezenis",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2494366,
+          44.4884306
+        ]
+      },
+      "id": "node/4472691190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4472691389",
+        "addr:housenumber": "2/80",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Mixeri",
+        "name:it": "Mixeri",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2485441,
+          44.4888204
+        ]
+      },
+      "id": "node/4472691389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498501407",
+        "addr:housenumber": "2/49",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Napapijri",
+        "name:it": "Napapijri",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2494603,
+          44.4887952
+        ]
+      },
+      "id": "node/4498501407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498524596",
+        "addr:housenumber": "2/52",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Desigual",
+        "name:it": "Desigual",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2494341,
+          44.4885852
+        ]
+      },
+      "id": "node/4498524596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498535294",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Prenatal",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2492022,
+          44.487381
+        ]
+      },
+      "id": "node/4498535294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498549489",
+        "addr:housenumber": "2/46",
+        "addr:postcode": "40043",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Geox",
+        "name:it": "Geox",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2491386,
+          44.4889739
+        ]
+      },
+      "id": "node/4498549489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498549493",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Pimkie",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2483584,
+          44.4882663
+        ]
+      },
+      "id": "node/4498549493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498549689",
+        "addr:housenumber": "2/45",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Yamamay",
+        "name:it": "Yamamay",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2488374,
+          44.4890387
+        ]
+      },
+      "id": "node/4498549689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498549691",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Pandora",
+        "name:it": "Pandora",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2483303,
+          44.488173
+        ]
+      },
+      "id": "node/4498549691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498549692",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Disponibile",
+        "name:en": "Available",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2482992,
+          44.4880861
+        ]
+      },
+      "id": "node/4498549692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498549990",
+        "addr:housenumber": "64",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Chemise",
+        "name:it": "Chemise",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2482159,
+          44.4878127
+        ]
+      },
+      "id": "node/4498549990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498550689",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Alcott",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2481129,
+          44.4874978
+        ]
+      },
+      "id": "node/4498550689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498694589",
+        "addr:housenumber": "2/3",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Intimissimi",
+        "name:it": "Intimissimi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2487058,
+          44.4891372
+        ]
+      },
+      "id": "node/4498694589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498694591",
+        "addr:housenumber": "2/6",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Okaidi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2491982,
+          44.4887472
+        ]
+      },
+      "id": "node/4498694591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498694891",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Lovable",
+        "name:it": "Lovable",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2482891,
+          44.4888763
+        ]
+      },
+      "id": "node/4498694891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498699289",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Calzedonia",
+        "name:it": "Calzedonia",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2481413,
+          44.4883271
+        ]
+      },
+      "id": "node/4498699289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498703696",
+        "addr:housenumber": "2/17",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Caporiccio",
+        "name:it": "Caporiccio",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2484205,
+          44.4878235
+        ]
+      },
+      "id": "node/4498703696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498840192",
+        "name": "Tiche",
+        "name:it": "Tiche",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2644287,
+          44.5205542
+        ]
+      },
+      "id": "node/4498840192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498844191",
+        "name": "Conte of Florence",
+        "name:it": "Conte of Florence",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2648136,
+          44.5202512
+        ]
+      },
+      "id": "node/4498844191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498852693",
+        "name": "Intimissimi",
+        "name:it": "Intimissimi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2647212,
+          44.520119
+        ]
+      },
+      "id": "node/4498852693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4512305178",
+        "addr:city": "Granarolo dell'Emilia",
+        "addr:housenumber": "54",
+        "addr:postcode": "40057",
+        "addr:street": "Via Bruno Buozzi",
+        "name": "A.TESTONI Factory Outlet",
+        "opening_hours": "Mo-Sa 10:00-19:00; Su off",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.399171,
+          44.5546994
+        ]
+      },
+      "id": "node/4512305178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523157393",
+        "addr:housenumber": "23",
+        "addr:postcode": "40127",
+        "addr:street": "Viale Tito Carnacini",
+        "name": "Den Store",
+        "name:en": "Den Store",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.400011,
+          44.5142956
+        ]
+      },
+      "id": "node/4523157393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523221001",
+        "addr:housenumber": "19",
+        "addr:postcode": "40127",
+        "addr:street": "Viale Tito Carnacini",
+        "name": "Upim",
+        "name:it": "Upim",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3996652,
+          44.5144125
+        ]
+      },
+      "id": "node/4523221001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523224592",
+        "addr:housenumber": "21",
+        "addr:postcode": "40127",
+        "addr:street": "Viale Tito Carnacini",
+        "name": "Chicco",
+        "name:it": "Chicco",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3998807,
+          44.514341
+        ]
+      },
+      "id": "node/4523224592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523333390",
+        "name": "Prenatal",
+        "name:it": "Prenatal",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3315675,
+          44.5072051
+        ]
+      },
+      "id": "node/4523333390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523352194",
+        "addr:postcode": "40013",
+        "addr:street": "Via Pio La Torre",
+        "name": "Lattementa",
+        "name:it": "Borgo Tessile",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3573463,
+          44.5681783
+        ]
+      },
+      "id": "node/4523352194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523352195",
+        "addr:housenumber": "1i",
+        "addr:postcode": "40013",
+        "addr:street": "Via Pio La Torre",
+        "name": "United Colors of Benetton",
+        "name:it": "United Colors of Benetton",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3577576,
+          44.568646
+        ]
+      },
+      "id": "node/4523352195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523358994",
+        "addr:postcode": "40013",
+        "addr:street": "Via Pio La Torre",
+        "name": "David Label",
+        "name:it": "David Label",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3569833,
+          44.5679096
+        ]
+      },
+      "id": "node/4523358994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523358995",
+        "addr:housenumber": "6A",
+        "addr:postcode": "40013",
+        "addr:street": "Via Pio La Torre",
+        "name:en": "Tally Weijl",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3573309,
+          44.5685024
+        ]
+      },
+      "id": "node/4523358995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523358996",
+        "addr:housenumber": "6",
+        "addr:postcode": "40013",
+        "addr:street": "Via Pio La Torre",
+        "name": "Fabbri Boutiques",
+        "name:it": "Fabbri Boutiques",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3573533,
+          44.56858
+        ]
+      },
+      "id": "node/4523358996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523381090",
+        "addr:housenumber": "1",
+        "addr:postcode": "40013",
+        "addr:street": "Via Pio La Torre",
+        "name": "O'dett",
+        "name:it": "O'dett",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.357831,
+          44.5687657
+        ]
+      },
+      "id": "node/4523381090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523381091",
+        "name": "Alcott",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3581729,
+          44.5690002
+        ]
+      },
+      "id": "node/4523381091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523407590",
+        "addr:postcode": "40013",
+        "addr:street": "Via Pio La Torre",
+        "name": "Champion",
+        "name:it": "Champion",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3571048,
+          44.5676594
+        ]
+      },
+      "id": "node/4523407590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524451092",
+        "addr:street": "Via Cristoforo Colombo",
+        "name": "Kiabi",
+        "name:it": "Kiabi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3366521,
+          44.5303313
+        ]
+      },
+      "id": "node/4524451092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524778590",
+        "name": "OVS",
+        "name:it": "OVS",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3924886,
+          44.4975695
+        ]
+      },
+      "id": "node/4524778590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524791995",
+        "name": "Oltre",
+        "name:it": "Oltre",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3912484,
+          44.4979528
+        ]
+      },
+      "id": "node/4524791995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524791996",
+        "name": "Calzedonia",
+        "name:it": "Calzedonia",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3918759,
+          44.4976511
+        ]
+      },
+      "id": "node/4524791996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524791997",
+        "name": "Intimissimi",
+        "name:it": "Intimissimi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3921338,
+          44.4974699
+        ]
+      },
+      "id": "node/4524791997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524803495",
+        "name": "Pinokkio",
+        "name:it": "Pinokkio",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.391626,
+          44.4977203
+        ]
+      },
+      "id": "node/4524803495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524803496",
+        "name": "Regali Maison Liberty",
+        "name:en": "Maison Liberty",
+        "name:it": "Carrera Jeans",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3917985,
+          44.4977887
+        ]
+      },
+      "id": "node/4524803496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524803498",
+        "name": "Particolari",
+        "name:en": "Lovable",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3915649,
+          44.4976246
+        ]
+      },
+      "id": "node/4524803498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524803593",
+        "name": "Original Marines",
+        "name:it": "Original Marines",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3913588,
+          44.4979214
+        ]
+      },
+      "id": "node/4524803593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524803895",
+        "name": "Zuiki",
+        "name:it": "Sottotono",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3912931,
+          44.4978176
+        ]
+      },
+      "id": "node/4524803895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4534010991",
+        "name": "Original Marines",
+        "name:it": "Original Marines",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4214473,
+          44.4906222
+        ]
+      },
+      "id": "node/4534010991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4534088092",
+        "name": "Maurizio",
+        "name:it": "Maurizio",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4207591,
+          44.4912431
+        ]
+      },
+      "id": "node/4534088092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4534088093",
+        "name": "Primadonna",
+        "name:it": "Primadonna",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4202202,
+          44.4907897
+        ]
+      },
+      "id": "node/4534088093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4534106889",
+        "name": "Bershka",
+        "name:it": "Bershka",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4206325,
+          44.4912777
+        ]
+      },
+      "id": "node/4534106889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535724300",
+        "name": "Oysho",
+        "name:it": "Oysho",
+        "shop": "clothes",
+        "website": "https://www.oysho.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4209898,
+          44.490756
+        ]
+      },
+      "id": "node/4535724300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535724306",
+        "name": "Calzedonia",
+        "name:it": "Calzedonia",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4207504,
+          44.490517
+        ]
+      },
+      "id": "node/4535724306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535724307",
+        "name": "Fiorella Rubino",
+        "name:it": "Fiorella Rubino",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4211559,
+          44.4903887
+        ]
+      },
+      "id": "node/4535724307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535727197",
+        "name": "Camiceria Affinito",
+        "name:it": "Camiceria Affinito",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4204258,
+          44.4911661
+        ]
+      },
+      "id": "node/4535727197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535727202",
+        "name": "Nara Camicie",
+        "name:it": "Nara Camicie",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4223449,
+          44.4901958
+        ]
+      },
+      "id": "node/4535727202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535727205",
+        "name": "Alcott",
+        "name:it": "Alcott",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4228843,
+          44.4904233
+        ]
+      },
+      "id": "node/4535727205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535727208",
+        "name": "OVS",
+        "name:it": "OVS",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4239056,
+          44.4915612
+        ]
+      },
+      "id": "node/4535727208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535817097",
+        "name": "Max & Co.",
+        "name:it": "Max & Co.",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4210858,
+          44.4907258
+        ]
+      },
+      "id": "node/4535817097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535817101",
+        "name": "United Colors of Benetton",
+        "name:it": "United Colors of Benetton",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4218047,
+          44.4903985
+        ]
+      },
+      "id": "node/4535817101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535817103",
+        "name": "O'dett",
+        "name:it": "O'dett",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4222614,
+          44.4903734
+        ]
+      },
+      "id": "node/4535817103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535817105",
+        "name": "Sisley",
+        "name:it": "Sisley",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4224563,
+          44.4901591
+        ]
+      },
+      "id": "node/4535817105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535817106",
+        "name": "Intimissimi",
+        "name:it": "Intimissimi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4225803,
+          44.4902817
+        ]
+      },
+      "id": "node/4535817106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535817110",
+        "name": "Motivi",
+        "name:it": "Motivi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.423013,
+          44.4903845
+        ]
+      },
+      "id": "node/4535817110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535817113",
+        "name": "King Sport & Style",
+        "name:it": "King Sport & Style",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4236555,
+          44.491648
+        ]
+      },
+      "id": "node/4535817113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535817692",
+        "name": "Tezenis",
+        "name:it": "Tezenis",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4222357,
+          44.4902312
+        ]
+      },
+      "id": "node/4535817692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535818493",
+        "name": "Z",
+        "name:it": "Z",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4208475,
+          44.4904827
+        ]
+      },
+      "id": "node/4535818493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535818495",
+        "name": "Sirmoney Liberamente",
+        "name:it": "Sirmoney Liberamente",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4212643,
+          44.4903593
+        ]
+      },
+      "id": "node/4535818495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535818498",
+        "name": "United Colors of Benetton",
+        "name:it": "United Colors of Benetton",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4224677,
+          44.4903131
+        ]
+      },
+      "id": "node/4535818498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535827289",
+        "name": "H&M",
+        "name:it": "H&M",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4202496,
+          44.490893
+        ]
+      },
+      "id": "node/4535827289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4540598390",
+        "addr:housenumber": "84",
+        "addr:postcode": "40132",
+        "addr:street": "Via del Triumvirato",
+        "name": "Camomilla",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2927596,
+          44.529502
+        ]
+      },
+      "id": "node/4540598390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4540598393",
+        "addr:postcode": "40132",
+        "addr:street": "Via del Triumvirato",
+        "name": "Aeronautica Militare",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.292253,
+          44.5295163
+        ]
+      },
+      "id": "node/4540598393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4540620790",
+        "addr:housenumber": "84",
+        "addr:postcode": "40132",
+        "addr:street": "Via del Triumvirato",
+        "name": "Ingram",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2924427,
+          44.5297027
+        ]
+      },
+      "id": "node/4540620790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4540620791",
+        "addr:postcode": "40132",
+        "addr:street": "Via del Triumvirato",
+        "clothes": "underwear",
+        "name": "Yamamay",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.292563,
+          44.5295954
+        ]
+      },
+      "id": "node/4540620791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4563036091",
+        "addr:housenumber": "84",
+        "addr:postcode": "40132",
+        "addr:street": "Via del Triumvirato",
+        "clothes": "underwear",
+        "name": "Victoria's Secret",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2924848,
+          44.5296424
+        ]
+      },
+      "id": "node/4563036091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4570480309",
+        "name": "Magazzini Europa",
+        "name:it": "Magazzini Europa",
+        "opening_hours": "Mo-We, Fr-Sa 08:30-12:30, 15:30-19:30; Th 08:30-12:30",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2769082,
+          44.4742309
+        ]
+      },
+      "id": "node/4570480309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4599543391",
+        "addr:housenumber": "84",
+        "addr:postcode": "40132",
+        "addr:street": "Via del Triumvirato",
+        "name": "Armani Jeans",
+        "name:it": "Armani Jeans",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2932514,
+          44.5299532
+        ]
+      },
+      "id": "node/4599543391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4680339796",
+        "addr:street": "Via Marco Polo",
+        "name": "United Colors of Benetton",
+        "name:it": "United Colors of Benetton",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3292716,
+          44.5149134
+        ]
+      },
+      "id": "node/4680339796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4680355910",
+        "addr:housenumber": "21",
+        "addr:street": "Via Marco Polo",
+        "name": "Camaieu",
+        "name:it": "Camaieu",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3291854,
+          44.5149237
+        ]
+      },
+      "id": "node/4680355910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4680373406",
+        "addr:housenumber": "39",
+        "addr:street": "Via Marco Polo",
+        "name": "Sorbino",
+        "name:it": "Sorbino",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3291414,
+          44.5147941
+        ]
+      },
+      "id": "node/4680373406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4680373407",
+        "addr:housenumber": "40",
+        "addr:street": "Via Marco Polo",
+        "name": "Okaidi",
+        "name:it": "Okaidi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3291275,
+          44.5147314
+        ]
+      },
+      "id": "node/4680373407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4680374729",
+        "addr:housenumber": "41",
+        "addr:street": "Via Marco Polo",
+        "name": "Tokuno Shima",
+        "name:it": "Tokuno Shima",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3291135,
+          44.5146685
+        ]
+      },
+      "id": "node/4680374729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4680374730",
+        "addr:housenumber": "15",
+        "addr:street": "Via Marco Polo",
+        "name": "Lovable",
+        "name:it": "Lovable",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3289294,
+          44.5147275
+        ]
+      },
+      "id": "node/4680374730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4680377993",
+        "addr:housenumber": "24",
+        "addr:street": "Via Marco Polo",
+        "name": "Original Marines",
+        "name:it": "Original Marines",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.329355,
+          44.5149028
+        ]
+      },
+      "id": "node/4680377993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4688710890",
+        "addr:street": "Via Giovanni Amendola",
+        "name": "Arcobaleno",
+        "name:it": "Arcobaleno",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3413156,
+          44.5047564
+        ]
+      },
+      "id": "node/4688710890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4693599989",
+        "addr:postcode": "40033",
+        "addr:street": "Via Aldo Moro",
+        "name": "Goldenpoint",
+        "name:it": "Goldenpoint",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2692715,
+          44.4838748
+        ]
+      },
+      "id": "node/4693599989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4696835895",
+        "name": "Di Mella",
+        "name:it": "Di Mella",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.341286,
+          44.4927455
+        ]
+      },
+      "id": "node/4696835895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4696856495",
+        "name": "La porta sull'immaginario",
+        "name:it": "La porta sull'immaginario",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3408203,
+          44.4927601
+        ]
+      },
+      "id": "node/4696856495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4696888189",
+        "name": "Host.shop",
+        "name:it": "Host.shop",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3408848,
+          44.4929492
+        ]
+      },
+      "id": "node/4696888189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4696966695",
+        "name": "Morbidi....ssime",
+        "name:it": "Morbidi....ssime",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2796807,
+          44.5159506
+        ]
+      },
+      "id": "node/4696966695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4696975889",
+        "name": "Outlet 22",
+        "name:it": "Outlet 22",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3250239,
+          44.4998987
+        ]
+      },
+      "id": "node/4696975889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708313589",
+        "name": "And Camicie",
+        "name:it": "And Camicie",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3434489,
+          44.4983114
+        ]
+      },
+      "id": "node/4708313589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708340789",
+        "name": "Scout",
+        "name:it": "Scout",
+        "shop": "clothes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3447318,
+          44.4991249
+        ]
+      },
+      "id": "node/4708340789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708341089",
+        "addr:housenumber": "14A",
+        "name": "Scout",
+        "shop": "clothes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3450813,
+          44.4990709
+        ]
+      },
+      "id": "node/4708341089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708341095",
+        "name": "Josie",
+        "name:it": "Josie",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3465208,
+          44.4984443
+        ]
+      },
+      "id": "node/4708341095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708341191",
+        "name": "Il Pattino",
+        "name:it": "Il Pattino",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3467609,
+          44.498551
+        ]
+      },
+      "id": "node/4708341191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708341293",
+        "name": "Matias",
+        "name:it": "Matias",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3464372,
+          44.4984455
+        ]
+      },
+      "id": "node/4708341293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708341294",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.346298,
+          44.4984664
+        ]
+      },
+      "id": "node/4708341294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708341389",
+        "name": "Paolo Casalini",
+        "name:it": "Paolo Casalini",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3454768,
+          44.499004
+        ]
+      },
+      "id": "node/4708341389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708346090",
+        "name": "Ferramenta",
+        "name:it": "Ferramenta",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3472746,
+          44.4981529
+        ]
+      },
+      "id": "node/4708346090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708346191",
+        "name": "Ego",
+        "name:it": "Ego",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3469667,
+          44.4982923
+        ]
+      },
+      "id": "node/4708346191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708347698",
+        "name": "Matta e Goldoni",
+        "name:it": "Matta e Goldoni",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3481592,
+          44.4978393
+        ]
+      },
+      "id": "node/4708347698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708386390",
+        "name": "Celio",
+        "name:it": "Celio",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su 10:00-20:00; PH closed",
+        "shop": "clothes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3425079,
+          44.505421
+        ]
+      },
+      "id": "node/4708386390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708388494",
+        "name": "Camomilla",
+        "name:it": "Camomilla",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.34241,
+          44.5059027
+        ]
+      },
+      "id": "node/4708388494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708388495",
+        "name": "Pull Love Firenze",
+        "name:it": "Pull Love Firenze",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3422007,
+          44.5056869
+        ]
+      },
+      "id": "node/4708388495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708388498",
+        "name": "Motivi",
+        "name:it": "Motivi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3418523,
+          44.50553
+        ]
+      },
+      "id": "node/4708388498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708404790",
+        "name": "A.Testoni",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3447313,
+          44.5033996
+        ]
+      },
+      "id": "node/4708404790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708423091",
+        "name": "Tally Weijl",
+        "name:it": "Tally Weijl",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3419306,
+          44.5055196
+        ]
+      },
+      "id": "node/4708423091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4715907897",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5354507,
+          44.5382461
+        ]
+      },
+      "id": "node/4715907897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4716602300",
+        "name": "Bologna FC",
+        "name:it": "Bologna FC",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2640994,
+          44.5192129
+        ]
+      },
+      "id": "node/4716602300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4732004932",
+        "name": "Virtus Point",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3490782,
+          44.500251
+        ]
+      },
+      "id": "node/4732004932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4732015090",
+        "name": "Imperial Town",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3457757,
+          44.4996092
+        ]
+      },
+      "id": "node/4732015090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4789519435",
+        "name": "2 Home",
+        "name:it": "2 Home",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.340893,
+          44.4931788
+        ]
+      },
+      "id": "node/4789519435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807102422",
+        "name": "Seduzioni",
+        "name:it": "Seduzioni",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3411029,
+          44.4937403
+        ]
+      },
+      "id": "node/4807102422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807102423",
+        "name": "Vittory",
+        "name:it": "Vittory",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.341404,
+          44.4936918
+        ]
+      },
+      "id": "node/4807102423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807102424",
+        "name": "Doria",
+        "name:it": "Doria",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.341544,
+          44.4936755
+        ]
+      },
+      "id": "node/4807102424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807102523",
+        "name": "Pasquali Donna",
+        "name:it": "Pasquali Donna",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3414744,
+          44.4936832
+        ]
+      },
+      "id": "node/4807102523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807307425",
+        "name": "Camicissima",
+        "name:it": "Camicissima",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.341935,
+          44.4921588
+        ]
+      },
+      "id": "node/4807307425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807307430",
+        "name": "Tezuk",
+        "name:it": "Tezuk",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3418759,
+          44.491514
+        ]
+      },
+      "id": "node/4807307430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807307431",
+        "name": "Atelier Eme'",
+        "name:it": "Atelier Eme'",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3416886,
+          44.4915569
+        ]
+      },
+      "id": "node/4807307431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807307434",
+        "name": "Mercedes-Benz",
+        "name:it": "Mercedes-Benz",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3420338,
+          44.4924307
+        ]
+      },
+      "id": "node/4807307434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807307435",
+        "name": "Flanella",
+        "name:it": "Flanella",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3418804,
+          44.4924145
+        ]
+      },
+      "id": "node/4807307435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807307436",
+        "name": "Maglieria d'Azeglio",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3419119,
+          44.4925537
+        ]
+      },
+      "id": "node/4807307436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807307441",
+        "name": "Anastasia",
+        "name:it": "Anastasia",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3422519,
+          44.4931776
+        ]
+      },
+      "id": "node/4807307441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807308433",
+        "name": "CarlAlberti",
+        "name:it": "CarlAlberti",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3421105,
+          44.4927255
+        ]
+      },
+      "id": "node/4807308433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807308437",
+        "name": "Happiness",
+        "name:it": "Happiness",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3423193,
+          44.4933612
+        ]
+      },
+      "id": "node/4807308437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807313026",
+        "name": "Patrizia Pepe",
+        "name:it": "Patrizia Pepe",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3429039,
+          44.4912618
+        ]
+      },
+      "id": "node/4807313026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807313027",
+        "name": "Marisell",
+        "name:it": "Marisell",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3425264,
+          44.4913832
+        ]
+      },
+      "id": "node/4807313027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807313322",
+        "name": "N.a.f.",
+        "name:it": "N.a.f.",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3418949,
+          44.4916591
+        ]
+      },
+      "id": "node/4807313322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807313423",
+        "name": "Flanella",
+        "name:it": "Flanella",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3422734,
+          44.4920849
+        ]
+      },
+      "id": "node/4807313423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807313425",
+        "name": "Stilosophy",
+        "name:it": "Stilosophy",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3426305,
+          44.4912518
+        ]
+      },
+      "id": "node/4807313425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807313427",
+        "name": "Silvestri e Taddei",
+        "name:it": "Silvestri e Taddei",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3421817,
+          44.492992
+        ]
+      },
+      "id": "node/4807313427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807315222",
+        "name": "Tru Trussardi",
+        "name:it": "Tru Trussardi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3432872,
+          44.4915727
+        ]
+      },
+      "id": "node/4807315222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807315223",
+        "name": "Massimo Rebecchi",
+        "name:it": "Massimo Rebecchi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3428078,
+          44.4912582
+        ]
+      },
+      "id": "node/4807315223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807317921",
+        "name": "Kaos",
+        "name:it": "Kaos",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3423538,
+          44.4913757
+        ]
+      },
+      "id": "node/4807317921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807317922",
+        "name": "Manila Grace",
+        "name:it": "Manila Grace",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3422629,
+          44.491372
+        ]
+      },
+      "id": "node/4807317922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4810013824",
+        "addr:housenumber": "45",
+        "addr:street": "Marco Polo",
+        "name": "Goldenpoint",
+        "name:it": "Goldenpoint",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3291748,
+          44.5142819
+        ]
+      },
+      "id": "node/4810013824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4810043927",
+        "addr:housenumber": "48",
+        "addr:street": "Marco Polo",
+        "name": "Oltre",
+        "name:it": "Oltre",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3290333,
+          44.5142055
+        ]
+      },
+      "id": "node/4810043927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4810043928",
+        "addr:housenumber": "10",
+        "addr:street": "Marco Polo",
+        "name": "Fiorella Rubino",
+        "name:it": "Fiorella Rubino",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3288594,
+          44.5144568
+        ]
+      },
+      "id": "node/4810043928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4810044122",
+        "addr:housenumber": "11",
+        "addr:street": "Marco Polo",
+        "name": "Less",
+        "name:it": "Less",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3288762,
+          44.5145199
+        ]
+      },
+      "id": "node/4810044122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4824905325",
+        "addr:postcode": "40013",
+        "addr:street": "Via Pio La Torre",
+        "name": "Fiore del Sale",
+        "name:it": "Fiore del Sale",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3572834,
+          44.5684322
+        ]
+      },
+      "id": "node/4824905325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4824905326",
+        "name": "Kennet Street",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.357035,
+          44.5681372
+        ]
+      },
+      "id": "node/4824905326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5016922322",
+        "addr:housenumber": "2/77",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Original Marines",
+        "name:en": "Original Marines",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2484804,
+          44.4886298
+        ]
+      },
+      "id": "node/5016922322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5016922522",
+        "name": "Golden Point",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2482654,
+          44.4887963
+        ]
+      },
+      "id": "node/5016922522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5078406426",
+        "name": "Francomina",
+        "name:it": "Francomina",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3365868,
+          44.4960059
+        ]
+      },
+      "id": "node/5078406426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5078406528",
+        "name": "Fabiola",
+        "name:it": "Fabiola",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3365244,
+          44.4960263
+        ]
+      },
+      "id": "node/5078406528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5078508325",
+        "name": "Lemar",
+        "name:it": "Lemar",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3137576,
+          44.5038726
+        ]
+      },
+      "id": "node/5078508325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109361025",
+        "name": "Lido Fashion",
+        "opening_hours": "Mo-We, Fr-Sa 08:30-12:30, 15:30-19:30",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2772634,
+          44.4739595
+        ]
+      },
+      "id": "node/5109361025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109392722",
+        "name": "Extrò",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277733,
+          44.4733344
+        ]
+      },
+      "id": "node/5109392722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5190525328",
+        "addr:city": "Bologna",
+        "addr:housenumber": "7C",
+        "addr:postcode": "40131",
+        "addr:street": "Via Vittorio Veneto",
+        "clothes": "underwear",
+        "contact:mobile": "+39 347 2638376",
+        "delivery:covid19": "yes",
+        "description:it": "Abbigliamento intimo uomo e donna ( intimo, pigiameria, calze, homewear). Consegna Gratuita a domicilio.",
+        "name": "Alessandra",
+        "payment": "wire_transfer",
+        "payment:cash": "yes",
+        "shop": "clothes",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3208522,
+          44.5001735
+        ]
+      },
+      "id": "node/5190525328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5190525330",
+        "addr:city": "Bologna",
+        "addr:housenumber": "10",
+        "addr:postcode": "40131",
+        "addr:street": "Via Vittorio Veneto",
+        "name": "Azzoguidi 1957",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3211409,
+          44.5002133
+        ]
+      },
+      "id": "node/5190525330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5196081421",
+        "name": "Stock & Store",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2668347,
+          44.5143542
+        ]
+      },
+      "id": "node/5196081421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204796716",
+        "name": "Du Pareil au Même",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3447071,
+          44.5026996
+        ]
+      },
+      "id": "node/5204796716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204796717",
+        "name": "Venere",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3449531,
+          44.5026692
+        ]
+      },
+      "id": "node/5204796717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204796718",
+        "name": "Della Nonna",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.344699,
+          44.5026503
+        ]
+      },
+      "id": "node/5204796718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204824821",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3446441,
+          44.502459
+        ]
+      },
+      "id": "node/5204824821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204824823",
+        "name": "Z&H",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3445079,
+          44.5019892
+        ]
+      },
+      "id": "node/5204824823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204824824",
+        "name": "Outlet",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3447193,
+          44.5016427
+        ]
+      },
+      "id": "node/5204824824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204824826",
+        "name": "Silvestri & Taddei",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3446786,
+          44.5015093
+        ]
+      },
+      "id": "node/5204824826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204824827",
+        "name": "Vivre 21",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3446664,
+          44.5014673
+        ]
+      },
+      "id": "node/5204824827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5267686521",
+        "addr:housenumber": "19/C",
+        "addr:postcode": "40124",
+        "addr:street": "Via de' Foscherari",
+        "name": "L‘inde Le Palais Men‘s Store",
+        "opening_hours": "Tu-We 10:30-14:00, 15:30-19:30; Mo, Th-Fr 15:30-19:30; Sa 10:30-19:30",
+        "phone": "+390510301108",
+        "shop": "clothes",
+        "website": "http://www.lindelepalais.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3448512,
+          44.4923684
+        ]
+      },
+      "id": "node/5267686521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5348802378",
+        "addr:city": "Bologna",
+        "addr:postcode": "40128",
+        "addr:street": "Via Stalingrado",
+        "name": "Macron Store",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3624242,
+          44.5192798
+        ]
+      },
+      "id": "node/5348802378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5497701870",
+        "name": "Xetra",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3440191,
+          44.4943696
+        ]
+      },
+      "id": "node/5497701870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5497701875",
+        "name": "Campora",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3439601,
+          44.4937526
+        ]
+      },
+      "id": "node/5497701875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5497701876",
+        "name": "Momoni",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3442364,
+          44.4933671
+        ]
+      },
+      "id": "node/5497701876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5497701878",
+        "name": "Brooksfield",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3440352,
+          44.4933269
+        ]
+      },
+      "id": "node/5497701878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5497701880",
+        "name": "WP Store",
+        "shop": "clothes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3440339,
+          44.4934034
+        ]
+      },
+      "id": "node/5497701880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5497701881",
+        "name": "Fiorini",
+        "shop": "clothes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3438743,
+          44.4934139
+        ]
+      },
+      "id": "node/5497701881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5497710061",
+        "name": "Ferretti",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3463647,
+          44.4943433
+        ]
+      },
+      "id": "node/5497710061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501217253",
+        "addr:city": "Bologna",
+        "addr:housenumber": "5",
+        "addr:postcode": "40125",
+        "addr:street": "Piazza della Mercanzia",
+        "name": "Brooks Brothers",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3463673,
+          44.493537
+        ]
+      },
+      "id": "node/5501217253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501217254",
+        "name": "G. Zinelli",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3463545,
+          44.4936427
+        ]
+      },
+      "id": "node/5501217254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501217256",
+        "name": "Lange",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3453822,
+          44.4937996
+        ]
+      },
+      "id": "node/5501217256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501264752",
+        "name": "Diesel",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3448015,
+          44.4932447
+        ]
+      },
+      "id": "node/5501264752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501264754",
+        "name": "Borbonese",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3446835,
+          44.4931759
+        ]
+      },
+      "id": "node/5501264754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501264760",
+        "name": "Stefanel",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3449705,
+          44.4929998
+        ]
+      },
+      "id": "node/5501264760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501264762",
+        "name": "Céline",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3449832,
+          44.4929534
+        ]
+      },
+      "id": "node/5501264762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501264766",
+        "name": "Liviana Conti",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3454835,
+          44.4929453
+        ]
+      },
+      "id": "node/5501264766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501264767",
+        "name": "Ax",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.345468,
+          44.4929003
+        ]
+      },
+      "id": "node/5501264767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501264768",
+        "name": "Market",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3454546,
+          44.4928635
+        ]
+      },
+      "id": "node/5501264768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501264769",
+        "name": "Ratti",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.345399,
+          44.4930529
+        ]
+      },
+      "id": "node/5501264769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501264771",
+        "name": "Polo Ralph Lauren",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3452421,
+          44.4931716
+        ]
+      },
+      "id": "node/5501264771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501264778",
+        "name": "Giusti",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3464196,
+          44.4928721
+        ]
+      },
+      "id": "node/5501264778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501264779",
+        "name": "Jacadi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3464732,
+          44.4931797
+        ]
+      },
+      "id": "node/5501264779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5525081161",
+        "name": "O L'autrechose",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3450818,
+          44.4920619
+        ]
+      },
+      "id": "node/5525081161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5525118823",
+        "name": "Pinko",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3451251,
+          44.4921484
+        ]
+      },
+      "id": "node/5525118823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5569022887",
+        "addr:city": "Bologna",
+        "addr:postcode": "40141",
+        "addr:street": "Via Toscana",
+        "clothes": "women;men;fashion",
+        "name": "Outlet Pasquali",
+        "operator": "Pasquali",
+        "payment:cash": "yes",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3705946,
+          44.4714845
+        ]
+      },
+      "id": "node/5569022887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5604591029",
+        "name": "Tempest",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3712985,
+          44.4692323
+        ]
+      },
+      "id": "node/5604591029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5743497056",
+        "name": "Jader Jeans",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1699015,
+          44.5121955
+        ]
+      },
+      "id": "node/5743497056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5950988497",
+        "clothes:underwear": "yes",
+        "name": "Palina Bart",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3466429,
+          44.491364
+        ]
+      },
+      "id": "node/5950988497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5950991281",
+        "name": "Avirex",
+        "opening_hours": "Mo-Sa 10:00-19:30; Su 12:00-19:30",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.345697,
+          44.4913684
+        ]
+      },
+      "id": "node/5950991281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5950992934",
+        "clothes": "suits",
+        "name": "Sartoria Condotti",
+        "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-19:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3455781,
+          44.4913626
+        ]
+      },
+      "id": "node/5950992934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5951047227",
+        "clothes:denim": "yes",
+        "name": "Levi's",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3451556,
+          44.4931831
+        ]
+      },
+      "id": "node/5951047227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5951054127",
+        "clothes:denim": "yes",
+        "name": "Diesel",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3449391,
+          44.4932256
+        ]
+      },
+      "id": "node/5951054127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6132579785",
+        "addr:housenumber": "2A",
+        "addr:street": "Piazza Giuseppe Verdi",
+        "name": "Unibo Store",
+        "operator": "Unibo",
+        "shop": "clothes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3509614,
+          44.4961325
+        ]
+      },
+      "id": "node/6132579785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6288776323",
+        "name": "Abbigliamento Yongli",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3723858,
+          44.4837905
+        ]
+      },
+      "id": "node/6288776323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6522699286",
+        "name": "Secret Vintage",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2782116,
+          44.4781987
+        ]
+      },
+      "id": "node/6522699286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6522699288",
+        "name": "Sorelle Zanetti",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2779705,
+          44.4785575
+        ]
+      },
+      "id": "node/6522699288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6832257191",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2983371,
+          44.489084
+        ]
+      },
+      "id": "node/6832257191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6839862102",
+        "clothes:suits": "yes",
+        "name": "Lanieri",
+        "opening_hours": "Tu-Sa 10:00-14:00, 15:00-19:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3504856,
+          44.4943776
+        ]
+      },
+      "id": "node/6839862102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7244465585",
+        "name": "Frapp",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2966232,
+          44.5090605
+        ]
+      },
+      "id": "node/7244465585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7446530468",
+        "addr:city": "Bologna",
+        "addr:housenumber": "1/2a",
+        "addr:postcode": "40126",
+        "addr:street": "Via Federico Venturini",
+        "clothes": "lingerie",
+        "contact:facebook": "https://www.facebook.com/MiPiaciByChiara/",
+        "contact:instagram": "https://instagram.com/mipiacibychiara",
+        "contact:mobile": "+39 340 4011192",
+        "delivery:covid19": "only",
+        "name": "Mi piaci by Chiara",
+        "opening_hours": "Mo 15:00-19:00; Tu-We 11:00-19:00; Th 11:00-18:00; Fr-Sa 11:00-19:00; PH off",
+        "phone": "+39 051 268685",
+        "shop": "clothes",
+        "start_date": "2009-12-17",
+        "website": "https://www.mi-piaci-bychiara.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.345528,
+          44.4991879
+        ]
+      },
+      "id": "node/7446530468"
+    }
+  ]
+}

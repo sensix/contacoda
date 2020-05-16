@@ -1,0 +1,324 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-16T09:58:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2960929570",
+        "addr:city": "Lippo",
+        "addr:housenumber": "30",
+        "addr:postcode": "40012",
+        "addr:street": "Via Crocetta",
+        "name": "Ferramenta di Lippo",
+        "opening_hours": "Mo - We mattino 8:30 - 12:30 pomeriggio: 14:00 - 18:30, Sa chiuso",
+        "phone": "+39 051 726300",
+        "shop": "hardware",
+        "website": "http://www.ferramentalippo.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3014913,
+          44.5352555
+        ]
+      },
+      "id": "node/2960929570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3665696258",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2927286,
+          44.4958142
+        ]
+      },
+      "id": "node/3665696258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4440896991",
+        "addr:postcode": "40013",
+        "name": "SASIB SpA",
+        "name:en": "SASIB SpA",
+        "name:it": "SASIB SpA",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3618776,
+          44.5597078
+        ]
+      },
+      "id": "node/4440896991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4526596990",
+        "name": "Hilti",
+        "name:it": "Hilti",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2720036,
+          44.4721294
+        ]
+      },
+      "id": "node/4526596990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4530709145",
+        "name": "Ferramenta Vacchi",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4704178,
+          44.5072313
+        ]
+      },
+      "id": "node/4530709145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4696753690",
+        "name": "Il Focolare",
+        "name:it": "Il Focolare",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2873666,
+          44.5124893
+        ]
+      },
+      "id": "node/4696753690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708346395",
+        "name": "Moline",
+        "name:it": "Moline",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3476578,
+          44.4980847
+        ]
+      },
+      "id": "node/4708346395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4715874627",
+        "addr:city": "Budrio",
+        "addr:housenumber": "4",
+        "addr:postcode": "40054",
+        "addr:street": "Via Camilla Partengo",
+        "name": "Ferramenta Giardinaggio Moreschini",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5357303,
+          44.5391475
+        ]
+      },
+      "id": "node/4715874627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4782355157",
+        "addr:city": "Zola Predosa",
+        "addr:housenumber": "238b",
+        "addr:street": "Via Risorgimento",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2231334,
+          44.4900018
+        ]
+      },
+      "id": "node/4782355157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4789531521",
+        "name": "D.C. Natali s.r.l.",
+        "name:it": "D.C. Natali",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3409107,
+          44.4932656
+        ]
+      },
+      "id": "node/4789531521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807307427",
+        "name": "Mesticheria Fossi",
+        "name:it": "Mesticheria Fossi",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3428129,
+          44.4915436
+        ]
+      },
+      "id": "node/4807307427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4891849763",
+        "addr:city": "Bologna",
+        "addr:housenumber": "31e",
+        "addr:street": "Via delle Lame",
+        "name": "Ferramenta Roma",
+        "opening_hours": "Mo-Sa 08:30-12:30, Mo-Fr 14:00-18:00",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3364477,
+          44.4976249
+        ]
+      },
+      "id": "node/4891849763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5196050230",
+        "name": "Würth",
+        "opening_hours": "Mo-Fr 08:00-12:30, 14:00-18:30",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2666713,
+          44.5141569
+        ]
+      },
+      "id": "node/5196050230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5196081521",
+        "name": "Color Effe",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2665264,
+          44.5140254
+        ]
+      },
+      "id": "node/5196081521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5604674222",
+        "name": "Ferramenta Polazzi",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3780024,
+          44.465675
+        ]
+      },
+      "id": "node/5604674222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5628796157",
+        "shop": "hardware",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3705289,
+          44.4664203
+        ]
+      },
+      "id": "node/5628796157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5950916783",
+        "addr:housenumber": "24g",
+        "addr:street": "Via Farini",
+        "name": "L. Tedeschi Ferramenta",
+        "opening_hours": "Mo, Tu, Th, Fr 08:30-12:30, 15:30-19:30; We, Sa 09:30-12:30",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3468511,
+          44.4915569
+        ]
+      },
+      "id": "node/5950916783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5951876453",
+        "name": "Castaldini",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3472385,
+          44.4938027
+        ]
+      },
+      "id": "node/5951876453"
+    }
+  ]
+}
