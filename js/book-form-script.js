@@ -17,7 +17,7 @@ function submitBookForm() {
         body: {
             email: $('#email').val(),
             phone: $('#phone').val(),
-            message: $('#message').val(),
+            message: '',
             plan: $('#plan').val(),
             activity: $('#category').val(),
             name: $('#name').val()
