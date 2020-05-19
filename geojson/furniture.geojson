@@ -1,0 +1,373 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-16T09:56:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2552989684",
+        "addr:city": "Casalecchio di Reno",
+        "addr:housenumber": "6",
+        "addr:postcode": "40033",
+        "addr:street": "Via John Lennon",
+        "brand": "IKEA",
+        "brand:wikidata": "Q54078",
+        "brand:wikipedia": "en:IKEA",
+        "currency:EUR": "yes",
+        "name": "IKEA",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+39199114646",
+        "shop": "furniture",
+        "website": "ikea.it",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.252044,
+          44.4872842
+        ]
+      },
+      "id": "node/2552989684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3606935368",
+        "addr:city": "Bologna",
+        "addr:housenumber": "28",
+        "addr:postcode": "40125",
+        "addr:street": "Via Francesco Rizzoli",
+        "name": "Maisons Du Monde",
+        "opening_hours": "Mo-Su 10:00-19:30",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3452602,
+          44.4945646
+        ]
+      },
+      "id": "node/3606935368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3612422372",
+        "addr:housenumber": "11",
+        "addr:postcode": "40127",
+        "addr:street": "Viale Tito Carnacini",
+        "name": "Casa",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3984105,
+          44.5147689
+        ]
+      },
+      "id": "node/3612422372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4240690633",
+        "name": "Listone Giordano",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2815479,
+          44.5148349
+        ]
+      },
+      "id": "node/4240690633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524470590",
+        "addr:street": "Via Cristoforo Colombo",
+        "name": "Mondo Convenienza",
+        "name:it": "Mondo Convenienza",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3369088,
+          44.5293564
+        ]
+      },
+      "id": "node/4524470590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524842089",
+        "name": "Divani e Poltrone",
+        "name:en": "Charget",
+        "name:it": "Charget",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3911553,
+          44.497978
+        ]
+      },
+      "id": "node/4524842089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535727214",
+        "name": "Dondi Salotti",
+        "name:it": "Dondi Salotti",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4242018,
+          44.491031
+        ]
+      },
+      "id": "node/4535727214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4547251593",
+        "addr:housenumber": "319",
+        "addr:postcode": "40068",
+        "addr:street": "Via Emilia",
+        "email": "info.idice@venetapoint.it",
+        "name": "Veneta Cucine",
+        "name:it": "Veneta Cucine",
+        "phone": "+39 051 6259481",
+        "shop": "furniture",
+        "website": "https://idice.venetacucine.network/ita/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.435542,
+          44.4607666
+        ]
+      },
+      "id": "node/4547251593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4589579794",
+        "addr:housenumber": "100",
+        "addr:postcode": "40055",
+        "addr:street": "Via Bruno Tosarelli",
+        "email": "info@mobilibolognini.it",
+        "name": "Mobili Bolognini",
+        "name:it": "Mobili Bolognini",
+        "phone": "+39 051 788466",
+        "shop": "furniture",
+        "website": "http://www.mobilibolognini.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.463432,
+          44.508558
+        ]
+      },
+      "id": "node/4589579794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4696826291",
+        "name": "Galleria d'arte del Caminetto",
+        "name:it": "Galleria d'arte del Caminetto",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3407475,
+          44.4928551
+        ]
+      },
+      "id": "node/4696826291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4696975789",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3263055,
+          44.4994389
+        ]
+      },
+      "id": "node/4696975789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708346396",
+        "addr:housenumber": "2/G",
+        "name": "Antiquario",
+        "name:it": "Antiquario",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3481368,
+          44.4977215
+        ]
+      },
+      "id": "node/4708346396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4789631021",
+        "name": "Mini Atelier",
+        "name:it": "Mini Atelier",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3088611,
+          44.5055745
+        ]
+      },
+      "id": "node/4789631021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5004994723",
+        "name": "InsiDesign",
+        "name:it": "InsiDesign",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3413666,
+          44.4912116
+        ]
+      },
+      "id": "node/5004994723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5842480179",
+        "addr:city": "Crespellano",
+        "addr:housenumber": "5",
+        "addr:postcode": "40056",
+        "addr:street": "Via Lunga",
+        "name": "Ricci Casa",
+        "opening_hours": "Mar-Dom 10:00-13:00, 15:00-20:00",
+        "opening_hours_1": "Lun chiuso",
+        "phone": "+39 051 969188",
+        "shop": "furniture",
+        "website": "riccicasa.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1743568,
+          44.517636
+        ]
+      },
+      "id": "node/5842480179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6057105589",
+        "name": "SchmIdt",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3277623,
+          44.4995432
+        ]
+      },
+      "id": "node/6057105589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6499542786",
+        "name": "I Volpini",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3472298,
+          44.4932216
+        ]
+      },
+      "id": "node/6499542786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6499542885",
+        "name": "Canetoli",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3467827,
+          44.4929956
+        ]
+      },
+      "id": "node/6499542885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7515787559",
+        "addr:city": "Bologna",
+        "addr:housenumber": "16",
+        "addr:postcode": "40129",
+        "addr:street": "Via di Corticella",
+        "contact:phone": "+39 051 362827",
+        "delivery:covid19": "yes",
+        "name": "Lombardo Arredobagno",
+        "shop": "furniture",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.34689,
+          44.51258
+        ]
+      },
+      "id": "node/7515787559"
+    }
+  ]
+}

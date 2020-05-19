@@ -1,0 +1,512 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-14T13:50:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1567952560",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2764788,
+          44.5191961
+        ]
+      },
+      "id": "node/1567952560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704781550",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Reno",
+        "addr:housenumber": "14",
+        "addr:postcode": "40133",
+        "addr:street": "Via Battindarno",
+        "contact:phone": "+39 051 382735",
+        "delivery:covid19": "yes",
+        "description:it": "Consegna gratuita in zona",
+        "name": "Supercentrocarni",
+        "shop": "butcher",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3032297,
+          44.5064708
+        ]
+      },
+      "id": "node/1704781550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704807809",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Borgo Panigale",
+        "addr:housenumber": "23",
+        "addr:postcode": "40132",
+        "addr:street": "Via della Pietra",
+        "contact:phone": "+39 051 565453",
+        "delivery:covid19": "yes",
+        "description:it": "Si effettuano consegne a domicilio. Macelleria, salumeria",
+        "name": "Le Carni di Nonno Pippo",
+        "shop": "butcher",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2851268,
+          44.5097893
+        ]
+      },
+      "id": "node/1704807809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3361829949",
+        "addr:city": "Bologna",
+        "addr:housenumber": "19/2B",
+        "addr:postcode": "40131",
+        "addr:street": "Via Vittorio Veneto",
+        "name": "Carlo & Ivan",
+        "opening_hours": "7.00 -14.00 (tutte le mattine) 17.00 - 19.00 (mar,mer,ven)",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3199062,
+          44.4987631
+        ]
+      },
+      "id": "node/3361829949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3362476188",
+        "addr:city": "Bologna",
+        "addr:postcode": "40134",
+        "addr:street": "Via Andrea Costa",
+        "name": "Querzola",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3233249,
+          44.4953375
+        ]
+      },
+      "id": "node/3362476188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3614799604",
+        "name": "Salumeria",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3641824,
+          44.503373
+        ]
+      },
+      "id": "node/3614799604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3665696252",
+        "name": "Macelleria della Barca",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2925694,
+          44.4958333
+        ]
+      },
+      "id": "node/3665696252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3992187906",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Reno",
+        "addr:housenumber": "324/B",
+        "addr:postcode": "40133",
+        "addr:street": "Via Battindarno",
+        "contact:phone": "+39 051 6195808",
+        "delivery:covid19": "yes",
+        "description:it": "Consegna gratuita in zona",
+        "name": "Macelleria Ai Pirón",
+        "operator": "Ferrari e Stefanelli",
+        "shop": "butcher",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2960689,
+          44.4999722
+        ]
+      },
+      "id": "node/3992187906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4696963101",
+        "name": "Meera",
+        "name:it": "Meera",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2788977,
+          44.5159915
+        ]
+      },
+      "id": "node/4696963101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4777021922",
+        "addr:city": "Bologna",
+        "addr:housenumber": "1",
+        "addr:street": "Piazza Clodoveo Bonazzi",
+        "contact:phone": "+39 051 6193086",
+        "delivery:covid19": "yes",
+        "description:it": "Consegna gratuita in zona",
+        "name": "Macelleria Gamberini",
+        "shop": "butcher",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2928256,
+          44.4959393
+        ]
+      },
+      "id": "node/4777021922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4782375153",
+        "addr:city": "San Lazzaro di Savena",
+        "addr:housenumber": "20",
+        "addr:street": "Via Edera",
+        "contact:phone": "+39 051 476863",
+        "delivery:covid19": "yes",
+        "name": "Macelleria Delledera",
+        "shop": "butcher",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3773467,
+          44.457625
+        ]
+      },
+      "id": "node/4782375153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4782386522",
+        "addr:city": "San Lazzaro di Savena",
+        "addr:housenumber": "344",
+        "addr:street": "Via Emilia",
+        "contact:phone": "+39 051 6256392",
+        "delivery:covid19": "yes",
+        "description:it": "Consegna in giornata o il giorno seguente - ordine telefonico",
+        "name": "Macelleria Idice",
+        "shop": "butcher",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4361353,
+          44.4598841
+        ]
+      },
+      "id": "node/4782386522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4793726435",
+        "addr:city": "Bologna",
+        "addr:housenumber": "16f",
+        "addr:street": "Via Vittorio Veneto",
+        "contact:phone": "+39 051 6491460",
+        "delivery:covid19": "yes",
+        "description:it": "Consegna gratuita in zona",
+        "name": "Macelleria Equina Rabbi",
+        "shop": "butcher",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3205207,
+          44.4993253
+        ]
+      },
+      "id": "node/4793726435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807095922",
+        "name": "Consalvo Bollini",
+        "name:it": "Consalvo Bollini",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3403653,
+          44.4926271
+        ]
+      },
+      "id": "node/4807095922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5004947723",
+        "name": "Gieri",
+        "name:it": "Gieri",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.344619,
+          44.4936298
+        ]
+      },
+      "id": "node/5004947723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5004972022",
+        "name": "Agnoletto",
+        "name:it": "Agnoletto",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3444813,
+          44.4936615
+        ]
+      },
+      "id": "node/5004972022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5190422055",
+        "addr:city": "Bologna",
+        "addr:postcode": "40131",
+        "addr:street": "Via Vittorio Veneto",
+        "name": "Salumeria da Stefano",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3205333,
+          44.4996991
+        ]
+      },
+      "id": "node/5190422055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5226760634",
+        "name": "Macelleria Maggiore",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3559603,
+          44.4906869
+        ]
+      },
+      "id": "node/5226760634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5604698583",
+        "name": "Macelleria Venturi",
+        "operator": "Giorgio Venturi",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3765859,
+          44.4687503
+        ]
+      },
+      "id": "node/5604698583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6288784277",
+        "name": "Macelleria",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3723755,
+          44.4838213
+        ]
+      },
+      "id": "node/6288784277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7244465485",
+        "name": "Equina",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3040096,
+          44.5074592
+        ]
+      },
+      "id": "node/7244465485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7449992825",
+        "contact:phone": "+39 051 403066",
+        "delivery:covid19": "yes",
+        "description:it": "Consegna gratuita in zona nel pomeriggio",
+        "name": "Macelleria di Bassi Paolo",
+        "shop": "butcher",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.280144,
+          44.517467
+        ]
+      },
+      "id": "node/7449992825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7476331125",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Porto",
+        "addr:housenumber": "4/B",
+        "addr:postcode": "40131",
+        "addr:street": "Via Francesco Zanardi",
+        "contact:phone": "+39 051 551710",
+        "delivery:covid19": "yes",
+        "description:it": "Consegna gratuita oltre i 20€",
+        "name": "Mandreoli Carni",
+        "payment:bancomat": "yes",
+        "payment:cash": "yes",
+        "shop": "butcher",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33264,
+          44.50322
+        ]
+      },
+      "id": "node/7476331125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7512378936",
+        "addr:city": "Bologna",
+        "addr:housenumber": "148",
+        "addr:postcode": "40141",
+        "addr:street": "Via Toscana",
+        "contact:phone": "+39 051 477780",
+        "delivery:covid19": "yes",
+        "description:it": "Telefonare per informazioni. Mercato Rionale di S. Ruffillo",
+        "name": "Polleria",
+        "shop": "butcher",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3696346,
+          44.4567412
+        ]
+      },
+      "id": "node/7512378936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7515812382",
+        "addr:city": "Bologna",
+        "addr:housenumber": "62b",
+        "addr:postcode": "40129",
+        "addr:street": "Via di Corticella",
+        "contact:phone": "+39 051 355905",
+        "delivery:covid19": "yes",
+        "name": "Macelleria Goretti",
+        "shop": "butcher",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3475627,
+          44.5146511
+        ]
+      },
+      "id": "node/7515812382"
+    }
+  ]
+}

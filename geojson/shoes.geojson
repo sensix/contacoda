@@ -1,0 +1,983 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-16T10:04:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2495110376",
+        "name": "Fiorentini & Baker",
+        "shop": "shoes",
+        "wheelchair": "limited",
+        "wheelchair:description": "Grandinò di 20 cm all'ingresso il resto è tutto accessibile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3518895,
+          44.4927292
+        ]
+      },
+      "id": "node/2495110376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2879567401",
+        "name": "Michel",
+        "shop": "shoes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3439044,
+          44.49893
+        ]
+      },
+      "id": "node/2879567401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2879598716",
+        "name": "Princess",
+        "shop": "shoes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.343804,
+          44.499513
+        ]
+      },
+      "id": "node/2879598716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2879623901",
+        "name": "Princess",
+        "shop": "shoes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.343767,
+          44.499384
+        ]
+      },
+      "id": "node/2879623901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2879638001",
+        "brand": "Bata",
+        "brand:wikidata": "Q688082",
+        "brand:wikipedia": "en:Bata (company)",
+        "name": "Bata",
+        "shop": "shoes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.343692,
+          44.499125
+        ]
+      },
+      "id": "node/2879638001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3415523018",
+        "addr:city": "Bologna",
+        "addr:housenumber": "4b",
+        "addr:postcode": "40126",
+        "addr:street": "Via Zamboni",
+        "name": "Caprice",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3469001,
+          44.4947234
+        ]
+      },
+      "id": "node/3415523018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3612422371",
+        "addr:housenumber": "17",
+        "addr:postcode": "40127",
+        "addr:street": "Viale Tito Carnacini",
+        "name": "Pittarello",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3991428,
+          44.5144285
+        ]
+      },
+      "id": "node/3612422371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3646417554",
+        "addr:city": "Bologna",
+        "addr:housenumber": "6",
+        "addr:postcode": "40121",
+        "addr:street": "Via Ugo Bassi",
+        "name": "Lolita Milano",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3397833,
+          44.4951486
+        ]
+      },
+      "id": "node/3646417554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3646448098",
+        "addr:city": "Bologna",
+        "addr:housenumber": "1b",
+        "addr:postcode": "40125",
+        "addr:street": "Piazza della Mercanzia",
+        "name": "Clarks",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3468577,
+          44.4935377
+        ]
+      },
+      "id": "node/3646448098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813847704",
+        "addr:city": "Bologna",
+        "addr:housenumber": "12",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Foot Locker",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3429313,
+          44.4966066
+        ]
+      },
+      "id": "node/3813847704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813847706",
+        "addr:city": "Bologna",
+        "addr:housenumber": "16",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Athletes World",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3430318,
+          44.4969443
+        ]
+      },
+      "id": "node/3813847706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4002324589",
+        "addr:housenumber": "4",
+        "addr:street": "Via Camillo Casarini",
+        "name": "Ottobock Soluzioni Ortopediche",
+        "shop": "shoes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.soluzioniortopediche.it/",
+        "wheelchair": "yes",
+        "wheelchair:description": "totalmente accessibile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3322526,
+          44.5035162
+        ]
+      },
+      "id": "node/4002324589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050191172",
+        "addr:city": "Bologna",
+        "addr:housenumber": "21",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Viamaestra",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.343343,
+          44.4970555
+        ]
+      },
+      "id": "node/4050191172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050204599",
+        "addr:city": "Bologna",
+        "addr:housenumber": "13",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Mantellassi Calzature",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3431512,
+          44.496407
+        ]
+      },
+      "id": "node/4050204599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050271323",
+        "addr:city": "Bologna",
+        "addr:housenumber": "20",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Cliché",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3431047,
+          44.4971425
+        ]
+      },
+      "id": "node/4050271323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050309124",
+        "addr:city": "Bologna",
+        "addr:housenumber": "37d",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "Primadonna",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.343799,
+          44.4986042
+        ]
+      },
+      "id": "node/4050309124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4053203984",
+        "addr:city": "Bologna",
+        "addr:housenumber": "18",
+        "addr:postcode": "40121",
+        "addr:street": "Via dei Mille",
+        "name": "PittaRosso",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3419399,
+          44.5015723
+        ]
+      },
+      "id": "node/4053203984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4267163390",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3410978,
+          44.4902497
+        ]
+      },
+      "id": "node/4267163390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4267165589",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3434413,
+          44.4920153
+        ]
+      },
+      "id": "node/4267165589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275226904",
+        "name": "La Contea",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3508137,
+          44.4896126
+        ]
+      },
+      "id": "node/4275226904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275242138",
+        "name": "Foot Locker",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3420693,
+          44.4930793
+        ]
+      },
+      "id": "node/4275242138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4373247291",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3407321,
+          44.4913326
+        ]
+      },
+      "id": "node/4373247291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460421725",
+        "addr:postcode": "40033",
+        "addr:street": "Via Aldo Moro",
+        "name": "Pithagora'",
+        "name:it": "Pithagora",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2686377,
+          44.4839206
+        ]
+      },
+      "id": "node/4460421725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460445393",
+        "addr:postcode": "40033",
+        "addr:street": "Piazza degli Etruschi",
+        "name": "Cinti",
+        "name:it": "Cinti",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2702459,
+          44.4832082
+        ]
+      },
+      "id": "node/4460445393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469867293",
+        "name": "Michel",
+        "name:it": "Michel",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3374701,
+          44.4958746
+        ]
+      },
+      "id": "node/4469867293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469969289",
+        "name": "Church's",
+        "name:it": "Church's",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3440683,
+          44.491592
+        ]
+      },
+      "id": "node/4469969289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469982790",
+        "name": "Tod's",
+        "name:it": "Tod's",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3441876,
+          44.4923303
+        ]
+      },
+      "id": "node/4469982790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4470013091",
+        "name": "Ash",
+        "name:it": "Ash",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.344583,
+          44.4924124
+        ]
+      },
+      "id": "node/4470013091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498698989",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Nero Giardini",
+        "name:it": "Nero Giardini",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2482239,
+          44.4886581
+        ]
+      },
+      "id": "node/4498698989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498703692",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Foot Locker",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2481239,
+          44.4882666
+        ]
+      },
+      "id": "node/4498703692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498844190",
+        "name": "Scarpe & Scarpe",
+        "name:it": "Scarpe & Scarpe",
+        "shop": "shoes",
+        "website": "https://www.scarpescarpestore.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2642134,
+          44.5192739
+        ]
+      },
+      "id": "node/4498844190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523381092",
+        "addr:housenumber": "2N",
+        "addr:postcode": "40013",
+        "addr:street": "Via Pio La Torre",
+        "name": "Ovje'",
+        "name:it": "Ovje'",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3581995,
+          44.5688742
+        ]
+      },
+      "id": "node/4523381092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523381094",
+        "addr:housenumber": "3",
+        "addr:postcode": "40013",
+        "addr:street": "Via Pio La Torre",
+        "name": "Deichmann",
+        "name:en": "Deichmann",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3586741,
+          44.5691163
+        ]
+      },
+      "id": "node/4523381094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524471089",
+        "addr:street": "Via Cristoforo Colombo",
+        "name": "Scarpe & Scarpe",
+        "name:it": "Scarpe & Scarpe",
+        "shop": "shoes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3362932,
+          44.5290754
+        ]
+      },
+      "id": "node/4524471089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524694691",
+        "name": "Bata",
+        "name:it": "Bata",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3921797,
+          44.4975391
+        ]
+      },
+      "id": "node/4524694691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524803493",
+        "name": "Gustavo Italiano",
+        "name:it": "Miriade",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3914812,
+          44.4978838
+        ]
+      },
+      "id": "node/4524803493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535817109",
+        "name": "Pittarosso",
+        "name:it": "Pittarosso",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4227,
+          44.4903314
+        ]
+      },
+      "id": "node/4535817109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535818490",
+        "name": "Geox",
+        "name:it": "Geox",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.421295,
+          44.4906629
+        ]
+      },
+      "id": "node/4535818490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535818499",
+        "name": "Foot Locker",
+        "name:it": "Foot Locker",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4225444,
+          44.4901322
+        ]
+      },
+      "id": "node/4535818499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4680385489",
+        "addr:housenumber": "32",
+        "addr:street": "Via Marco Polo",
+        "name": "Geox",
+        "name:it": "Geox",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3292997,
+          44.5141526
+        ]
+      },
+      "id": "node/4680385489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4696804490",
+        "name": "Lotti",
+        "name:it": "Lotti",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2968129,
+          44.5090117
+        ]
+      },
+      "id": "node/4696804490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4696883190",
+        "name": "Fornasiero",
+        "name:it": "Fornasiero",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3407657,
+          44.4929168
+        ]
+      },
+      "id": "node/4696883190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708268592",
+        "name": "Malin Giovanni",
+        "name:it": "Malin Giovanni",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3439663,
+          44.4982345
+        ]
+      },
+      "id": "node/4708268592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4776526634",
+        "addr:city": "Bologna",
+        "addr:housenumber": "18A",
+        "addr:street": "Via Luigi Pirandello",
+        "contact:mobile": "+39 370 3602229",
+        "delivery:covid19": "yes",
+        "description:it": "Scarpe e accessori - Ordine per telefono, whatsapp, email: info@clinicadellascarpa.it",
+        "name": "Clinica della scarpa",
+        "repair": "yes",
+        "shop": "shoes",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3903754,
+          44.5121668
+        ]
+      },
+      "id": "node/4776526634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807313029",
+        "name": "M. Rimondi",
+        "name:it": "M. Rimondi",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3422907,
+          44.4932869
+        ]
+      },
+      "id": "node/4807313029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4824896537",
+        "addr:housenumber": "6D",
+        "addr:postcode": "40013",
+        "addr:street": "Via Pio La Torre",
+        "name": "MdF",
+        "name:it": "MdF",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3571844,
+          44.5682883
+        ]
+      },
+      "id": "node/4824896537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109361123",
+        "name": "Il Paradiso della Scarpa",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2779017,
+          44.4734198
+        ]
+      },
+      "id": "node/5109361123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204824822",
+        "name": "Penny",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3446278,
+          44.5024111
+        ]
+      },
+      "id": "node/5204824822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5497701877",
+        "name": "Cinti",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3440983,
+          44.4933116
+        ]
+      },
+      "id": "node/5497701877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501264765",
+        "name": "New Balance",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3455002,
+          44.4929927
+        ]
+      },
+      "id": "node/5501264765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501264772",
+        "name": "Camper",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.345574,
+          44.4931118
+        ]
+      },
+      "id": "node/5501264772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501264775",
+        "name": "Le Sabot",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3457919,
+          44.4929601
+        ]
+      },
+      "id": "node/5501264775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5525082830",
+        "name": "Altiebassi",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3451717,
+          44.4922912
+        ]
+      },
+      "id": "node/5525082830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6499542685",
+        "name": "Nadir",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3461975,
+          44.492256
+        ]
+      },
+      "id": "node/6499542685"
+    }
+  ]
+}

@@ -1,0 +1,863 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-14T14:11:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1230340916",
+        "addr:housenumber": "1",
+        "addr:street": "Via Aurelio Saffi",
+        "name": "Valentini & C.",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.326771,
+          44.4995659
+        ]
+      },
+      "id": "node/1230340916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1230340918",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3274562,
+          44.4949121
+        ]
+      },
+      "id": "node/1230340918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1338983296",
+        "name": "Tubertini",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3215165,
+          44.4953497
+        ]
+      },
+      "id": "node/1338983296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1630466764",
+        "name": "Montello",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3224305,
+          44.5008427
+        ]
+      },
+      "id": "node/1630466764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704118195",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Navile",
+        "addr:housenumber": "20",
+        "addr:postcode": "40128",
+        "addr:street": "Via Alessandro Stoppato",
+        "contact:phone": "+39 051 327709",
+        "delivery:covid19": "yes",
+        "name": "Forno Venturoli Daniele",
+        "shop": "bakery",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3573749,
+          44.5430982
+        ]
+      },
+      "id": "node/1704118195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704346763",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Savena",
+        "addr:housenumber": "19",
+        "addr:postcode": "40139",
+        "addr:street": "Via Pontevecchio",
+        "contact:mobile": "+39 389 9525602",
+        "contact:phone": "+39 051 549010",
+        "delivery:covid19": "yes",
+        "description:it": "Consegna a domicilio gratuita con una spesa di almeno 30 euro, altrimenti 5 euro",
+        "name": "Il Forno Pane e Dolci",
+        "operator": "Giardini & Mastellini",
+        "shop": "bakery",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3780632,
+          44.4789031
+        ]
+      },
+      "id": "node/1704346763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704373956",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Savena",
+        "addr:housenumber": "56",
+        "addr:postcode": "40141",
+        "addr:street": "Via Toscana",
+        "contact:phone": "+39 051 471980",
+        "delivery:covid19": "yes",
+        "description:it": "Consegna a domicilio gratuita",
+        "name": "Luca il Fornaio",
+        "shop": "bakery",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3710584,
+          44.4630587
+        ]
+      },
+      "id": "node/1704373956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704602274",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Porto",
+        "addr:housenumber": "1",
+        "addr:postcode": "40134",
+        "addr:street": "Via Tolmino",
+        "contact:phone": "+39 051 6143766",
+        "convenience": "yes",
+        "delivery:covid19": "yes",
+        "description:it": "Forno e Generi Alimentari. Consegna gratuita in zona.",
+        "name": "Antico Mulino",
+        "shop": "bakery",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3187583,
+          44.4971891
+        ]
+      },
+      "id": "node/1704602274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704642536",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Porto",
+        "addr:housenumber": "160",
+        "addr:postcode": "40122",
+        "addr:street": "Via delle Lame",
+        "contact:phone": "+39 051 521170",
+        "delivery:covid19": "yes",
+        "description:it": "Consegna gratuita in zona",
+        "name": "Il Forno di Via Lame",
+        "shop": "bakery",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.333462,
+          44.5018831
+        ]
+      },
+      "id": "node/1704642536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704825368",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Borgo Panigale",
+        "addr:housenumber": "30",
+        "addr:postcode": "40132",
+        "addr:street": "Via del Triumvirato",
+        "shop": "bakery",
+        "source": "Comune di Bologna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2939595,
+          44.5193308
+        ]
+      },
+      "id": "node/1704825368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1875874973",
+        "name": "pane",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3174206,
+          44.488873
+        ]
+      },
+      "id": "node/1875874973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2528248885",
+        "name": "Briciole golose",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3188002,
+          44.4922004
+        ]
+      },
+      "id": "node/2528248885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3182766154",
+        "addr:city": "Bologna",
+        "addr:housenumber": "84",
+        "addr:postcode": "40126",
+        "addr:street": "Via Zamboni",
+        "name": "Al Siciliano",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.35455,
+          44.4977797
+        ]
+      },
+      "id": "node/3182766154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3350882330",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3199418,
+          44.4987875
+        ]
+      },
+      "id": "node/3350882330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3415523014",
+        "addr:city": "Bologna",
+        "addr:housenumber": "8c",
+        "addr:postcode": "40126",
+        "addr:street": "Via Zamboni",
+        "name": "Il Banco del Pane",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3473776,
+          44.4950539
+        ]
+      },
+      "id": "node/3415523014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3615364709",
+        "addr:city": "Bologna",
+        "addr:housenumber": "23a",
+        "addr:postcode": "40138",
+        "addr:street": "Via Pietro Albertoni",
+        "name": "Sweet Moment",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3648724,
+          44.4918867
+        ]
+      },
+      "id": "node/3615364709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3625411866",
+        "addr:city": "Bologna",
+        "addr:housenumber": "3",
+        "addr:postcode": "40126",
+        "addr:street": "Via Zamboni",
+        "name": "La Baguette",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3471223,
+          44.494777
+        ]
+      },
+      "id": "node/3625411866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3665696253",
+        "name": "Panifici Nanni",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2928955,
+          44.4960341
+        ]
+      },
+      "id": "node/3665696253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3806545870",
+        "name": "Il Fornaio",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3420771,
+          44.4976595
+        ]
+      },
+      "id": "node/3806545870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3939498783",
+        "addr:city": "Bologna",
+        "addr:housenumber": "1",
+        "addr:postcode": "40137",
+        "addr:street": "Via delle Fragole",
+        "name": "Il forno di Calzolari",
+        "opening_hours": "Mo-Sa 08:00-13:00",
+        "operator": "Calzolari",
+        "payment:cash": "yes",
+        "phone": "+39 051 443401",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3696031,
+          44.4731484
+        ]
+      },
+      "id": "node/3939498783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3992187909",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Reno",
+        "addr:housenumber": "324/A",
+        "addr:postcode": "40133",
+        "addr:street": "Via Battindarno",
+        "name": "Panificio Luca Acri",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2960873,
+          44.4999986
+        ]
+      },
+      "id": "node/3992187909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050479846",
+        "addr:city": "Bologna",
+        "addr:housenumber": "16",
+        "addr:postcode": "40121",
+        "addr:street": "Via de' Falegnami",
+        "name": "Un Chicco",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3427284,
+          44.498957
+        ]
+      },
+      "id": "node/4050479846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4053173276",
+        "addr:city": "Bologna",
+        "addr:housenumber": "100",
+        "addr:postcode": "40122",
+        "addr:street": "Via Riva di Reno",
+        "name": "Lo Sfizio Di Krizia Vergnani",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3395593,
+          44.4990019
+        ]
+      },
+      "id": "node/4053173276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4053203975",
+        "addr:city": "Bologna",
+        "addr:housenumber": "5",
+        "addr:postcode": "40121",
+        "addr:street": "Via dei Mille",
+        "name": "Panfragrante",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3436874,
+          44.5015044
+        ]
+      },
+      "id": "node/4053203975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4110033958",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Saragozza",
+        "addr:housenumber": "43/B",
+        "addr:postcode": "40134",
+        "addr:street": "Via Andrea Costa",
+        "name": "Panificio Taschetta Angelo",
+        "phone": "+39 051 6142111",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.325227,
+          44.4951426
+        ]
+      },
+      "id": "node/4110033958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4136073399",
+        "addr:housenumber": "34b",
+        "addr:street": "Via Santo Stefano",
+        "email": "info@unchicco.it",
+        "name": "Il Forno di Un Chicco",
+        "opening_hours": "Mo-Sa 08:00-14:00, 16:30-20:00",
+        "phone": "+39 051 4841584",
+        "shop": "bakery",
+        "website": "http://www.unchicco.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3497633,
+          44.4906212
+        ]
+      },
+      "id": "node/4136073399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4198319204",
+        "name": "Panetteria",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2770473,
+          44.4778256
+        ]
+      },
+      "id": "node/4198319204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275201336",
+        "name": "Bottega del Pane",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3519479,
+          44.4929453
+        ]
+      },
+      "id": "node/4275201336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4280303274",
+        "name": "Rapid Porta Mazzini",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3581237,
+          44.4896444
+        ]
+      },
+      "id": "node/4280303274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4319231402",
+        "name": "Dall Antico Forno",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3548214,
+          44.4857624
+        ]
+      },
+      "id": "node/4319231402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4695669194",
+        "name": "Il Fornaio",
+        "name:it": "Il Fornaio",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2720294,
+          44.4742833
+        ]
+      },
+      "id": "node/4695669194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4789530522",
+        "name": "Delizie di Forno",
+        "name:it": "Delizie di Forno",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3408701,
+          44.4931094
+        ]
+      },
+      "id": "node/4789530522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4793726064",
+        "addr:city": "Bologna",
+        "addr:housenumber": "157a",
+        "addr:street": "Via Saragozza",
+        "amenity": "yes",
+        "contact:mobile": "+39 347 6699733",
+        "contact:phone": "+39 051 6142092",
+        "delivery:covid19": "yes",
+        "description:it": "Panificio pasticceria alimentari. Consegna dalle 9.00 alle 11.00 previa prenotazione il giorno prima , anche via mail",
+        "email": "saragozza157@hotmail.com",
+        "name": "Saragozza157",
+        "pastry": "yes",
+        "shop": "bakery",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.320786,
+          44.4896724
+        ]
+      },
+      "id": "node/4793726064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5102542123",
+        "name": "Pane Pugliee",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3605408,
+          44.5074432
+        ]
+      },
+      "id": "node/5102542123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5190422049",
+        "addr:city": "Bologna",
+        "addr:postcode": "40131",
+        "addr:street": "Via Vittorio Veneto",
+        "name": "Panificio Luca Acri",
+        "operator": "Luca Acri",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3199535,
+          44.4988238
+        ]
+      },
+      "id": "node/5190422049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5226760639",
+        "name": "Palma",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3557151,
+          44.4905603
+        ]
+      },
+      "id": "node/5226760639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5569353663",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3694842,
+          44.4724201
+        ]
+      },
+      "id": "node/5569353663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5948616171",
+        "name": "Panifico Patelli",
+        "opening_hours": "Mo-Sa 07:00-19:00",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3701233,
+          44.4850816
+        ]
+      },
+      "id": "node/5948616171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6590935923",
+        "addr:housenumber": "10 f-g",
+        "addr:street": "via Albani",
+        "description": "Panificio pasta fresca",
+        "name": "Panificio Barbara",
+        "phone": "+39051356350",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3443585,
+          44.510138
+        ]
+      },
+      "id": "node/6590935923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7473619836",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "Navile",
+        "addr:housenumber": "8/a",
+        "addr:postcode": "40128",
+        "addr:street": "Via Amedeo Lipparini",
+        "contact:phone": "+39 051 321089",
+        "name": "Panificio Pasticceria Tripi",
+        "pastry": "yes",
+        "shop": "bakery",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.35764,
+          44.54068
+        ]
+      },
+      "id": "node/7473619836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7473655023",
+        "contact:phone": "+39 051 325556",
+        "delivery:covid19": "yes",
+        "name": "Panificio Venturoli",
+        "shop": "bakery",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.366432,
+          44.528917
+        ]
+      },
+      "id": "node/7473655023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7512378938",
+        "addr:city": "Bologna",
+        "addr:housenumber": "148",
+        "addr:postcode": "40141",
+        "addr:street": "Via Toscana",
+        "contact:phone": "+39 051 475266",
+        "delivery:covid19": "yes",
+        "description:it": "Telefonare per informazioni. Mercato Rionale di S. Ruffillo",
+        "name": "Pane e pasta da Marina",
+        "shop": "bakery",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3695407,
+          44.4566742
+        ]
+      },
+      "id": "node/7512378938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7515770559",
+        "addr:city": "Bologna",
+        "addr:housenumber": "41d",
+        "addr:postcode": "40133",
+        "addr:street": "Via Pasubio",
+        "contact:mobile": "+39 339 7006749",
+        "contact:phone": "+39 051 6145290",
+        "delivery:covid19": "yes",
+        "description:it": "Consegna gratuita",
+        "name": "Pescari Pane E Pasta",
+        "shop": "bakery",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3113931,
+          44.5006358
+        ]
+      },
+      "id": "node/7515770559"
+    }
+  ]
+}

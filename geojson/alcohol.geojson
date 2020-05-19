@@ -1,0 +1,114 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.3 eb200aeb",
+  "osm3s": {
+    "timestamp_osm_base": "2020-05-16T09:24:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1704171055,
+  "lat": 44.4981770,
+  "lon": 11.3732210,
+  "tags": {
+    "addr:city": "Bologna",
+    "addr:country": "IT",
+    "addr:district": "San Donato",
+    "addr:housenumber": "17",
+    "addr:postcode": "40127",
+    "addr:street": "Via Nuova",
+    "contact:phone": "+39 051 513158",
+    "delivery:covid19": "yes",
+    "description:it": "Ordini sul sito; in caso di necessità telefono o email.",
+    "email": "info@amaduzzi-enoteche.it",
+    "name": "Amaduzzi Enoteche",
+    "opening_hours": "Mo-Sa 8:30-12:30, 15:30-19:00",
+    "shop": "alcohol",
+    "source": "ds4273",
+    "website": "http://www.acquavinobologna.it"
+  }
+},
+{
+  "type": "node",
+  "id": 1704563802,
+  "lat": 44.4925963,
+  "lon": 11.3504500,
+  "tags": {
+    "addr:city": "Bologna",
+    "addr:country": "IT",
+    "addr:district": "Santo Stefano",
+    "addr:housenumber": "31",
+    "addr:postcode": "40125",
+    "addr:street": "Strada Maggiore",
+    "name": "Scaramagli",
+    "opening_hours": "Mo-Sa 09:00-19:30; Su 09:00-13:30",
+    "phone": "+39 051 227132",
+    "shop": "alcohol",
+    "source": "Comune di Bologna",
+    "website": "http://www.scaramagli.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 3614799603,
+  "lat": 44.5039221,
+  "lon": 11.3646920,
+  "tags": {
+    "name": "Whiskyteca",
+    "shop": "alcohol"
+  }
+},
+{
+  "type": "node",
+  "id": 3813847713,
+  "lat": 44.4976015,
+  "lon": 11.3438472,
+  "tags": {
+    "addr:city": "Bologna",
+    "addr:housenumber": "1",
+    "addr:postcode": "40121",
+    "addr:street": "Via Malcontenti",
+    "name": "Enoteca Italiana",
+    "shop": "alcohol"
+  }
+},
+{
+  "type": "node",
+  "id": 4275226908,
+  "lat": 44.4891448,
+  "lon": 11.3509961,
+  "tags": {
+    "name": "Fiaschetteria S. Stefano",
+    "shop": "alcohol"
+  }
+},
+{
+  "type": "node",
+  "id": 4715878538,
+  "lat": 44.5390767,
+  "lon": 11.5359824,
+  "tags": {
+    "addr:city": "Budrio",
+    "addr:housename": "Casa Vinicola",
+    "addr:housenumber": "6",
+    "addr:postcode": "40054",
+    "addr:street": "Via Camilla Partengo",
+    "name": "Bottiglieria",
+    "shop": "alcohol"
+  }
+},
+{
+  "type": "node",
+  "id": 5952002624,
+  "lat": 44.4947619,
+  "lon": 11.3387133,
+  "tags": {
+    "name": "Emporio del Gusto",
+    "shop": "alcohol"
+  }
+}
+
+  ]
+}

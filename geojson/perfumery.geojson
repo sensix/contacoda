@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-16T10:01:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050191167",
+        "brand": "Douglas",
+        "brand:wikidata": "Q2052213",
+        "brand:wikipedia": "de:Parfümerie Douglas",
+        "name": "Douglas",
+        "shop": "perfumery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3435388,
+          44.4977232
+        ]
+      },
+      "id": "node/4050191167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498642391",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Yves Rocher",
+        "name:it": "Yves Rocher",
+        "shop": "perfumery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2484449,
+          44.4890657
+        ]
+      },
+      "id": "node/4498642391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523388291",
+        "addr:postcode": "40013",
+        "addr:street": "Via Pio La Torre",
+        "name": "Naima",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "perfumery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3569725,
+          44.5680601
+        ]
+      },
+      "id": "node/4523388291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4715929078",
+        "shop": "perfumery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5350282,
+          44.5375703
+        ]
+      },
+      "id": "node/4715929078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4776527852",
+        "addr:city": "Bologna",
+        "addr:housenumber": "84A",
+        "addr:street": "Via Ferrara",
+        "contact:phone": "+39 051 460176",
+        "contact:whatsapp": "+39 338 7441001",
+        "delivery:covid19": "yes",
+        "description:it": "Prodotti cosmetici, articoli di igiene, prodotti capelli etc. Consegna gratuita sopra i 20 euro",
+        "name": "Cristiana Profumeria",
+        "shop": "perfumery",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3930864,
+          44.4742417
+        ]
+      },
+      "id": "node/4776527852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501264773",
+        "name": "Rossi",
+        "shop": "perfumery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3456759,
+          44.4930926
+        ]
+      },
+      "id": "node/5501264773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5604591031",
+        "name": "Merry profumerie",
+        "shop": "perfumery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.371249,
+          44.4690881
+        ]
+      },
+      "id": "node/5604591031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6288776166",
+        "name": "Maya Eco-Bio Profumeria",
+        "shop": "perfumery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3724965,
+          44.4840274
+        ]
+      },
+      "id": "node/6288776166"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-16T10:01:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3606709948",
+        "addr:city": "Bologna",
+        "addr:housenumber": "124b",
+        "addr:postcode": "40125",
+        "addr:street": "Via San Vitale",
+        "name": "Pescheria con cucina",
+        "shop": "seafood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.356325,
+          44.4941284
+        ]
+      },
+      "id": "node/3606709948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4402804847",
+        "description": "Supermercato di pesce e altri prodotti surgelati",
+        "name": "Sapore di Mare",
+        "shop": "seafood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3485719,
+          44.5197108
+        ]
+      },
+      "id": "node/4402804847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5656052721",
+        "name": "Zarattini",
+        "note": "Anche asporto di prodotti di pesce già cucinati",
+        "payment:cash": "yes",
+        "shop": "seafood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3684049,
+          44.4741288
+        ]
+      },
+      "id": "node/5656052721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7489397140",
+        "contact:mobile": "+39 339 4641330",
+        "delivery:covid19": "yes",
+        "description:it": "Per ordini telefonare al numero unico 3407951786 (signora Silvia). Essendo il chiosco chiuso consegnano direttamente dalla propria azienda gratuitamente e solo per spesa superiore ai 25 euro.",
+        "name": "Pescheria Marco",
+        "shop": "seafood",
+        "source": "ds4273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3203731,
+          44.4989102
+        ]
+      },
+      "id": "node/7489397140"
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-16T09:53:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/343326790",
+        "addr:housenumber": "60",
+        "addr:street": "Via Aurelio Saffi",
+        "name": "Rifra Bike",
+        "shop": "bicycle",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3192507,
+          44.5018088
+        ]
+      },
+      "id": "node/343326790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/429742924",
+        "addr:housenumber": "52",
+        "addr:postcode": "40033",
+        "addr:street": "Via Bazzanese",
+        "building": "commercial",
+        "name": "Biciscout",
+        "phone": "+39 393 459 9964",
+        "shop": "bicycle",
+        "website": "https://www.biciscout.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2593666,
+          44.4815811
+        ]
+      },
+      "id": "node/429742924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1567948968",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2784368,
+          44.5173334
+        ]
+      },
+      "id": "node/1567948968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704241892",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:district": "San Vitale",
+        "addr:housenumber": "11",
+        "addr:postcode": "40126",
+        "addr:street": "Via Sant'Apollonia",
+        "name": "Ciclo Officina Zì Clemente",
+        "shop": "bicycle",
+        "source": "Comune di Bologna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3543683,
+          44.4949537
+        ]
+      },
+      "id": "node/1704241892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1865756849",
+        "addr:city": "Bologna",
+        "addr:housenumber": "23",
+        "addr:postcode": "40127",
+        "addr:street": "Via San Donato",
+        "name": "SpezialCycle",
+        "shop": "bicycle",
+        "website": "http://www.spezialcycle.it/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3584843,
+          44.4992027
+        ]
+      },
+      "id": "node/1865756849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2552540099",
+        "name": "Patelli",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3457142,
+          44.5050716
+        ]
+      },
+      "id": "node/2552540099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2834198901",
+        "name": "Stadio",
+        "shop": "bicycle",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3138661,
+          44.4917547
+        ]
+      },
+      "id": "node/2834198901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3020742758",
+        "addr:city": "Bologna",
+        "addr:housenumber": "5/a",
+        "addr:postcode": "40134",
+        "addr:street": "Via XXI aprile 1945",
+        "name": "GM Cicli",
+        "operator": "Gianfranco",
+        "phone": "+39 051 8496284",
+        "shop": "bicycle",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3206355,
+          44.4911302
+        ]
+      },
+      "id": "node/3020742758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3167472576",
+        "addr:city": "Bologna",
+        "addr:housenumber": "13",
+        "addr:postcode": "40141",
+        "addr:street": "Via della Battaglia",
+        "name": "Cicli Neri",
+        "opening_hours": "Mo-Fr 08:30-12:30, 15:00-19:00; Tu 08:30-12:30, Sa 8:30-12:00, Su off",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+39 051 482108",
+        "service:bicycle:Bicycle_Sales_and_Service": "yes",
+        "service:bicycle:bicycle": "yes",
+        "service:bicycle:dealer": "yes",
+        "service:bicycle:ebike": "yes",
+        "service:bicycle:mtb": "yes",
+        "service:bicycle:parts": "yes",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:sales": "yes",
+        "service:bicycle:second_hand": "yes",
+        "service:bicycle:service": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3801508,
+          44.4676385
+        ]
+      },
+      "id": "node/3167472576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645563612",
+        "addr:city": "Bologna",
+        "addr:housenumber": "97",
+        "addr:postcode": "40122",
+        "addr:street": "Via del Pratello",
+        "name": "Bici Pratello",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3294612,
+          44.495582
+        ]
+      },
+      "id": "node/3645563612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3858713708",
+        "addr:city": "Bologna",
+        "addr:country": "IT",
+        "addr:housenumber": "119",
+        "addr:postcode": "40129",
+        "addr:street": "Via Aristotile Fioravanti",
+        "email": "melottibici@libero.it",
+        "fax": "+39 051 58 77 898",
+        "name": "Melotti Bici",
+        "opening_hours": "Mo-We,Fr 09:00-12:30, 15:30-19:30; Th,Sa 09:00-12:30",
+        "phone": "+39 051 35 93 81",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle",
+        "website": "http://www.melottibici.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3421878,
+          44.5173033
+        ]
+      },
+      "id": "node/3858713708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974301419",
+        "addr:city": "Bologna",
+        "addr:housenumber": "20",
+        "addr:postcode": "40126",
+        "addr:street": "Via Giuseppe Petroni",
+        "name": "Bicycles",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3512469,
+          44.495219
+        ]
+      },
+      "id": "node/3974301419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3982222408",
+        "addr:city": "Bologna",
+        "addr:housenumber": "12d",
+        "addr:postcode": "40126",
+        "addr:street": "Via delle Belle Arti",
+        "name": "Monkey Bike",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3496515,
+          44.4977284
+        ]
+      },
+      "id": "node/3982222408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4274713978",
+        "name": "La Bottega del Ciclo",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3620086,
+          44.4928666
+        ]
+      },
+      "id": "node/4274713978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4280303276",
+        "name": "Artesiani Ricambi",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3577898,
+          44.4903495
+        ]
+      },
+      "id": "node/4280303276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4394864089",
+        "addr:housenumber": "17F",
+        "addr:street": "Strada Maggiore",
+        "name": "Senza Benza",
+        "name:it": "Senza Benza",
+        "opening_hours": "Mo 15:00-19:30; Tu-Fr 09:00-13:00,15:00-19:30; Sa 10:00-13:00,15:00-19:30",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3485676,
+          44.4932509
+        ]
+      },
+      "id": "node/4394864089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4777100677",
+        "addr:city": "Bologna",
+        "addr:housenumber": "91a",
+        "addr:street": "Via Porrettana",
+        "name": "Urban cycles",
+        "operator": "Lucchi Davide",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3058964,
+          44.4913959
+        ]
+      },
+      "id": "node/4777100677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4782385613",
+        "addr:city": "San Lazzaro di Savena",
+        "addr:housenumber": "292",
+        "addr:street": "Via Emilia",
+        "fax": "+39 0516255924",
+        "name": "Due Ruote",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "http://www.dueruotebologna.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4288442,
+          44.4620396
+        ]
+      },
+      "id": "node/4782385613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5226760631",
+        "name": "Ciclo L. Monari",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3562101,
+          44.4905153
+        ]
+      },
+      "id": "node/5226760631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5726074859",
+        "addr:housenumber": "40/4",
+        "addr:postcode": "40138",
+        "addr:street": "Via Guelfa",
+        "amenity": "arts_centre",
+        "name": "Camere D'Aria",
+        "shop": "bicycle",
+        "type:en": "Bike Community Workshop",
+        "type:it": "ciclofficina popolare",
+        "website": "http://www.cameredaria.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3840132,
+          44.492095
+        ]
+      },
+      "id": "node/5726074859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5775617766",
+        "addr:city": "Bologna",
+        "addr:housenumber": "24",
+        "addr:postcode": "40129",
+        "addr:street": "Via Aristotile Fioravanti",
+        "email": "ampioraggio@inventati.org",
+        "name": "Ciclofficina Ampioraggio",
+        "service:bicycle": "yes",
+        "service:bicycle:chaintool": "yes",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle",
+        "type:en": "Bike Community Workshop",
+        "type:it": "ciclofficina popolare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3410338,
+          44.5121838
+        ]
+      },
+      "id": "node/5775617766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5942671208",
+        "name": "Armaroli Bike World",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3644883,
+          44.48723
+        ]
+      },
+      "id": "node/5942671208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5942673104",
+        "name": "Armaroli Bike World",
+        "opening_hours": "Mo-We, Fr 08:30-12:30, 15:30-19:00; Th, Sa 08:30-12:30",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3645439,
+          44.4873891
+        ]
+      },
+      "id": "node/5942673104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6269132149",
+        "amenity": "cafe",
+        "name": "Le Ruote Ciclocaffè",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3756444,
+          44.4931477
+        ]
+      },
+      "id": "node/6269132149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6839882325",
+        "name": "Wayel Electric Bikes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3482019,
+          44.4945347
+        ]
+      },
+      "id": "node/6839882325"
+    }
+  ]
+}

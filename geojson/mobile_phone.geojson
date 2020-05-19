@@ -1,0 +1,544 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-16T09:58:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2879553901",
+        "name": "Wind",
+        "shop": "mobile_phone",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3439326,
+          44.4989702
+        ]
+      },
+      "id": "node/2879553901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3606935363",
+        "addr:city": "Bologna",
+        "addr:housenumber": "7b",
+        "addr:postcode": "40125",
+        "addr:street": "Via Francesco Rizzoli",
+        "name": "TIM",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3454641,
+          44.4942499
+        ]
+      },
+      "id": "node/3606935363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645848561",
+        "addr:city": "Bologna",
+        "addr:housenumber": "1",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "name": "3Store",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3427792,
+          44.4949295
+        ]
+      },
+      "id": "node/3645848561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050191169",
+        "brand": "Vodafone",
+        "brand:wikidata": "Q122141",
+        "brand:wikipedia": "en:Vodafone",
+        "name": "Vodafone",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3434489,
+          44.4974095
+        ]
+      },
+      "id": "node/4050191169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050204596",
+        "addr:city": "Bologna",
+        "addr:housenumber": "19",
+        "addr:postcode": "40121",
+        "addr:street": "Via dell'Indipendenza",
+        "brand": "TIM",
+        "brand:wikidata": "Q144617",
+        "brand:wikipedia": "en:Telecom Italia",
+        "name": "TIM",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.343296,
+          44.4969407
+        ]
+      },
+      "id": "node/4050204596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4115020789",
+        "name": "TIM",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3427193,
+          44.4913917
+        ]
+      },
+      "id": "node/4115020789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460445491",
+        "addr:postcode": "40033",
+        "addr:street": "Via Aldo Moro",
+        "name": "3",
+        "name:it": "3",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2696011,
+          44.483415
+        ]
+      },
+      "id": "node/4460445491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460450492",
+        "addr:postcode": "40033",
+        "addr:street": "Via Aldo Moro",
+        "name": "Wind",
+        "name:it": "Wind",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2696257,
+          44.4835716
+        ]
+      },
+      "id": "node/4460450492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498716989",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Tim",
+        "name:it": "Tim",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2481039,
+          44.4878527
+        ]
+      },
+      "id": "node/4498716989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498784193",
+        "name": "Tim",
+        "name:it": "Tim",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2642963,
+          44.5193752
+        ]
+      },
+      "id": "node/4498784193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498852695",
+        "name": "3 Store",
+        "name:it": "3 Store",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.265084,
+          44.5204199
+        ]
+      },
+      "id": "node/4498852695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498853592",
+        "name": "Wind",
+        "name:it": "Wind",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2649021,
+          44.5203805
+        ]
+      },
+      "id": "node/4498853592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498863590",
+        "name": "Vodafone",
+        "name:en": "Vodafone",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2648293,
+          44.5206038
+        ]
+      },
+      "id": "node/4498863590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523352196",
+        "name": "3 Store",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3568834,
+          44.5681997
+        ]
+      },
+      "id": "node/4523352196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523381093",
+        "addr:housenumber": "2",
+        "addr:postcode": "40013",
+        "addr:street": "Via Pio La Torre",
+        "name": "Wind",
+        "name:it": "Wind",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3583847,
+          44.5689203
+        ]
+      },
+      "id": "node/4523381093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523412989",
+        "addr:housenumber": "7t",
+        "addr:postcode": "40013",
+        "addr:street": "Via Pio La Torre",
+        "name": "Vodafone",
+        "name:it": "Vodafone",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3569366,
+          44.5682697
+        ]
+      },
+      "id": "node/4523412989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524791994",
+        "name": "3 Store",
+        "name:it": "3 Store",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3910569,
+          44.4980082
+        ]
+      },
+      "id": "node/4524791994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524803497",
+        "name": "Tim",
+        "name:it": "Tim",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3918523,
+          44.4975368
+        ]
+      },
+      "id": "node/4524803497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524803900",
+        "name:en": "Vodafone",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3913357,
+          44.4976938
+        ]
+      },
+      "id": "node/4524803900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535762794",
+        "name": "Tim",
+        "name:it": "Tim",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4203095,
+          44.4907
+        ]
+      },
+      "id": "node/4535762794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535817690",
+        "name": "Wind",
+        "name:it": "Wind",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4212209,
+          44.4909772
+        ]
+      },
+      "id": "node/4535817690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535818492",
+        "name": "3 Store",
+        "name:it": "3 Store",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4212785,
+          44.4910688
+        ]
+      },
+      "id": "node/4535818492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4590571423",
+        "addr:city": "Bologna",
+        "addr:housenumber": "3",
+        "addr:postcode": "40131",
+        "addr:street": "Via Marco Polo",
+        "name": "Rosso Garibaldi",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+        "phone": "+39 0510301025",
+        "shop": "mobile_phone",
+        "website": "http://www.rossogaribaldi.it/punti-vendita/cc-centro-lame"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3291014,
+          44.5149356
+        ]
+      },
+      "id": "node/4590571423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4680355914",
+        "addr:housenumber": "35",
+        "addr:street": "Via Marco Polo",
+        "name": "Vodafone",
+        "name:it": "Vodafone",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3294207,
+          44.5146337
+        ]
+      },
+      "id": "node/4680355914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4680376190",
+        "addr:housenumber": "44",
+        "addr:street": "Via Marco Polo",
+        "name": "Wind",
+        "name:it": "Wind",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3292698,
+          44.5142718
+        ]
+      },
+      "id": "node/4680376190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708312989",
+        "name": "Tecnophone Bologna",
+        "name:it": "Tecnophone Bologna",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3439742,
+          44.4982778
+        ]
+      },
+      "id": "node/4708312989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807315229",
+        "name": "Puro",
+        "name:it": "Puro",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3421039,
+          44.493173
+        ]
+      },
+      "id": "node/4807315229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5599091434",
+        "addr:postcode": "40128",
+        "addr:street": "Via di Corticella",
+        "name": "TIM",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3471925,
+          44.5140188
+        ]
+      },
+      "id": "node/5599091434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6407455313",
+        "addr:city": "San Lazzaro di Savena",
+        "addr:postcode": "40068",
+        "addr:street": "Via Emilia",
+        "brand": "TIM",
+        "brand:wikidata": "Q144617",
+        "brand:wikipedia": "en:Telecom Italia",
+        "name": "TIM",
+        "operator": "TIM TelecomItalia",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4106182,
+          44.4701341
+        ]
+      },
+      "id": "node/6407455313"
+    }
+  ]
+}

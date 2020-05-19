@@ -1,0 +1,390 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-16T09:55:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3184723329",
+        "addr:city": "Bologna",
+        "addr:housenumber": "21b",
+        "addr:postcode": "40127",
+        "addr:street": "Via San Donato",
+        "name": "Megawatt",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3581369,
+          44.4990602
+        ]
+      },
+      "id": "node/3184723329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3184723330",
+        "addr:city": "Bologna",
+        "addr:housenumber": "21a",
+        "addr:postcode": "40127",
+        "addr:street": "Via San Donato",
+        "name": "3Store",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3581061,
+          44.4990506
+        ]
+      },
+      "id": "node/3184723330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3606935369",
+        "addr:city": "Bologna",
+        "addr:housenumber": "16",
+        "addr:postcode": "40125",
+        "addr:street": "Via Francesco Rizzoli",
+        "name": "Apple store",
+        "shop": "electronics",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3443067,
+          44.4947301
+        ]
+      },
+      "id": "node/3606935369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3636980676",
+        "addr:city": "Bologna",
+        "addr:housenumber": "10d",
+        "addr:postcode": "40126",
+        "addr:street": "Via Irnerio",
+        "name": "3Store",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3482005,
+          44.5003501
+        ]
+      },
+      "id": "node/3636980676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275266870",
+        "name": "3Store",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3414524,
+          44.4912071
+        ]
+      },
+      "id": "node/4275266870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460402552",
+        "addr:postcode": "40033",
+        "addr:street": "Via Aldo Moro",
+        "name": "Unieuro",
+        "name:it": "Unieuro",
+        "shop": "electronics",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2686901,
+          44.4842291
+        ]
+      },
+      "id": "node/4460402552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4472691189",
+        "addr:housenumber": "2/56",
+        "addr:postcode": "40033",
+        "addr:street": "Via Marilyn Monroe",
+        "name": "Mediaworld",
+        "name:it": "Mediaworld",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-20:00",
+        "phone": "+39 0514581111",
+        "shop": "electronics",
+        "website": "https://www.mediaworld.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2496361,
+          44.4883672
+        ]
+      },
+      "id": "node/4472691189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498852691",
+        "name": "Unieuro",
+        "name:it": "Unieuro",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2639124,
+          44.5193614
+        ]
+      },
+      "id": "node/4498852691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523372992",
+        "addr:city": "Castel Maggiore",
+        "addr:housenumber": "8",
+        "addr:postcode": "40013",
+        "addr:street": "Via Pio La Torre",
+        "brand": "Unieuro",
+        "brand:wikidata": "Q4004687",
+        "brand:wikipedia": "en:Unieuro",
+        "name": "Unieuro",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3573297,
+          44.5674722
+        ]
+      },
+      "id": "node/4523372992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524470789",
+        "addr:street": "Via Cristoforo Colombo",
+        "name": "Unieuro",
+        "name:it": "Unieuro",
+        "shop": "electronics",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3372746,
+          44.5301809
+        ]
+      },
+      "id": "node/4524470789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524803491",
+        "name": "Unieuro",
+        "operator": "Unieuro",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3906357,
+          44.498077
+        ]
+      },
+      "id": "node/4524803491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4526637490",
+        "name": "Arduini",
+        "name:it": "Arduini",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2725387,
+          44.4731393
+        ]
+      },
+      "id": "node/4526637490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535817693",
+        "addr:city": "Castenaso",
+        "addr:housenumber": "29",
+        "addr:postcode": "40055",
+        "addr:street": "Via Villanova",
+        "brand": "Unieuro",
+        "brand:wikidata": "Q4004687",
+        "brand:wikipedia": "en:Unieuro",
+        "name": "Unieuro",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "operator": "Unieuro",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4222657,
+          44.4919228
+        ]
+      },
+      "id": "node/4535817693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708078801",
+        "name": "Entertainement Exchange",
+        "shop": "electronics",
+        "website": "http://www.webiy.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3407608,
+          44.5042216
+        ]
+      },
+      "id": "node/4708078801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708391489",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3491778,
+          44.4983733
+        ]
+      },
+      "id": "node/4708391489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5102541925",
+        "name": "Elettromania",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3583121,
+          44.5070847
+        ]
+      },
+      "id": "node/5102541925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5334597867",
+        "addr:city": "Bologna",
+        "addr:housenumber": "14",
+        "addr:postcode": "40138",
+        "addr:street": "Via dell'Industria",
+        "name": "Trony",
+        "operator": "Trony",
+        "phone": "+39 051 6014258",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3958317,
+          44.5061615
+        ]
+      },
+      "id": "node/5334597867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5339460276",
+        "addr:city": "Bologna",
+        "addr:housenumber": "5",
+        "addr:postcode": "40139",
+        "addr:street": "Viale Abramo Lincoln",
+        "name": "Unieuro",
+        "phone": "+39 051493319",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3895627,
+          44.4817223
+        ]
+      },
+      "id": "node/5339460276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5425946022",
+        "name": "Mister Web",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3447367,
+          44.5005988
+        ]
+      },
+      "id": "node/5425946022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6929943486",
+        "name": "La Telefonia",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2716609,
+          44.5654601
+        ]
+      },
+      "id": "node/6929943486"
+    }
+  ]
+}
