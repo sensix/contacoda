@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-16T09:57:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/599322572",
+        "name": "Vittorio",
+        "shop": "hairdresser",
+        "image": "woman-curling-another-woman-s-hair-3268732.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3626573,
+          44.5739169
+        ]
+      },
+      "id": "node/599322572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/888485823",
+        "name": "Monser Parrucchieri",
+        "shop": "hairdresser",
+        "image": "man-in-white-and-black-stripe-shirt-holding-black-pen-3998429.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1849714,
+          44.5487311
+        ]
+      },
+      "id": "node/888485823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1576821096",
+        "name": "King 57 Due",
+        "shop": "hairdresser",
+        "image": "person-holding-silver-and-black-pen-3993466.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2650633,
+          44.5204765
+        ]
+      },
+      "id": "node/1576821096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2504169541",
+        "name": "mister green",
+        "name:it": "Mister Green",
+        "shop": "hairdresser",
+        "wheelchair": "yes",
+        "image": "woman-curling-another-woman-s-hair-3268732.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3175071,
+          44.4889972
+        ]
+      },
+      "id": "node/2504169541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2961552944",
+        "addr:city": "Lippo",
+        "addr:postcode": "40012",
+        "name": "Giochi Di Luce Di Lo Vercio Katia",
+        "shop": "hairdresser",
+        "image": "woman-in-black-crew-neck-shirt-smiling-3993465.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3022839,
+          44.5366462
+        ]
+      },
+      "id": "node/2961552944"
+    }
+
+  ]
+}
