@@ -103,12 +103,11 @@ section.mappa  {position:static;min-height: 60px}
     padding-bottom: 50px;
   }
 
-  .mapboxgl-popup-close-button {
-    display:none;
-  }
+  .mapboxgl-popup-close-button {color:#ffffff;font-size:20px}
   .mapboxgl-popup-content {
     padding:0!important;
     width:280px;
+	box-shadow: 0px 1px 8px rgba(0,0,0,.3)!important;
   }
   .mapboxgl-popup-content-wrapper {
     padding:1%;
@@ -121,7 +120,6 @@ section.mappa  {position:static;min-height: 60px}
     padding:10px;
     border-radius:3px 3px 0 0;
     font-weight:700;
-    margin-top:-15px;
   }
 
   .mapboxgl-popup-content h5 {
