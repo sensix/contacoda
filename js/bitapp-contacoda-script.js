@@ -208,9 +208,9 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiYml0YXBwIiwiYSI6ImNrYTZza2c1azBhYWEyeG8zZHgyd
         if (popUps[0]) popUps[0].remove();
         var popup = new mapboxgl.Popup()
           .setLngLat(currentFeature.geometry.coordinates)
-          .setHTML('<h3>' + currentFeature.properties.name + '</h3>' +
-            '<h4>' + currentFeature.properties.shop + '</h4>' +
-            '<table class="orari-prenotazioni">' +
+          .setHTML('<h4>' + currentFeature.properties.name + '</h4>' +
+            '<h5>' + currentFeature.properties.shop + '</h5>' +
+            /*'<table class="orari-prenotazioni">' +
             '<tr><td>8:30 9:00</td></tr>' +
             '<tr><td>9:00 9:30</td></tr>' +
             '<tr><td>9:30 10:00</td></tr>' +
@@ -218,8 +218,18 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiYml0YXBwIiwiYSI6ImNrYTZza2c1azBhYWEyeG8zZHgyd
             '<tr><td>10:30 11:00</td></tr>' +
             '<tr><td>11:30 12:00</td></tr>' +
             '<tr><td>12:30 13:0</td></tr>' +
-            '</table>' + 
-            '<div class="button">Prenota</div>'
+            '</table>' + */
+			
+			'<div class="slots">' +
+			'<div class="slot"><p>8:30 9:00</p><p class="info-slot">n° posti rimanenti</p></div>' +
+			'<div class="slot"><p>9:00 9:30</p><p class="info-slot">n° posti rimanenti</p></div>' +
+			'<div class="slot"><p>9:30 10:00</p><p class="info-slot">n° posti rimanenti</p></div>' +
+			'<div class="slot"><p>10:00 10:30</p><p class="info-slot">n° posti rimanenti</p></div>' +
+			'<div class="slot"><p>10:30 11:00</p><p class="info-slot">n° posti rimanenti</p></div>' +
+			'<div class="slot"><p>11:30 12:00</p><p class="info-slot">n° posti rimanenti</p></div>' +
+			'<div class="slot"><p>12:30 13:00</p><p class="info-slot">n° posti rimanenti</p></div>' +
+			'</div>' +	
+            '<a class="btn btn-md btn-success display-4" href="#">PRENOTA</a>'
 
             
             )

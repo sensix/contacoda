@@ -1,19 +1,7 @@
 body { margin: 0; padding: 0; }
+h3 { color:#ffffff }
 
 section.mappa  {position:static;min-height: 60px}
-
-
-
-    .pad2 {
-        padding: 20px;
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
-      }
-    #map { position:absolute;
-        left:33.3333%;
-        width:66.6666%;
-        top:0;bottom:0; }
 
     .sidebar {
         position:absolute;
@@ -29,13 +17,29 @@ section.mappa  {position:static;min-height: 60px}
             background-color: #7D14A6   ;
             color: #fff;
           }
-    h1 {
-        font-size:22px;
-        margin:0;
-        font-weight:400;
-        line-height: 20px;
-        padding: 20px 2px;
-    }
+		  	  
+	.denominazione-att {  
+	z-index: 100;
+    position: absolute;
+    top: 0;
+    background: rgba(0, 0, 0, 0.4);
+    right: 0;
+    left: 0;
+    padding: 2em;
+    text-align: right;
+		}
+		
+	.dettagli-att {  
+	z-index: 100;
+    position: absolute;
+    bottom: 10%;
+    background: rgba(0, 0, 0, 0.5);
+    right: 0;
+    left: 0;
+    padding: 2em;
+    text-align: right;
+		}
+		
     .listings .item {
         display:block;
         border-bottom:1px solid #eee;
@@ -77,11 +81,22 @@ section.mappa  {position:static;min-height: 60px}
         clear:both;
         visibility:hidden;
       }
+	  
+    .pad2 {
+        padding: 20px;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+      }
+    #map { position:absolute;
+        left:33.3333%;
+        width:66.6666%;
+        top:0;bottom:0; }	  
+	  
 
 /* Marker tweaks */
 .mapboxgl-popup {
     max-width: 400px;
-    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
     }
 
 .mapboxgl-popup {
@@ -92,14 +107,13 @@ section.mappa  {position:static;min-height: 60px}
     display:none;
   }
   .mapboxgl-popup-content {
-    font:400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
-    padding:0;
-    width:180px;
+    padding:0!important;
+    width:280px;
   }
   .mapboxgl-popup-content-wrapper {
     padding:1%;
   }
-  .mapboxgl-popup-content h3 {
+  .mapboxgl-popup-content h4 {
     background:#7D14A6;
     color:#fff;
     margin:0;
@@ -110,7 +124,7 @@ section.mappa  {position:static;min-height: 60px}
     margin-top:-15px;
   }
 
-  .mapboxgl-popup-content h4 {
+  .mapboxgl-popup-content h5 {
     margin:0;
     display:block;
     padding: 10px 10px 10px 10px;
@@ -132,3 +146,12 @@ section.mappa  {position:static;min-height: 60px}
   .mapboxgl-popup-anchor-top > .mapboxgl-popup-tip {
     border-bottom-color: #7D14A6;
   }
+  .slots{padding-bottom:0!important;max-height: 300px;overflow-y: scroll;}
+  .slot{background-color:#7D14A6;color:#ffffff;border-radius:10px;margin-bottom:5px;padding:8px 12px!important}
+  .slot p{margin:0;font-weight:bold;}
+  .slot p.info-slot{font-weight:normal;font-size:0.9em}
+  .btn-md{display:block;}
+  
+  
+  
+  
