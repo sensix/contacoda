@@ -1,6 +1,39 @@
 body { margin: 0; padding: 0; }
 h3 { color:#ffffff }
 
+::-webkit-scrollbar {
+width:3px;
+height:3px;
+border-left:0;
+background:rgba(0,0,0,0.1);
+}
+::-webkit-scrollbar-track {
+background:none;
+}
+::-webkit-scrollbar-thumb {
+background:#727a76;
+border-radius:0;
+}
+.clearfix { display:block; }
+.clearfix:after {
+content:'.';
+display:block;
+height:0;
+clear:both;
+visibility:hidden;
+}
+
+.pad2 {
+padding: 20px;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+#map { position:absolute;
+left:33.3333%;
+width:66.6666%;
+top:0;bottom:0; }	
+
 section.mappa  {position:static;min-height: 60px}
 
     .sidebar {
@@ -32,7 +65,7 @@ section.mappa  {position:static;min-height: 60px}
 	.dettagli-att {  
 	z-index: 100;
     position: absolute;
-    bottom: 20%;
+    bottom: 22%;
     background: rgba(0, 0, 0, 0.5);
     right: 0;
     left: 0;
@@ -46,6 +79,10 @@ section.mappa  {position:static;min-height: 60px}
     bottom: 0;
 		}
 		
+		
+/*Elenco attività*/		
+
+	div#listings {display:none;}	 
 		
     .listings .item {
         display:block;
@@ -67,38 +104,9 @@ section.mappa  {position:static;min-height: 60px}
       .listings .item.active {
         background-color:#f8f8f8;
       }
-      ::-webkit-scrollbar {
-        width:3px;
-        height:3px;
-        border-left:0;
-        background:rgba(0,0,0,0.1);
-      }
-      ::-webkit-scrollbar-track {
-        background:none;
-      }
-      ::-webkit-scrollbar-thumb {
-        background:#727a76;
-        border-radius:0;
-      }
-      .clearfix { display:block; }
-      .clearfix:after {
-        content:'.';
-        display:block;
-        height:0;
-        clear:both;
-        visibility:hidden;
-      }
 	  
-    .pad2 {
-        padding: 20px;
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
-      }
-    #map { position:absolute;
-        left:33.3333%;
-        width:66.6666%;
-        top:0;bottom:0; }	  
+/* FINE Elenco attività*/			  
+	    
 		
 		
 /*Classi carosello categorie*/		
@@ -139,9 +147,10 @@ section.mappa  {position:static;min-height: 60px}
   background: #000;
   border-radius: 50%;
   position: static;
-  width: 40px;
-  height: 40px;
-  margin-top: 2rem;
+  width: 20px;
+  height: 20px;
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
   border-width: 1px;
 }
 .cid-qq0yT8ZsIA .carousel-controls .carousel-control.carousel-control-prev {
@@ -154,7 +163,7 @@ section.mappa  {position:static;min-height: 60px}
   margin-right: 0;
 }
 .cid-qq0yT8ZsIA .carousel-controls .carousel-control .mbr-iconfont {
-  font-size: 1rem;
+  font-size: 0.6rem;
 }
 .cid-qq0yT8ZsIA .cloneditem-1,
 .cid-qq0yT8ZsIA .cloneditem-2,
