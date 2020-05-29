@@ -11,7 +11,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiYml0YXBwIiwiYSI6ImNrYTZza2c1azBhYWEyeG8zZHgyd
        
 
     // carico i dati
-    $.getJSON('geojson/hairdresser.json').done(function(data){
+    $.getJSON('geojson/systems-light.geojson').done(function(data){
         // crea la slide
         var splide = new Splide( '.splide' ).mount();
             splide.on( 'moved', function(num) {
