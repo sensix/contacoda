@@ -109,31 +109,29 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="media-container-column col-lg-8" data-form-type="formoid">
-          <div data-form-alert="" hidden="">
+          <div id="success" data-form-alert="" hidden="">
             Grazie per averci contattato!
           </div>
-          <form class="mbr-form" id="contactForm" method="post" data-form-title="Mobirise Form"><input type="hidden"
-              data-form-email="true"
-              value="CRKgbyuXPXOwO9ceXRja943MUR42X6M06Cs2XGfL5VNlLXLNpnGwuEvgxsmm03ql4E0Klahb8nCDrbA9aUvejuyzDz+mOX7ohJ+sYjo8ZfZYwSgdxZ6wLqU5b0xZosnE">
+          <form class="mbr-form" id="contactForm" method="post" data-form-title="Mobirise Form" action='https://api.bitapp.it/contact'>
             <div class="row row-sm-offset">
               <div class="col-md-6 multi-horizontal" data-for="name">
                 <div class="form-group">
                   <label class="form-control-label mbr-fonts-style display-7" for="name-form1-9i">Nome</label>
-                  <input type="text" class="form-control" id="name" name="name" data-form-field="Name" required=""
+                  <input type="text" class="form-control" id="bitformUsername" name="name" data-form-field="Name" required=""
                     id="name-form1-9i">
                 </div>
               </div>
               <div class="col-md-6 multi-horizontal" data-for="email">
                 <div class="form-group">
                   <label class="form-control-label mbr-fonts-style display-7" for="email-form1-9i">Email</label>
-                  <input type="email" class="form-control" id="email" name="email" data-form-field="Email" required=""
+                  <input type="email" class="form-control" id="bitformMail" name="email" data-form-field="Email" required=""
                     id="email-form1-9i">
                 </div>
               </div>
             </div>
             <div class="form-group" data-for="message">
               <label class="form-control-label mbr-fonts-style display-7" for="message-form1-2w">Messaggio</label>
-              <textarea type="text" class="form-control" id="message" name="message" rows="7" data-form-field="Message"
+              <textarea type="text" class="form-control" id="bitformMessage" name="message" rows="7" data-form-field="Message"
                 id="message-form1-2w"></textarea>
             </div>
             <div class="form-group" data-for="terms">
@@ -143,8 +141,9 @@
                   href="CONTACODA-privacy.pdf" target="_blank">Privacy policy</a></label>
               <div class="help-block with-errors" style="color:red;"></div>
             </div>
+            <input type='hidden' id='bitformUri' value='contacoda.it' />
             <span class="input-group-btn">
-              <button id="btn-submit" type="submit" class="btn btn-primary btn-form display-4">Invia</button>
+              <button id="btn-submit" type="submit" class="btn btn-primary btn-form display-4 bitformExclude">Invia</button>
             </span>
           </form>
         </div>
@@ -866,9 +865,9 @@
   <!-- <script src="assets/mobirise-gallery/player.min.js"></script>
   <script src="assets/mobirise-gallery/script.js"></script>-->
   <!--<script src="assets/mobirise-slider-video/script.js"></script>-->
-  <script src="assets/formoid/formoid.min.js"></script>
+  <!--<script src="assets/formoid/formoid.min.js"></script>-->
   <script type="text/javascript" src="js/form-validator.min.js"></script>
-  <script src="js/contact-form-script.js"></script>
+  <script src="js/bitform.js"></script>
   <script>
     function resize() {
       if ($(window).width() < 576) {
@@ -882,9 +881,9 @@
     $(document).ready(function () {
       $(window).resize(resize);
       resize();
+      new BitForm('#contactForm').mount();
     });    
   </script>
-
 </body>
 
 </html>
