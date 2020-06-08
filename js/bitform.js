@@ -1,6 +1,7 @@
 /* eslint-disable no-console */
-function BitForm(jqueryFormSelector) {
+function BitForm(jqueryFormSelector, bitformUri) {
   this.selector = jqueryFormSelector;
+  this.uri = bitformUri;
 }
 
 BitForm.prototype.mount = function mount() {
@@ -32,7 +33,6 @@ BitForm.prototype.mount = function mount() {
   }
 
   function submitForm() {
-    const uri = $('#bitformUri').val();
     const postUrl = $(form).attr('action');
 
     const date = new Date();
@@ -45,7 +45,7 @@ BitForm.prototype.mount = function mount() {
       formData.body[$(this).attr('id')] = $(this).val();
     });
 
-    formData.uri = formData.body.bitformUri;
+    formData.uri = bf.uri;
     formData.timestamp = date.getTime();
 
     console.log(formData);
@@ -54,24 +54,23 @@ BitForm.prototype.mount = function mount() {
       url: postUrl,
       method: 'POST',
       headers: {
-        'x-bitapp-uri': uri,
+        'x-bitapp-uri': bf.uri,
         'Content-Type': 'application/json',
       },
       dataType: 'json',
       data: JSON.stringify(formData),
-    }).done(formSuccess())
+    })
+      .success(() => {
+        console.log('bitform 201');
+        formSuccess();
+      })
       .fail((xhr) => {
+        console.log('bitform FAIL');
         formError();
         submitMSG(false, xhr.responseJSON.message);
       });
   }
 
-  form.submit((event) => {
-    event.preventDefault();
-    submitForm();
-  });
-
-  /*
   form.validator().on('submit', (event) => {
     if (event.isDefaultPrevented()) {
       console.log('FAIL');
@@ -85,5 +84,4 @@ BitForm.prototype.mount = function mount() {
       submitForm();
     }
   });
-  */
 };

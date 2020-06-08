@@ -82,23 +82,20 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="media-container-column col-lg-8" data-form-type="formoid">
-          <div data-form-alert="" hidden="">
-            Grazie per averci contattato!
+          <div id="success" data-form-alert="">
           </div>
-          <form class="mbr-form" id="bookForm" method="post" data-form-title="Mobirise Form">
-            <input type="hidden" data-form-email="true"
-              value="CRKgbyuXPXOwO9ceXRja943MUR42X6M06Cs2XGfL5VNlLXLNpnGwuEvgxsmm03ql4E0Klahb8nCDrbA9aUvejuyzDz+mOX7ohJ+sYjo8ZfZYwSgdxZ6wLqU5b0xZosnE">
+          <form class="mbr-form" id="bookForm" method="post" data-form-title="Mobirise Form" action='https://api.bitapp.it/contact'>
             <div class="row row-sm-offset">
               <div class="col-md-12 multi-horizontal" data-for="name">
                 <div class="form-group">
                   <label class="form-control-label mbr-fonts-style display-7" for="name-form1-9i">Nome</label>
-                  <input type="text" class="form-control" id="name" name="name" data-form-field="Name" required="">
+                  <input type="text" class="form-control" id="bitformUsername" name="name" data-form-field="Name" required="">
                 </div>
               </div>
               <div class="col-md-12 multi-horizontal" data-for="email">
                 <div class="form-group">
                   <label class="form-control-label mbr-fonts-style display-7" for="email-form1-9i">Email</label>
-                  <input type="email" class="form-control" id="email" name="email" data-form-field="Email" required="">
+                  <input type="email" class="form-control" id="bitformMail" name="email" data-form-field="Email" required="">
                 </div>
               </div>
               <div class="col-md-12 multi-horizontal" data-for="phone">
@@ -117,7 +114,7 @@
               <div class="col-md-12 multi-horizontal" data-for="piano">
                 <div class="form-group">
                   <label class="form-control-label mbr-fonts-style display-7" for="piano-form1-9i">Piano</label>
-                  <select class="form-control" id="plan" name="piano" data-form-field="piano" required="">
+                  <select class="form-control" id="bitformMessage" name="piano" data-form-field="piano" required="">
                     <option value="free">Free</option>
                     <option value="beacon">Beacon</option>
                     <option value="scontacoda">ScontaCoda</option>
@@ -127,7 +124,7 @@
             </div>
             <div class="form-group" data-for="terms">
               <p class="form-control-label mbr-fonts-style display-7" for="terms">Privacy policy</p>
-              <label><input type="checkbox" class="mr-2" id="terms" name="terms" data-form-field="terms"
+              <label><input type="checkbox" class="mr-2" id="biformTerms" name="terms" data-form-field="terms"
                   data-error="Accetta la privacy policy per continuare" required="true">Accetto la <a
                   href="CONTACODA-privacy.pdf" target="_blank">Privacy policy</a></label>
               <div class="help-block with-errors" style="color:red;"></div>
@@ -179,10 +176,14 @@
   <script src="assets/mobirise-gallery/player.min.js"></script>
   <script src="assets/mobirise-gallery/script.js"></script>
   <script src="assets/mobirise-slider-video/script.js"></script>
-  <script src="assets/formoid/formoid.min.js"></script>
   <script src="js/selectbox-fill.js"></script>
   <script type="text/javascript" src="js/form-validator.min.js"></script>
-  <script src="js/book-form-script.js"></script>
+  <script src="js/bitform.min.js"></script>
+  <script>
+    $(document).ready(function () {
+      new BitForm('#bookForm','contacoda.it').mount();
+    });    
+  </script>
 </body>
 
 </html>
