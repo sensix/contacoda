@@ -565,11 +565,11 @@ a:hover {
 }
 
 /* Stili Form contatti */
-#success .text-danger, .help-block.with-errors li {
+#success.text-danger, .help-block.with-errors li {
   font-size: 1em;
   color:#ff3699!important;
 }
-#success .text-success {
+#success.text-success {
     color: #7d14a6!important;
     font-size: 1.5em;
 }
