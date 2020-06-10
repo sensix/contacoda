@@ -565,7 +565,12 @@ a:hover {
 }
 
 /* Stili Form contatti */
-#success.text-danger, .help-block.with-errors li {
+
+#success {
+    margin:1.5em auto;
+}
+
+#success.text-danger {
   font-size: 1em;
   color:#ff3699!important;
 }
@@ -573,6 +578,10 @@ a:hover {
     color: #7d14a6!important;
     font-size: 1.5em;
 }
+.help-block.with-errors li {
+  display:none!important;
+}
+
 
 
 /* fine Stili Form contatti */
