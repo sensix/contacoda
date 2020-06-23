@@ -11,25 +11,15 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiYml0YXBwIiwiYSI6ImNrYTZza2c1azBhYWEyeG8zZHgyd
        
 
     // carico i dati
-    $.getJSON('geojson/systems-light.geojson').done(function(data){
-        // crea la slide
+    $.getJSON('geojson/domicilio.geojson').done(function(data){
+        // crea la splide
         var splide = new Splide( '.splide' ).mount();
             splide.on( 'moved', function(num) {
                 
         } );
         
         
-        data.features.forEach(function(feature, index){
-
-            if(!feature.properties.image){
-                return;
-            }
-            feature.properties.index = index;
-            var slide = document.createElement("img");
-            slide.src = 'assets/images/contacoda/' + feature.properties.shop + '/' + feature.properties.image;
-            console.log(slide);
-            splide.add(slide,index);
-        });
+ 
 
     map.on('load', function(){
         map.loadImage(
@@ -84,10 +74,9 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiYml0YXBwIiwiYSI6ImNrYTZza2c1azBhYWEyeG8zZHgyd
     map.on('click', 'points', function(e) {
         var coordinates = e.features[0].geometry.coordinates.slice();
         var properties = e.features[0].properties;
-        
 
-        console.log(e.features);
-        splide.go(properties.index);
+        $('.denominazione-att').empty().append('<h3>'+properties.Azienda+'</h3>');
+        
          
         createPopUp(e.features[0]);
     });
@@ -114,14 +103,14 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiYml0YXBwIiwiYSI6ImNrYTZza2c1azBhYWEyeG8zZHgyd
             var feature = data.features[i];
             console.log(feature);
             // handle queries with different capitalization than the source data by calling toLowerCase()
-            if ( feature.properties.name &&
-                feature.properties.name
+            if ( feature.properties.Azienda &&
+                feature.properties.Azienda
                 .toLowerCase()
                 .search(query.toLowerCase()) !== -1
             ) {
-                feature['place_name'] = feature.properties.name;
+                feature['place_name'] = feature.properties.Azienda;
                 feature['center'] = feature.geometry.coordinates;
-                feature['shop'] = feature.properties.shop;
+                feature['address'] = feature.properties.Indirizzo;
                 matchingFeatures.push(feature);
             }
         }
@@ -210,16 +199,6 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiYml0YXBwIiwiYSI6ImNrYTZza2c1azBhYWEyeG8zZHgyd
           .setLngLat(currentFeature.geometry.coordinates)
           .setHTML('<h4>' + currentFeature.properties.name + '</h4>' +
             '<h5>' + currentFeature.properties.shop + '</h5>' +
-            /*'<table class="orari-prenotazioni">' +
-            '<tr><td>8:30 9:00</td></tr>' +
-            '<tr><td>9:00 9:30</td></tr>' +
-            '<tr><td>9:30 10:00</td></tr>' +
-            '<tr><td>10:00 10:30</td></tr>' +
-            '<tr><td>10:30 11:00</td></tr>' +
-            '<tr><td>11:30 12:00</td></tr>' +
-            '<tr><td>12:30 13:0</td></tr>' +
-            '</table>' + */
-			
 			'<div class="slots">' +
 			'<div class="slot"><p>8:30 9:00</p><p class="info-slot">n° posti rimanenti</p></div>' +
 			'<div class="slot"><p>9:00 9:30</p><p class="info-slot">n° posti rimanenti</p></div>' +
